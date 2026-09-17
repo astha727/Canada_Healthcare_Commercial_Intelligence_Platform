@@ -1,0 +1,34 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment / secrets
+.env
+.env.*
+
+# Local AI / model files
+*.gguf
+
+# Temporary files
+*.tmp
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
