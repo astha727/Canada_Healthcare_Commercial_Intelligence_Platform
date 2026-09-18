@@ -1,0 +1,287 @@
+Condition,Geography,Earliest_Year,Latest_Year,Earliest_Prevalence,Latest_Prevalence,Years_Observed,Prevalence_Change,Trend_Direction
+Acute myocardial infarction,Alberta,2000,2023,1.03,1.93,24,0.8999999999999999,Increasing
+Acute myocardial infarction,British Columbia,2000,2023,1.1,1.79,24,0.69,Increasing
+Acute myocardial infarction,Manitoba,2000,2023,1.12,2.33,24,1.21,Increasing
+Acute myocardial infarction,New Brunswick,2000,2023,1.71,2.93,24,1.2200000000000002,Increasing
+Acute myocardial infarction,Newfoundland and Labrador,2000,2023,2.75,2.96,24,0.20999999999999996,Increasing
+Acute myocardial infarction,Northwest Territories,2000,2023,0.99,2.36,24,1.3699999999999999,Increasing
+Acute myocardial infarction,Nova Scotia,2000,2023,1.5,2.7,24,1.2000000000000002,Increasing
+Acute myocardial infarction,Nunavut,2000,2023,0.75,1.99,24,1.24,Increasing
+Acute myocardial infarction,Ontario,2000,2023,1.43,2.0,24,0.5700000000000001,Increasing
+Acute myocardial infarction,Prince Edward Island,2000,2023,1.5,2.64,24,1.1400000000000001,Increasing
+Acute myocardial infarction,Quebec,2000,2023,1.34,2.63,24,1.2899999999999998,Increasing
+Acute myocardial infarction,Saskatchewan,2000,2023,1.4,2.16,24,0.7600000000000002,Increasing
+Acute myocardial infarction,Yukon,2000,2023,1.19,2.19,24,1.0,Increasing
+Arthritis,Alberta,2000,2023,9.05,8.39,24,-0.6600000000000001,Decreasing
+Arthritis,British Columbia,2000,2023,7.04,7.02,24,-0.020000000000000462,Decreasing
+Arthritis,Manitoba,2000,2023,9.23,8.89,24,-0.33999999999999986,Decreasing
+Arthritis,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Arthritis,Newfoundland and Labrador,2000,2023,7.89,7.65,24,-0.23999999999999932,Decreasing
+Arthritis,Northwest Territories,2000,2023,11.69,4.97,24,-6.72,Decreasing
+Arthritis,Nova Scotia,2000,2023,8.64,5.4,24,-3.24,Decreasing
+Arthritis,Nunavut,2000,2023,16.99,3.16,24,-13.829999999999998,Decreasing
+Arthritis,Ontario,2000,2023,8.62,6.22,24,-2.3999999999999995,Decreasing
+Arthritis,Prince Edward Island,2000,2023,8.04,6.62,24,-1.419999999999999,Decreasing
+Arthritis,Quebec,2000,2023,6.35,4.11,24,-2.2399999999999993,Decreasing
+Arthritis,Saskatchewan,2000,2023,9.85,7.99,24,-1.8599999999999994,Decreasing
+Arthritis,Yukon,2000,2023,6.53,7.91,24,1.38,Increasing
+Asthma,Alberta,2000,2023,6.59,10.54,24,3.9499999999999993,Increasing
+Asthma,British Columbia,2000,2023,5.25,9.8,24,4.550000000000001,Increasing
+Asthma,Manitoba,2000,2023,6.27,13.16,24,6.890000000000001,Increasing
+Asthma,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Asthma,Newfoundland and Labrador,2000,2023,8.44,11.55,24,3.110000000000001,Increasing
+Asthma,Northwest Territories,2000,2023,4.75,8.53,24,3.7799999999999994,Increasing
+Asthma,Nova Scotia,2000,2023,6.57,11.01,24,4.4399999999999995,Increasing
+Asthma,Nunavut,2000,2023,2.48,4.49,24,2.0100000000000002,Increasing
+Asthma,Ontario,2000,2023,7.44,13.08,24,5.64,Increasing
+Asthma,Prince Edward Island,2000,2023,6.98,10.71,24,3.7300000000000004,Increasing
+Asthma,Quebec,2000,2023,5.77,11.42,24,5.65,Increasing
+Asthma,Saskatchewan,2000,2023,6.01,11.28,24,5.27,Increasing
+Asthma,Yukon,2000,2023,6.49,7.6,24,1.1099999999999994,Increasing
+Autism,Alberta,2000,2023,0.18,1.79,24,1.61,Increasing
+Autism,British Columbia,2000,2023,0.11,2.93,24,2.8200000000000003,Increasing
+Autism,Manitoba,2000,2023,0.2,1.5,24,1.3,Increasing
+Autism,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Autism,Newfoundland and Labrador,2000,2023,,,24,,Evidence unavailable
+Autism,Northwest Territories,2000,2023,0.19,1.71,24,1.52,Increasing
+Autism,Nova Scotia,2000,2023,0.17,1.88,24,1.71,Increasing
+Autism,Nunavut,2000,2023,,,24,,Evidence unavailable
+Autism,Ontario,2000,2023,0.16,2.65,24,2.4899999999999998,Increasing
+Autism,Prince Edward Island,2000,2023,0.23,2.95,24,2.72,Increasing
+Autism,Quebec,2000,2023,0.1,1.76,24,1.66,Increasing
+Autism,Saskatchewan,2000,2023,0.06,1.32,24,1.26,Increasing
+Autism,Yukon,2000,2023,0.13,1.44,24,1.31,Increasing
+Chronic obstructive pulmonary disease,Alberta,2000,2023,7.36,9.14,24,1.7800000000000002,Increasing
+Chronic obstructive pulmonary disease,British Columbia,2000,2023,5.69,9.57,24,3.88,Increasing
+Chronic obstructive pulmonary disease,Manitoba,2000,2023,8.76,10.74,24,1.9800000000000004,Increasing
+Chronic obstructive pulmonary disease,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Chronic obstructive pulmonary disease,Newfoundland and Labrador,2000,2023,9.47,10.41,24,0.9399999999999995,Increasing
+Chronic obstructive pulmonary disease,Northwest Territories,2000,2023,12.41,12.42,24,0.009999999999999787,Increasing
+Chronic obstructive pulmonary disease,Nova Scotia,2000,2023,9.98,10.95,24,0.9699999999999989,Increasing
+Chronic obstructive pulmonary disease,Nunavut,2000,2023,25.28,20.53,24,-4.75,Decreasing
+Chronic obstructive pulmonary disease,Ontario,2000,2023,7.8,9.54,24,1.7399999999999993,Increasing
+Chronic obstructive pulmonary disease,Prince Edward Island,2000,2023,6.07,10.18,24,4.109999999999999,Increasing
+Chronic obstructive pulmonary disease,Quebec,2000,2023,8.68,8.98,24,0.3000000000000007,Increasing
+Chronic obstructive pulmonary disease,Saskatchewan,2000,2023,6.58,10.43,24,3.8499999999999996,Increasing
+Chronic obstructive pulmonary disease,Yukon,2000,2023,9.6,9.77,24,0.16999999999999993,Increasing
+"Dementia, including Alzheimer disease",Alberta,2002,2023,5.9,5.74,22,-0.16000000000000014,Decreasing
+"Dementia, including Alzheimer disease",British Columbia,2002,2023,4.37,5.55,22,1.1799999999999997,Increasing
+"Dementia, including Alzheimer disease",Manitoba,2002,2023,4.22,5.57,22,1.3500000000000005,Increasing
+"Dementia, including Alzheimer disease",New Brunswick,2002,2023,,,22,,Evidence unavailable
+"Dementia, including Alzheimer disease",Newfoundland and Labrador,2002,2023,3.45,4.13,22,0.6799999999999997,Increasing
+"Dementia, including Alzheimer disease",Northwest Territories,2002,2023,3.54,4.82,22,1.2800000000000002,Increasing
+"Dementia, including Alzheimer disease",Nova Scotia,2002,2023,3.75,5.04,22,1.29,Increasing
+"Dementia, including Alzheimer disease",Nunavut,2002,2023,1.11,2.86,22,1.7499999999999998,Increasing
+"Dementia, including Alzheimer disease",Ontario,2002,2023,5.61,5.99,22,0.3799999999999999,Increasing
+"Dementia, including Alzheimer disease",Prince Edward Island,2002,2023,3.53,5.18,22,1.65,Increasing
+"Dementia, including Alzheimer disease",Quebec,2002,2023,4.68,5.84,22,1.1600000000000001,Increasing
+"Dementia, including Alzheimer disease",Saskatchewan,2002,2023,4.88,4.67,22,-0.20999999999999996,Decreasing
+"Dementia, including Alzheimer disease",Yukon,2002,2023,4.35,5.6,22,1.25,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Alberta,2000,2023,4.85,9.31,24,4.460000000000001,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",British Columbia,2000,2023,4.87,9.27,24,4.3999999999999995,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Manitoba,2000,2023,5.63,11.12,24,5.489999999999999,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",New Brunswick,2000,2023,,,24,,Evidence unavailable
+"Diabetes mellitus (types combined), excluding gestational diabetes",Newfoundland and Labrador,2000,2023,9.01,10.2,24,1.1899999999999995,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Northwest Territories,2000,2023,4.92,10.28,24,5.359999999999999,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Nova Scotia,2000,2023,6.08,9.01,24,2.9299999999999997,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Nunavut,2000,2023,4.64,7.77,24,3.13,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Ontario,2000,2023,5.66,10.35,24,4.6899999999999995,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Prince Edward Island,2000,2023,5.4,8.58,24,3.1799999999999997,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Quebec,2000,2023,4.95,7.54,24,2.59,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Saskatchewan,2000,2023,5.12,9.71,24,4.590000000000001,Increasing
+"Diabetes mellitus (types combined), excluding gestational diabetes",Yukon,2000,2023,6.43,7.83,24,1.4000000000000004,Increasing
+Epilepsy,Alberta,2005,2023,0.68,0.93,19,0.25,Increasing
+Epilepsy,British Columbia,2005,2023,0.59,0.94,19,0.35,Increasing
+Epilepsy,Manitoba,2005,2023,0.51,0.87,19,0.36,Increasing
+Epilepsy,New Brunswick,2005,2023,,,19,,Evidence unavailable
+Epilepsy,Newfoundland and Labrador,2005,2023,0.83,1.13,19,0.29999999999999993,Increasing
+Epilepsy,Northwest Territories,2005,2023,0.84,1.07,19,0.2300000000000001,Increasing
+Epilepsy,Nova Scotia,2005,2023,0.53,0.73,19,0.19999999999999996,Increasing
+Epilepsy,Nunavut,2005,2023,1.2,1.91,19,0.71,Increasing
+Epilepsy,Ontario,2005,2023,0.65,1.02,19,0.37,Increasing
+Epilepsy,Prince Edward Island,2005,2023,0.61,0.82,19,0.20999999999999996,Increasing
+Epilepsy,Quebec,2005,2023,,,19,,Evidence unavailable
+Epilepsy,Saskatchewan,2005,2023,0.72,0.86,19,0.14,Increasing
+Epilepsy,Yukon,2005,2023,0.47,0.81,19,0.3400000000000001,Increasing
+Heart failure,Alberta,2000,2023,4.59,3.91,24,-0.6799999999999997,Decreasing
+Heart failure,British Columbia,2000,2023,3.47,4.24,24,0.77,Increasing
+Heart failure,Manitoba,2000,2023,4.66,4.13,24,-0.5300000000000002,Decreasing
+Heart failure,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Heart failure,Newfoundland and Labrador,2000,2023,5.67,3.81,24,-1.8599999999999999,Decreasing
+Heart failure,Northwest Territories,2000,2023,4.71,4.02,24,-0.6900000000000004,Decreasing
+Heart failure,Nova Scotia,2000,2023,3.64,2.95,24,-0.69,Decreasing
+Heart failure,Nunavut,2000,2023,6.51,6.52,24,0.009999999999999787,Increasing
+Heart failure,Ontario,2000,2023,3.99,3.64,24,-0.3500000000000001,Decreasing
+Heart failure,Prince Edward Island,2000,2023,3.61,3.08,24,-0.5299999999999998,Decreasing
+Heart failure,Quebec,2000,2023,3.57,3.63,24,0.06000000000000005,Increasing
+Heart failure,Saskatchewan,2000,2023,4.71,3.7,24,-1.0099999999999998,Decreasing
+Heart failure,Yukon,2000,2023,3.54,4.28,24,0.7400000000000002,Increasing
+Hypertension,Alberta,2000,2023,20.07,26.42,24,6.350000000000001,Increasing
+Hypertension,British Columbia,2000,2023,17.77,24.15,24,6.379999999999999,Increasing
+Hypertension,Manitoba,2000,2023,20.29,31.23,24,10.940000000000001,Increasing
+Hypertension,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Hypertension,Newfoundland and Labrador,2000,2023,32.7,31.05,24,-1.6500000000000021,Decreasing
+Hypertension,Northwest Territories,2000,2023,16.74,23.88,24,7.140000000000001,Increasing
+Hypertension,Nova Scotia,2000,2023,23.93,26.84,24,2.91,Increasing
+Hypertension,Nunavut,2000,2023,23.82,24.16,24,0.33999999999999986,Increasing
+Hypertension,Ontario,2000,2023,20.68,25.08,24,4.399999999999999,Increasing
+Hypertension,Prince Edward Island,2000,2023,21.55,25.5,24,3.9499999999999993,Increasing
+Hypertension,Quebec,2000,2023,18.56,20.65,24,2.09,Increasing
+Hypertension,Saskatchewan,2000,2023,19.79,27.33,24,7.539999999999999,Increasing
+Hypertension,Yukon,2000,2023,23.18,24.31,24,1.129999999999999,Increasing
+Ischemic heart disease,Alberta,2000,2023,7.07,8.07,24,1.0,Increasing
+Ischemic heart disease,British Columbia,2000,2023,6.41,7.97,24,1.5599999999999996,Increasing
+Ischemic heart disease,Manitoba,2000,2023,6.91,6.39,24,-0.5200000000000005,Decreasing
+Ischemic heart disease,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Ischemic heart disease,Newfoundland and Labrador,2000,2023,9.7,7.59,24,-2.1099999999999994,Decreasing
+Ischemic heart disease,Northwest Territories,2000,2023,5.52,6.8,24,1.2800000000000002,Increasing
+Ischemic heart disease,Nova Scotia,2000,2023,8.43,6.66,24,-1.7699999999999996,Decreasing
+Ischemic heart disease,Nunavut,2000,2023,4.66,6.5,24,1.8399999999999999,Increasing
+Ischemic heart disease,Ontario,2000,2023,8.95,7.94,24,-1.009999999999999,Decreasing
+Ischemic heart disease,Prince Edward Island,2000,2023,7.13,5.97,24,-1.1600000000000001,Decreasing
+Ischemic heart disease,Quebec,2000,2023,8.45,8.01,24,-0.4399999999999995,Decreasing
+Ischemic heart disease,Saskatchewan,2000,2023,7.54,7.23,24,-0.3099999999999996,Decreasing
+Ischemic heart disease,Yukon,2000,2023,4.44,4.95,24,0.5099999999999998,Increasing
+Juvenile idiopathic arthritis,Alberta,2000,2023,0.04,0.07,24,0.030000000000000006,Increasing
+Juvenile idiopathic arthritis,British Columbia,2000,2023,0.04,0.07,24,0.030000000000000006,Increasing
+Juvenile idiopathic arthritis,Manitoba,2000,2023,0.09,0.09,24,0.0,No change
+Juvenile idiopathic arthritis,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Juvenile idiopathic arthritis,Newfoundland and Labrador,2000,2023,,,24,,Evidence unavailable
+Juvenile idiopathic arthritis,Northwest Territories,2000,2023,0.1,0.11,24,0.009999999999999995,Increasing
+Juvenile idiopathic arthritis,Nova Scotia,2000,2023,0.08,0.13,24,0.05,Increasing
+Juvenile idiopathic arthritis,Nunavut,2000,2023,0.1,0.15,24,0.04999999999999999,Increasing
+Juvenile idiopathic arthritis,Ontario,2000,2023,0.07,0.1,24,0.03,Increasing
+Juvenile idiopathic arthritis,Prince Edward Island,2000,2023,0.1,0.09,24,-0.010000000000000009,Decreasing
+Juvenile idiopathic arthritis,Quebec,2000,2023,0.05,0.11,24,0.06,Increasing
+Juvenile idiopathic arthritis,Saskatchewan,2000,2023,0.05,0.08,24,0.03,Increasing
+Juvenile idiopathic arthritis,Yukon,2000,2023,,,24,,Evidence unavailable
+Multiple sclerosis,Alberta,2003,2023,0.24,0.33,21,0.09000000000000002,Increasing
+Multiple sclerosis,British Columbia,2003,2023,0.17,0.28,21,0.11000000000000001,Increasing
+Multiple sclerosis,Manitoba,2003,2023,0.23,0.31,21,0.07999999999999999,Increasing
+Multiple sclerosis,New Brunswick,2003,2023,,,21,,Evidence unavailable
+Multiple sclerosis,Newfoundland and Labrador,2003,2023,0.12,0.19,21,0.07,Increasing
+Multiple sclerosis,Northwest Territories,2003,2023,0.09,0.22,21,0.13,Increasing
+Multiple sclerosis,Nova Scotia,2003,2023,0.24,0.34,21,0.10000000000000003,Increasing
+Multiple sclerosis,Nunavut,2003,2023,0.05,0.07,21,0.020000000000000004,Increasing
+Multiple sclerosis,Ontario,2003,2023,0.17,0.28,21,0.11000000000000001,Increasing
+Multiple sclerosis,Prince Edward Island,2003,2023,0.22,0.3,21,0.07999999999999999,Increasing
+Multiple sclerosis,Quebec,2003,2023,,,21,,Evidence unavailable
+Multiple sclerosis,Saskatchewan,2003,2023,0.3,0.37,21,0.07,Increasing
+Multiple sclerosis,Yukon,2003,2023,,,21,,Evidence unavailable
+Osteoarthritis,Alberta,2007,2023,14.13,15.33,17,1.1999999999999993,Increasing
+Osteoarthritis,British Columbia,2007,2023,10.88,12.73,17,1.8499999999999996,Increasing
+Osteoarthritis,Manitoba,2007,2023,12.94,14.92,17,1.9800000000000004,Increasing
+Osteoarthritis,New Brunswick,2007,2023,,,17,,Evidence unavailable
+Osteoarthritis,Newfoundland and Labrador,2007,2023,10.99,16.02,17,5.029999999999999,Increasing
+Osteoarthritis,Northwest Territories,2007,2023,14.11,13.18,17,-0.9299999999999997,Decreasing
+Osteoarthritis,Nova Scotia,2007,2023,12.64,12.01,17,-0.6300000000000008,Decreasing
+Osteoarthritis,Nunavut,2007,2023,11.0,12.4,17,1.4000000000000004,Increasing
+Osteoarthritis,Ontario,2007,2023,15.66,15.16,17,-0.5,Decreasing
+Osteoarthritis,Prince Edward Island,2007,2023,12.62,14.37,17,1.75,Increasing
+Osteoarthritis,Quebec,2007,2023,9.94,9.94,17,0.0,No change
+Osteoarthritis,Saskatchewan,2007,2023,12.24,14.32,17,2.08,Increasing
+Osteoarthritis,Yukon,2007,2023,7.16,12.63,17,5.470000000000001,Increasing
+Osteoporosis,Alberta,2000,2023,9.78,14.45,24,4.67,Increasing
+Osteoporosis,British Columbia,2000,2023,4.0,10.12,24,6.119999999999999,Increasing
+Osteoporosis,Manitoba,2000,2023,5.21,9.52,24,4.31,Increasing
+Osteoporosis,New Brunswick,2000,2023,,,24,,Evidence unavailable
+Osteoporosis,Newfoundland and Labrador,2000,2023,6.25,8.14,24,1.8900000000000006,Increasing
+Osteoporosis,Northwest Territories,2000,2023,7.44,12.83,24,5.39,Increasing
+Osteoporosis,Nova Scotia,2000,2023,4.22,8.02,24,3.8,Increasing
+Osteoporosis,Nunavut,2000,2023,4.83,4.96,24,0.1299999999999999,Increasing
+Osteoporosis,Ontario,2000,2023,7.3,11.74,24,4.44,Increasing
+Osteoporosis,Prince Edward Island,2000,2023,2.5,8.4,24,5.9,Increasing
+Osteoporosis,Quebec,2000,2023,7.15,11.8,24,4.65,Increasing
+Osteoporosis,Saskatchewan,2000,2023,5.82,11.22,24,5.4,Increasing
+Osteoporosis,Yukon,2000,2023,5.06,6.27,24,1.21,Increasing
+"Parkinsonism, including Parkinson disease",Alberta,2004,2023,0.43,0.49,20,0.06,Increasing
+"Parkinsonism, including Parkinson disease",British Columbia,2004,2023,0.44,0.51,20,0.07,Increasing
+"Parkinsonism, including Parkinson disease",Manitoba,2004,2023,0.52,0.58,20,0.05999999999999994,Increasing
+"Parkinsonism, including Parkinson disease",New Brunswick,2004,2023,,,20,,Evidence unavailable
+"Parkinsonism, including Parkinson disease",Newfoundland and Labrador,2004,2023,0.31,0.35,20,0.03999999999999998,Increasing
+"Parkinsonism, including Parkinson disease",Northwest Territories,2004,2023,0.47,0.28,20,-0.18999999999999995,Decreasing
+"Parkinsonism, including Parkinson disease",Nova Scotia,2004,2023,0.38,0.35,20,-0.030000000000000027,Decreasing
+"Parkinsonism, including Parkinson disease",Nunavut,2004,2023,0.38,0.31,20,-0.07,Decreasing
+"Parkinsonism, including Parkinson disease",Ontario,2004,2023,0.5,0.56,20,0.06000000000000005,Increasing
+"Parkinsonism, including Parkinson disease",Prince Edward Island,2004,2023,0.48,0.36,20,-0.12,Decreasing
+"Parkinsonism, including Parkinson disease",Quebec,2004,2023,0.41,0.45,20,0.040000000000000036,Increasing
+"Parkinsonism, including Parkinson disease",Saskatchewan,2004,2023,0.51,0.45,20,-0.06,Decreasing
+"Parkinsonism, including Parkinson disease",Yukon,2004,2023,,,20,,Evidence unavailable
+Rheumatoid arthritis,Alberta,2007,2023,1.35,1.29,17,-0.06000000000000005,Decreasing
+Rheumatoid arthritis,British Columbia,2007,2023,1.32,1.58,17,0.26,Increasing
+Rheumatoid arthritis,Manitoba,2007,2023,0.9,1.2,17,0.29999999999999993,Increasing
+Rheumatoid arthritis,New Brunswick,2007,2023,,,17,,Evidence unavailable
+Rheumatoid arthritis,Newfoundland and Labrador,2007,2023,,,17,,Evidence unavailable
+Rheumatoid arthritis,Northwest Territories,2007,2023,2.89,1.89,17,-1.0000000000000002,Decreasing
+Rheumatoid arthritis,Nova Scotia,2007,2023,1.11,1.01,17,-0.10000000000000009,Decreasing
+Rheumatoid arthritis,Nunavut,2007,2023,0.88,1.67,17,0.7899999999999999,Increasing
+Rheumatoid arthritis,Ontario,2007,2023,1.26,1.43,17,0.16999999999999993,Increasing
+Rheumatoid arthritis,Prince Edward Island,2007,2023,0.84,0.85,17,0.010000000000000009,Increasing
+Rheumatoid arthritis,Quebec,2007,2023,0.8,1.09,17,0.29000000000000004,Increasing
+Rheumatoid arthritis,Saskatchewan,2007,2023,0.84,1.14,17,0.29999999999999993,Increasing
+Rheumatoid arthritis,Yukon,2007,2023,1.53,1.72,17,0.18999999999999995,Increasing
+Schizophrenia,Alberta,2002,2023,0.59,0.95,22,0.36,Increasing
+Schizophrenia,British Columbia,2002,2023,0.65,1.09,22,0.44000000000000006,Increasing
+Schizophrenia,Manitoba,2002,2023,0.64,0.86,22,0.21999999999999997,Increasing
+Schizophrenia,New Brunswick,2002,2023,,,22,,Evidence unavailable
+Schizophrenia,Newfoundland and Labrador,2002,2023,0.53,0.55,22,0.020000000000000018,Increasing
+Schizophrenia,Northwest Territories,2002,2023,0.39,0.88,22,0.49,Increasing
+Schizophrenia,Nova Scotia,2002,2023,0.52,0.59,22,0.06999999999999995,Increasing
+Schizophrenia,Nunavut,2002,2023,1.17,2.15,22,0.98,Increasing
+Schizophrenia,Ontario,2002,2023,0.59,1.04,22,0.45000000000000007,Increasing
+Schizophrenia,Prince Edward Island,2002,2023,0.51,0.68,22,0.17000000000000004,Increasing
+Schizophrenia,Quebec,2002,2023,0.75,1.01,22,0.26,Increasing
+Schizophrenia,Saskatchewan,2002,2023,0.53,0.77,22,0.24,Increasing
+Schizophrenia,Yukon,2002,2023,0.38,0.54,22,0.16000000000000003,Increasing
+Stroke,Alberta,2003,2023,2.41,2.68,21,0.27,Increasing
+Stroke,British Columbia,2003,2023,2.21,2.91,21,0.7000000000000002,Increasing
+Stroke,Manitoba,2003,2023,2.86,3.06,21,0.20000000000000018,Increasing
+Stroke,New Brunswick,2003,2023,,,21,,Evidence unavailable
+Stroke,Newfoundland and Labrador,2003,2023,2.38,2.33,21,-0.04999999999999982,Decreasing
+Stroke,Northwest Territories,2003,2023,2.32,3.09,21,0.77,Increasing
+Stroke,Nova Scotia,2003,2023,2.23,2.01,21,-0.2200000000000002,Decreasing
+Stroke,Nunavut,2003,2023,1.85,3.91,21,2.06,Increasing
+Stroke,Ontario,2003,2023,2.88,3.06,21,0.18000000000000016,Increasing
+Stroke,Prince Edward Island,2003,2023,3.14,3.33,21,0.18999999999999995,Increasing
+Stroke,Quebec,2003,2023,2.5,2.7,21,0.20000000000000018,Increasing
+Stroke,Saskatchewan,2003,2023,3.04,2.92,21,-0.1200000000000001,Decreasing
+Stroke,Yukon,2003,2023,1.65,2.29,21,0.6400000000000001,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Alberta,2000,2023,15.59,17.02,24,1.4299999999999997,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),British Columbia,2000,2023,15.95,16.63,24,0.6799999999999997,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Manitoba,2000,2023,13.44,19.76,24,6.320000000000002,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),New Brunswick,2000,2023,,,24,,Evidence unavailable
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Newfoundland and Labrador,2000,2023,10.17,17.69,24,7.520000000000001,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Northwest Territories,2000,2023,12.75,17.39,24,4.640000000000001,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Nova Scotia,2000,2023,14.81,17.07,24,2.26,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Nunavut,2000,2023,10.94,3.41,24,-7.529999999999999,Decreasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Ontario,2000,2023,16.53,15.54,24,-0.990000000000002,Decreasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Prince Edward Island,2000,2023,13.79,18.15,24,4.359999999999999,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Quebec,2000,2023,11.36,10.02,24,-1.3399999999999999,Decreasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Saskatchewan,2000,2023,11.6,15.04,24,3.4399999999999995,Increasing
+Use of health services for mental illness and alcohol/drug induced disorders (annual),Yukon,2000,2023,14.59,19.47,24,4.879999999999999,Increasing
+Use of health services for mood and anxiety disorders (annual),Alberta,2000,2023,11.91,11.09,24,-0.8200000000000003,Decreasing
+Use of health services for mood and anxiety disorders (annual),British Columbia,2000,2023,11.98,10.66,24,-1.3200000000000003,Decreasing
+Use of health services for mood and anxiety disorders (annual),Manitoba,2000,2023,10.03,14.74,24,4.710000000000001,Increasing
+Use of health services for mood and anxiety disorders (annual),New Brunswick,2000,2023,,,24,,Evidence unavailable
+Use of health services for mood and anxiety disorders (annual),Newfoundland and Labrador,2000,2023,6.78,11.53,24,4.749999999999999,Increasing
+Use of health services for mood and anxiety disorders (annual),Northwest Territories,2000,2023,7.65,9.27,24,1.6199999999999992,Increasing
+Use of health services for mood and anxiety disorders (annual),Nova Scotia,2000,2023,11.14,11.48,24,0.33999999999999986,Increasing
+Use of health services for mood and anxiety disorders (annual),Nunavut,2000,2023,7.21,1.18,24,-6.03,Decreasing
+Use of health services for mood and anxiety disorders (annual),Ontario,2000,2023,12.94,10.25,24,-2.6899999999999995,Decreasing
+Use of health services for mood and anxiety disorders (annual),Prince Edward Island,2000,2023,9.66,11.38,24,1.7200000000000006,Increasing
+Use of health services for mood and anxiety disorders (annual),Quebec,2000,2023,8.28,5.85,24,-2.4299999999999997,Decreasing
+Use of health services for mood and anxiety disorders (annual),Saskatchewan,2000,2023,8.46,10.04,24,1.5799999999999983,Increasing
+Use of health services for mood and anxiety disorders (annual),Yukon,2000,2023,10.11,11.8,24,1.6900000000000013,Increasing
+Use of health services for schizophrenia (annual),Alberta,2000,2023,0.37,0.46,24,0.09000000000000002,Increasing
+Use of health services for schizophrenia (annual),British Columbia,2000,2023,0.34,0.48,24,0.13999999999999996,Increasing
+Use of health services for schizophrenia (annual),Manitoba,2000,2023,0.38,0.4,24,0.020000000000000018,Increasing
+Use of health services for schizophrenia (annual),New Brunswick,2000,2023,,,24,,Evidence unavailable
+Use of health services for schizophrenia (annual),Newfoundland and Labrador,2000,2023,0.19,0.11,24,-0.08,Decreasing
+Use of health services for schizophrenia (annual),Northwest Territories,2000,2023,0.27,0.32,24,0.04999999999999999,Increasing
+Use of health services for schizophrenia (annual),Nova Scotia,2000,2023,0.23,0.15,24,-0.08000000000000002,Decreasing
+Use of health services for schizophrenia (annual),Nunavut,2000,2023,1.62,0.33,24,-1.29,Decreasing
+Use of health services for schizophrenia (annual),Ontario,2000,2023,0.34,0.42,24,0.07999999999999996,Increasing
+Use of health services for schizophrenia (annual),Prince Edward Island,2000,2023,0.28,0.31,24,0.02999999999999997,Increasing
+Use of health services for schizophrenia (annual),Quebec,2000,2023,0.43,0.28,24,-0.14999999999999997,Decreasing
+Use of health services for schizophrenia (annual),Saskatchewan,2000,2023,0.28,0.29,24,0.009999999999999953,Increasing
+Use of health services for schizophrenia (annual),Yukon,2000,2023,0.23,0.28,24,0.05000000000000002,Increasing
