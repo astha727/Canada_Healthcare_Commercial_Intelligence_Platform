@@ -1,0 +1,2010 @@
+HCP_ID,HCP_Name,Province,Specialty,Facility_ID,HCP_Type,Practice_Setting,Years_in_Practice
+HCP_0001,Hassan Rath,Newfoundland and Labrador,Internal Medicine,FAC_NL_ACAD_001,Physician,Academic/Teaching Hospital,33
+HCP_0002,Crissy O'Connell,Newfoundland and Labrador,Internal Medicine,FAC_NL_HOSP_001,Physician,Hospital,6
+HCP_0003,Alia Adams,Newfoundland and Labrador,Internal Medicine,FAC_NL_CLIN_001,Physician,Community Clinic,8
+HCP_0004,Lavinia Douglas,Newfoundland and Labrador,Internal Medicine,FAC_NL_CLIN_001,Physician,Community Clinic,22
+HCP_0005,Carmelina Wisozk,Newfoundland and Labrador,Internal Medicine,FAC_NL_ACAD_001,Physician,Academic/Teaching Hospital,22
+HCP_0006,Noe Gutkowski,Newfoundland and Labrador,Cardiology,FAC_NL_HOSP_001,Physician,Hospital,28
+HCP_0007,Malinda Cassin,Newfoundland and Labrador,Gastroenterology,FAC_NL_CLIN_001,Physician,Community Clinic,33
+HCP_0008,Augustine Fisher,Newfoundland and Labrador,Neurology,FAC_NL_HOSP_001,Physician,Hospital,29
+HCP_0009,Donita Ward,Newfoundland and Labrador,Psychiatry,FAC_NL_ACAD_001,Physician,Academic/Teaching Hospital,5
+HCP_0010,Veda Pfeffer,Newfoundland and Labrador,Psychiatry,FAC_NL_PRIV_001,Physician,Private Practice,11
+HCP_0011,Buster Ferry,Newfoundland and Labrador,Psychiatry,FAC_NL_CLIN_001,Physician,Community Clinic,32
+HCP_0012,Thandi Mokoena,Newfoundland and Labrador,Psychiatry,FAC_NL_CLIN_001,Physician,Community Clinic,20
+HCP_0013,Joan Trantow,Newfoundland and Labrador,Psychiatry,FAC_NL_HOSP_001,Physician,Hospital,31
+HCP_0014,Yasmine Boehm,Newfoundland and Labrador,Psychiatry,FAC_NL_ACAD_001,Physician,Academic/Teaching Hospital,20
+HCP_0015,Thad Osinski,Newfoundland and Labrador,Pediatrics,FAC_NL_PRIV_002,Physician,Private Practice,2
+HCP_0016,Dena Rau,Newfoundland and Labrador,Pediatrics,FAC_NL_CLIN_002,Physician,Community Clinic,17
+HCP_0017,Mario Guerra,Newfoundland and Labrador,Pediatrics,FAC_NL_CLIN_002,Physician,Community Clinic,29
+HCP_0018,Mohammed Parisian,Newfoundland and Labrador,Pediatrics,FAC_NL_PRIV_001,Physician,Private Practice,23
+HCP_0019,Albertina Skiles,Newfoundland and Labrador,Dermatology,FAC_NL_PRIV_001,Physician,Private Practice,5
+HCP_0020,Ezequiel Hoeger,Newfoundland and Labrador,General Surgery,FAC_NL_CLIN_001,Physician,Community Clinic,8
+HCP_0021,Tu Witting,Newfoundland and Labrador,General Surgery,FAC_NL_CLIN_002,Physician,Community Clinic,30
+HCP_0022,Pamala Collier,Newfoundland and Labrador,General Surgery,FAC_NL_PRIV_001,Physician,Private Practice,35
+HCP_0023,Kasi Hickle,Newfoundland and Labrador,General Surgery,FAC_NL_PRIV_002,Physician,Private Practice,27
+HCP_0024,Kavita Rao,Newfoundland and Labrador,General Surgery,FAC_NL_PRIV_001,Physician,Private Practice,4
+HCP_0025,Rosalind Kutch,Newfoundland and Labrador,Urology,FAC_NL_HOSP_001,Physician,Hospital,22
+HCP_0026,Darcey Miller,Newfoundland and Labrador,Orthopedic Surgery,FAC_NL_CLIN_002,Physician,Community Clinic,30
+HCP_0027,Lai Friesen,Newfoundland and Labrador,Orthopedic Surgery,FAC_NL_PRIV_001,Physician,Private Practice,23
+HCP_0028,Ines Weber,Newfoundland and Labrador,Ophthalmology,FAC_NL_ACAD_001,Physician,Academic/Teaching Hospital,21
+HCP_0029,Kathyrn Weimann,Newfoundland and Labrador,Obstetrics/Gynecology,FAC_NL_PRIV_001,Physician,Private Practice,17
+HCP_0030,Jackeline Schmitt,Newfoundland and Labrador,Obstetrics/Gynecology,FAC_NL_CLIN_002,Physician,Community Clinic,9
+HCP_0031,Ezequiel Hoeger,Newfoundland and Labrador,Obstetrics/Gynecology,FAC_NL_PRIV_001,Physician,Private Practice,10
+HCP_0032,Raye Wyman,Newfoundland and Labrador,Obstetrics/Gynecology,FAC_NL_HOSP_001,Physician,Hospital,27
+HCP_0033,Veda Pfeffer,Prince Edward Island,Internal Medicine,FAC_PE_HOSP_001,Physician,Hospital,3
+HCP_0034,Rory Kuvalis,Prince Edward Island,Psychiatry,FAC_PE_PRIV_001,Physician,Private Practice,3
+HCP_0035,Santina Klocko,Prince Edward Island,Pediatrics,FAC_PE_ACAD_001,Physician,Academic/Teaching Hospital,14
+HCP_0036,Mari Reynolds,Prince Edward Island,General Surgery,FAC_PE_ACAD_001,Physician,Academic/Teaching Hospital,28
+HCP_0037,Noe Gutkowski,Prince Edward Island,Orthopedic Surgery,FAC_PE_PRIV_001,Physician,Private Practice,23
+HCP_0038,Parker Grady,Prince Edward Island,Obstetrics/Gynecology,FAC_PE_HOSP_001,Physician,Hospital,21
+HCP_0039,Chere Greenfelder,Nova Scotia,Internal Medicine,FAC_NS_ACAD_002,Physician,Academic/Teaching Hospital,19
+HCP_0040,Darrel Lang,Nova Scotia,Internal Medicine,FAC_NS_CLIN_001,Physician,Community Clinic,4
+HCP_0041,Edie Howell,Nova Scotia,Internal Medicine,FAC_NS_CLIN_003,Physician,Community Clinic,12
+HCP_0042,Yasmine Boehm,Nova Scotia,Internal Medicine,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,3
+HCP_0043,Dahlia Renner,Nova Scotia,Internal Medicine,FAC_NS_PRIV_003,Physician,Private Practice,27
+HCP_0044,Aurelio Nicolas,Nova Scotia,Internal Medicine,FAC_NS_PRIV_003,Physician,Private Practice,27
+HCP_0045,Houston Osinski,Nova Scotia,Internal Medicine,FAC_NS_CLIN_001,Physician,Community Clinic,10
+HCP_0046,Hana Kobayashi,Nova Scotia,Cardiology,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,11
+HCP_0047,Curtis Hamill,Nova Scotia,Cardiology,FAC_NS_CLIN_001,Physician,Community Clinic,12
+HCP_0048,Katherina Frami,Nova Scotia,Cardiology,FAC_NS_PRIV_003,Physician,Private Practice,32
+HCP_0049,Indira Willms,Nova Scotia,Cardiology,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,18
+HCP_0050,Rosalind Kutch,Nova Scotia,Gastroenterology,FAC_NS_PRIV_001,Physician,Private Practice,27
+HCP_0051,Yasmine Boehm,Nova Scotia,Gastroenterology,FAC_NS_HOSP_002,Physician,Hospital,16
+HCP_0052,Rivka Sanford,Nova Scotia,Neurology,FAC_NS_CLIN_003,Physician,Community Clinic,25
+HCP_0053,Micheal Deckow,Nova Scotia,Neurology,FAC_NS_CLIN_002,Physician,Community Clinic,19
+HCP_0054,Corrina Pacocha,Nova Scotia,Psychiatry,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,10
+HCP_0055,Conchita Tejada,Nova Scotia,Psychiatry,FAC_NS_PRIV_001,Physician,Private Practice,31
+HCP_0056,Colby Schowalter,Nova Scotia,Psychiatry,FAC_NS_CLIN_001,Physician,Community Clinic,25
+HCP_0057,Kathyrn Weimann,Nova Scotia,Psychiatry,FAC_NS_PRIV_001,Physician,Private Practice,27
+HCP_0058,Lonna Dietrich,Nova Scotia,Psychiatry,FAC_NS_PRIV_001,Physician,Private Practice,34
+HCP_0059,Homero Zúñiga,Nova Scotia,Psychiatry,FAC_NS_CLIN_003,Physician,Community Clinic,9
+HCP_0060,Maximo Carter,Nova Scotia,Psychiatry,FAC_NS_CLIN_001,Physician,Community Clinic,4
+HCP_0061,Arjun Malhotra,Nova Scotia,Psychiatry,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,21
+HCP_0062,Homero Zúñiga,Nova Scotia,Psychiatry,FAC_NS_PRIV_003,Physician,Private Practice,12
+HCP_0063,Sharen McGlynn,Nova Scotia,Psychiatry,FAC_NS_HOSP_002,Physician,Hospital,16
+HCP_0064,Hana Kobayashi,Nova Scotia,Psychiatry,FAC_NS_PRIV_001,Physician,Private Practice,9
+HCP_0065,Deloris Zemlak,Nova Scotia,Psychiatry,FAC_NS_PRIV_002,Physician,Private Practice,14
+HCP_0066,Sergio Dooley,Nova Scotia,Psychiatry,FAC_NS_PRIV_003,Physician,Private Practice,14
+HCP_0067,Drew Kohler,Nova Scotia,Psychiatry,FAC_NS_PRIV_003,Physician,Private Practice,13
+HCP_0068,Pamala Collier,Nova Scotia,Psychiatry,FAC_NS_ACAD_002,Physician,Academic/Teaching Hospital,26
+HCP_0069,Jesus Quiroz,Nova Scotia,Pediatrics,FAC_NS_CLIN_003,Physician,Community Clinic,21
+HCP_0070,Don Denesik,Nova Scotia,Pediatrics,FAC_NS_CLIN_003,Physician,Community Clinic,17
+HCP_0071,Jeff Waters,Nova Scotia,Pediatrics,FAC_NS_HOSP_002,Physician,Hospital,4
+HCP_0072,Shaunte Bergstrom,Nova Scotia,Pediatrics,FAC_NS_PRIV_001,Physician,Private Practice,20
+HCP_0073,Suanne Douglas,Nova Scotia,Pediatrics,FAC_NS_CLIN_002,Physician,Community Clinic,7
+HCP_0074,Judith Johns,Nova Scotia,Pediatrics,FAC_NS_CLIN_002,Physician,Community Clinic,11
+HCP_0075,Dotty Considine,Nova Scotia,Pediatrics,FAC_NS_PRIV_002,Physician,Private Practice,15
+HCP_0076,Reyna Keeling,Nova Scotia,Dermatology,FAC_NS_CLIN_002,Physician,Community Clinic,5
+HCP_0077,Anton Gibson,Nova Scotia,Dermatology,FAC_NS_CLIN_002,Physician,Community Clinic,14
+HCP_0078,Raye Wyman,Nova Scotia,General Surgery,FAC_NS_CLIN_001,Physician,Community Clinic,10
+HCP_0079,Steven Greenfelder,Nova Scotia,General Surgery,FAC_NS_CLIN_001,Physician,Community Clinic,30
+HCP_0080,Gemma Effertz,Nova Scotia,General Surgery,FAC_NS_HOSP_001,Physician,Hospital,31
+HCP_0081,Rahul Menon,Nova Scotia,General Surgery,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,1
+HCP_0082,Lavinia Douglas,Nova Scotia,General Surgery,FAC_NS_HOSP_001,Physician,Hospital,22
+HCP_0083,Tressa Kovacek,Nova Scotia,Urology,FAC_NS_CLIN_001,Physician,Community Clinic,23
+HCP_0084,Brandon Gerhold,Nova Scotia,Urology,FAC_NS_PRIV_002,Physician,Private Practice,14
+HCP_0085,Darrel Lang,Nova Scotia,Orthopedic Surgery,FAC_NS_HOSP_002,Physician,Hospital,17
+HCP_0086,Dahlia Renner,Nova Scotia,Orthopedic Surgery,FAC_NS_PRIV_003,Physician,Private Practice,28
+HCP_0087,Oscar Mateo,Nova Scotia,Orthopedic Surgery,FAC_NS_PRIV_002,Physician,Private Practice,14
+HCP_0088,Armida Huel,Nova Scotia,Orthopedic Surgery,FAC_NS_PRIV_001,Physician,Private Practice,3
+HCP_0089,Alaine Gusikowski,Nova Scotia,Ophthalmology,FAC_NS_CLIN_003,Physician,Community Clinic,14
+HCP_0090,Dante Howell,Nova Scotia,Ophthalmology,FAC_NS_HOSP_001,Physician,Hospital,9
+HCP_0091,Lavinia Douglas,Nova Scotia,Ophthalmology,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,14
+HCP_0092,Marianela Anderson,Nova Scotia,Ophthalmology,FAC_NS_CLIN_001,Physician,Community Clinic,9
+HCP_0093,Anika Wisozk,Nova Scotia,Obstetrics/Gynecology,FAC_NS_ACAD_002,Physician,Academic/Teaching Hospital,6
+HCP_0094,Bart Jenkins,Nova Scotia,Obstetrics/Gynecology,FAC_NS_HOSP_001,Physician,Hospital,35
+HCP_0095,Aubrey Greenfelder,Nova Scotia,Obstetrics/Gynecology,FAC_NS_HOSP_002,Physician,Hospital,5
+HCP_0096,Homer Wiegand,Nova Scotia,Obstetrics/Gynecology,FAC_NS_ACAD_002,Physician,Academic/Teaching Hospital,25
+HCP_0097,Geraldo Kiehn,Nova Scotia,Obstetrics/Gynecology,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,26
+HCP_0098,Maximo Carter,Nova Scotia,Obstetrics/Gynecology,FAC_NS_ACAD_001,Physician,Academic/Teaching Hospital,22
+HCP_0099,Joleen Oberbrunner,New Brunswick,Internal Medicine,FAC_NB_ACAD_002,Physician,Academic/Teaching Hospital,32
+HCP_0100,Clint Goldner,New Brunswick,Internal Medicine,FAC_NB_HOSP_001,Physician,Hospital,1
+HCP_0101,Brandon Gerhold,New Brunswick,Internal Medicine,FAC_NB_ACAD_001,Physician,Academic/Teaching Hospital,11
+HCP_0102,Luke Rath,New Brunswick,Internal Medicine,FAC_NB_PRIV_001,Physician,Private Practice,7
+HCP_0103,Marianela Anderson,New Brunswick,Internal Medicine,FAC_NB_HOSP_001,Physician,Hospital,21
+HCP_0104,Suzette Monahan,New Brunswick,Cardiology,FAC_NB_HOSP_001,Physician,Hospital,23
+HCP_0105,Jeff Waters,New Brunswick,Cardiology,FAC_NB_ACAD_002,Physician,Academic/Teaching Hospital,32
+HCP_0106,Hildred Wunsch,New Brunswick,Cardiology,FAC_NB_CLIN_001,Physician,Community Clinic,14
+HCP_0107,Rosalind Kutch,New Brunswick,Gastroenterology,FAC_NB_ACAD_002,Physician,Academic/Teaching Hospital,9
+HCP_0108,Haywood Gleichner,New Brunswick,Neurology,FAC_NB_HOSP_001,Physician,Hospital,33
+HCP_0109,Don Denesik,New Brunswick,Neurology,FAC_NB_CLIN_001,Physician,Community Clinic,24
+HCP_0110,Palma Morar,New Brunswick,Psychiatry,FAC_NB_CLIN_002,Physician,Community Clinic,27
+HCP_0111,Chere Greenfelder,New Brunswick,Psychiatry,FAC_NB_CLIN_001,Physician,Community Clinic,16
+HCP_0112,Rosalind Kutch,New Brunswick,Psychiatry,FAC_NB_PRIV_001,Physician,Private Practice,16
+HCP_0113,Rory Kuvalis,New Brunswick,Psychiatry,FAC_NB_ACAD_002,Physician,Academic/Teaching Hospital,14
+HCP_0114,Bruno Smitham,New Brunswick,Psychiatry,FAC_NB_ACAD_002,Physician,Academic/Teaching Hospital,27
+HCP_0115,Shawnee Zieme,New Brunswick,Psychiatry,FAC_NB_PRIV_002,Physician,Private Practice,8
+HCP_0116,Haley Effertz,New Brunswick,Psychiatry,FAC_NB_HOSP_001,Physician,Hospital,35
+HCP_0117,Terry Wiegand,New Brunswick,Pediatrics,FAC_NB_ACAD_001,Physician,Academic/Teaching Hospital,7
+HCP_0118,Clint Goldner,New Brunswick,Pediatrics,FAC_NB_PRIV_002,Physician,Private Practice,17
+HCP_0119,Michell Friesen,New Brunswick,Pediatrics,FAC_NB_PRIV_002,Physician,Private Practice,12
+HCP_0120,Brittani Satterfield,New Brunswick,Pediatrics,FAC_NB_PRIV_002,Physician,Private Practice,23
+HCP_0121,Jackeline Schmitt,New Brunswick,Pediatrics,FAC_NB_ACAD_002,Physician,Academic/Teaching Hospital,24
+HCP_0122,Kurtis Schulist,New Brunswick,Dermatology,FAC_NB_ACAD_001,Physician,Academic/Teaching Hospital,33
+HCP_0123,Alia Adams,New Brunswick,General Surgery,FAC_NB_PRIV_002,Physician,Private Practice,28
+HCP_0124,Don Denesik,New Brunswick,General Surgery,FAC_NB_PRIV_002,Physician,Private Practice,9
+HCP_0125,Toi Kulas,New Brunswick,General Surgery,FAC_NB_PRIV_001,Physician,Private Practice,8
+HCP_0126,Haley Effertz,New Brunswick,General Surgery,FAC_NB_CLIN_001,Physician,Community Clinic,32
+HCP_0127,Jesus Quiroz,New Brunswick,Urology,FAC_NB_CLIN_001,Physician,Community Clinic,18
+HCP_0128,Edmundo Bauch,New Brunswick,Urology,FAC_NB_PRIV_001,Physician,Private Practice,4
+HCP_0129,Lenny Dare,New Brunswick,Orthopedic Surgery,FAC_NB_HOSP_001,Physician,Hospital,29
+HCP_0130,Roxanna Crist,New Brunswick,Orthopedic Surgery,FAC_NB_CLIN_002,Physician,Community Clinic,23
+HCP_0131,Haley Effertz,New Brunswick,Orthopedic Surgery,FAC_NB_PRIV_001,Physician,Private Practice,1
+HCP_0132,Rory Kuvalis,New Brunswick,Ophthalmology,FAC_NB_ACAD_001,Physician,Academic/Teaching Hospital,28
+HCP_0133,Hassan Rath,New Brunswick,Ophthalmology,FAC_NB_PRIV_001,Physician,Private Practice,22
+HCP_0134,Geralyn Mitchell,New Brunswick,Ophthalmology,FAC_NB_CLIN_002,Physician,Community Clinic,22
+HCP_0135,Cathi Gulgowski,New Brunswick,Obstetrics/Gynecology,FAC_NB_CLIN_002,Physician,Community Clinic,31
+HCP_0136,Myrl Eichmann,New Brunswick,Obstetrics/Gynecology,FAC_NB_PRIV_001,Physician,Private Practice,18
+HCP_0137,Raphael Connelly,New Brunswick,Obstetrics/Gynecology,FAC_NB_PRIV_002,Physician,Private Practice,17
+HCP_0138,Von Mraz,New Brunswick,Obstetrics/Gynecology,FAC_NB_HOSP_001,Physician,Hospital,22
+HCP_0139,Benita Boehm,New Brunswick,Obstetrics/Gynecology,FAC_NB_PRIV_001,Physician,Private Practice,7
+HCP_0140,Lavinia Douglas,Quebec,Internal Medicine,FAC_QC_CLIN_016,Physician,Community Clinic,6
+HCP_0141,Sipho Dlamini,Quebec,Internal Medicine,FAC_QC_PRIV_010,Physician,Private Practice,30
+HCP_0142,Quinton Klocko,Quebec,Internal Medicine,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,8
+HCP_0143,Chere Greenfelder,Quebec,Internal Medicine,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,18
+HCP_0144,Adela Chapa,Quebec,Internal Medicine,FAC_QC_PRIV_003,Physician,Private Practice,10
+HCP_0145,Sibusiso Ndlovu,Quebec,Internal Medicine,FAC_QC_CLIN_008,Physician,Community Clinic,9
+HCP_0146,Earle Rice,Quebec,Internal Medicine,FAC_QC_CLIN_007,Physician,Community Clinic,21
+HCP_0147,Terry Wiegand,Quebec,Internal Medicine,FAC_QC_HOSP_007,Physician,Hospital,29
+HCP_0148,Florinda Schimmel,Quebec,Internal Medicine,FAC_QC_ACAD_005,Physician,Academic/Teaching Hospital,16
+HCP_0149,Ines Weber,Quebec,Internal Medicine,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,5
+HCP_0150,Devora Sipes,Quebec,Internal Medicine,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,9
+HCP_0151,Toi Kulas,Quebec,Internal Medicine,FAC_QC_CLIN_010,Physician,Community Clinic,6
+HCP_0152,Reggie Mitchell,Quebec,Internal Medicine,FAC_QC_CLIN_015,Physician,Community Clinic,31
+HCP_0153,Priya Nair,Quebec,Internal Medicine,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,12
+HCP_0154,Paige Goodwin,Quebec,Internal Medicine,FAC_QC_PRIV_004,Physician,Private Practice,14
+HCP_0155,Carmelina Wisozk,Quebec,Internal Medicine,FAC_QC_PRIV_011,Physician,Private Practice,3
+HCP_0156,Haywood Gleichner,Quebec,Internal Medicine,FAC_QC_CLIN_013,Physician,Community Clinic,16
+HCP_0157,Mohammed Parisian,Quebec,Internal Medicine,FAC_QC_CLIN_002,Physician,Community Clinic,32
+HCP_0158,Geralyn Mitchell,Quebec,Internal Medicine,FAC_QC_PRIV_011,Physician,Private Practice,15
+HCP_0159,Shawnee Zieme,Quebec,Internal Medicine,FAC_QC_ACAD_006,Physician,Academic/Teaching Hospital,23
+HCP_0160,Dena Rau,Quebec,Internal Medicine,FAC_QC_CLIN_008,Physician,Community Clinic,7
+HCP_0161,Ayanda Mthembu,Quebec,Internal Medicine,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,6
+HCP_0162,Haywood Gleichner,Quebec,Internal Medicine,FAC_QC_HOSP_010,Physician,Hospital,26
+HCP_0163,Adela Chapa,Quebec,Internal Medicine,FAC_QC_CLIN_013,Physician,Community Clinic,3
+HCP_0164,Adela Chapa,Quebec,Internal Medicine,FAC_QC_ACAD_005,Physician,Academic/Teaching Hospital,16
+HCP_0165,Caroyln Hyatt,Quebec,Internal Medicine,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,12
+HCP_0166,Hae Ruecker,Quebec,Internal Medicine,FAC_QC_ACAD_007,Physician,Academic/Teaching Hospital,1
+HCP_0167,Rayford Wisozk,Quebec,Internal Medicine,FAC_QC_CLIN_004,Physician,Community Clinic,19
+HCP_0168,Edie Howell,Quebec,Internal Medicine,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,34
+HCP_0169,Felton Glover,Quebec,Internal Medicine,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,3
+HCP_0170,Phillip McCullough,Quebec,Internal Medicine,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,29
+HCP_0171,Vern Powlowski,Quebec,Internal Medicine,FAC_QC_HOSP_015,Physician,Hospital,19
+HCP_0172,Hassan Rath,Quebec,Internal Medicine,FAC_QC_PRIV_001,Physician,Private Practice,26
+HCP_0173,Crissy O'Connell,Quebec,Internal Medicine,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,4
+HCP_0174,Della Steuber,Quebec,Internal Medicine,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,31
+HCP_0175,Augustine Fisher,Quebec,Internal Medicine,FAC_QC_HOSP_007,Physician,Hospital,1
+HCP_0176,Suanne Douglas,Quebec,Internal Medicine,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,32
+HCP_0177,Thad Osinski,Quebec,Internal Medicine,FAC_QC_HOSP_003,Physician,Hospital,24
+HCP_0178,Tressa Kovacek,Quebec,Internal Medicine,FAC_QC_CLIN_017,Physician,Community Clinic,12
+HCP_0179,Carla Koss,Quebec,Internal Medicine,FAC_QC_PRIV_004,Physician,Private Practice,1
+HCP_0180,Tu Witting,Quebec,Internal Medicine,FAC_QC_CLIN_014,Physician,Community Clinic,22
+HCP_0181,Rahul Menon,Quebec,Internal Medicine,FAC_QC_PRIV_009,Physician,Private Practice,4
+HCP_0182,Lonna Dietrich,Quebec,Internal Medicine,FAC_QC_HOSP_012,Physician,Hospital,22
+HCP_0183,Conchita Tejada,Quebec,Internal Medicine,FAC_QC_PRIV_010,Physician,Private Practice,28
+HCP_0184,Augustine Fisher,Quebec,Internal Medicine,FAC_QC_PRIV_012,Physician,Private Practice,10
+HCP_0185,Conchita Tejada,Quebec,Internal Medicine,FAC_QC_PRIV_007,Physician,Private Practice,9
+HCP_0186,Curtis Hamill,Quebec,Internal Medicine,FAC_QC_CLIN_015,Physician,Community Clinic,8
+HCP_0187,Edie Howell,Quebec,Internal Medicine,FAC_QC_CLIN_002,Physician,Community Clinic,8
+HCP_0188,Victor Fadel,Quebec,Internal Medicine,FAC_QC_CLIN_010,Physician,Community Clinic,4
+HCP_0189,Geraldo Kiehn,Quebec,Internal Medicine,FAC_QC_CLIN_009,Physician,Community Clinic,9
+HCP_0190,Myrl Eichmann,Quebec,Internal Medicine,FAC_QC_PRIV_001,Physician,Private Practice,24
+HCP_0191,Maximo Carter,Quebec,Internal Medicine,FAC_QC_CLIN_011,Physician,Community Clinic,11
+HCP_0192,Darrel Lang,Quebec,Internal Medicine,FAC_QC_CLIN_015,Physician,Community Clinic,28
+HCP_0193,Lucienne Hudson,Quebec,Internal Medicine,FAC_QC_CLIN_007,Physician,Community Clinic,29
+HCP_0194,Micheal Deckow,Quebec,Internal Medicine,FAC_QC_HOSP_001,Physician,Hospital,27
+HCP_0195,Mika Suzuki,Quebec,Internal Medicine,FAC_QC_PRIV_011,Physician,Private Practice,19
+HCP_0196,Malinda Cassin,Quebec,Internal Medicine,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,12
+HCP_0197,Ofelia Skiles,Quebec,Internal Medicine,FAC_QC_CLIN_010,Physician,Community Clinic,33
+HCP_0198,Myong Heidenreich,Quebec,Internal Medicine,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,8
+HCP_0199,Ofelia Skiles,Quebec,Internal Medicine,FAC_QC_PRIV_002,Physician,Private Practice,17
+HCP_0200,Mika Suzuki,Quebec,Internal Medicine,FAC_QC_HOSP_007,Physician,Hospital,16
+HCP_0201,Sharen McGlynn,Quebec,Internal Medicine,FAC_QC_CLIN_012,Physician,Community Clinic,27
+HCP_0202,Ananya Mehta,Quebec,Internal Medicine,FAC_QC_HOSP_015,Physician,Hospital,20
+HCP_0203,Conchita Tejada,Quebec,Internal Medicine,FAC_QC_HOSP_007,Physician,Hospital,28
+HCP_0204,Dahlia Renner,Quebec,Internal Medicine,FAC_QC_CLIN_013,Physician,Community Clinic,33
+HCP_0205,Bruno Smitham,Quebec,Internal Medicine,FAC_QC_CLIN_014,Physician,Community Clinic,14
+HCP_0206,Lesley Murazik,Quebec,Internal Medicine,FAC_QC_ACAD_015,Physician,Academic/Teaching Hospital,31
+HCP_0207,Edmundo Bauch,Quebec,Internal Medicine,FAC_QC_HOSP_011,Physician,Hospital,6
+HCP_0208,Hana Kobayashi,Quebec,Internal Medicine,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,33
+HCP_0209,Harley Bins,Quebec,Cardiology,FAC_QC_HOSP_008,Physician,Hospital,7
+HCP_0210,Rosalind Kutch,Quebec,Cardiology,FAC_QC_HOSP_004,Physician,Hospital,30
+HCP_0211,Harley Bins,Quebec,Cardiology,FAC_QC_PRIV_002,Physician,Private Practice,14
+HCP_0212,Thad Osinski,Quebec,Cardiology,FAC_QC_ACAD_005,Physician,Academic/Teaching Hospital,34
+HCP_0213,Hildred Wunsch,Quebec,Cardiology,FAC_QC_PRIV_009,Physician,Private Practice,5
+HCP_0214,Ezequiel Hoeger,Quebec,Cardiology,FAC_QC_HOSP_005,Physician,Hospital,17
+HCP_0215,Kelly Boyle,Quebec,Cardiology,FAC_QC_HOSP_008,Physician,Hospital,32
+HCP_0216,Randa Leuschke,Quebec,Cardiology,FAC_QC_CLIN_006,Physician,Community Clinic,2
+HCP_0217,Jesus Quiroz,Quebec,Cardiology,FAC_QC_CLIN_017,Physician,Community Clinic,10
+HCP_0218,Oscar Mateo,Quebec,Cardiology,FAC_QC_ACAD_013,Physician,Academic/Teaching Hospital,3
+HCP_0219,Curtis Hamill,Quebec,Cardiology,FAC_QC_CLIN_001,Physician,Community Clinic,12
+HCP_0220,Carla Koss,Quebec,Cardiology,FAC_QC_HOSP_002,Physician,Hospital,14
+HCP_0221,Mohammed Parisian,Quebec,Cardiology,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,22
+HCP_0222,Daron Berge,Quebec,Cardiology,FAC_QC_HOSP_007,Physician,Hospital,10
+HCP_0223,Palma Morar,Quebec,Cardiology,FAC_QC_HOSP_007,Physician,Hospital,6
+HCP_0224,Donita Ward,Quebec,Cardiology,FAC_QC_CLIN_009,Physician,Community Clinic,6
+HCP_0225,Della Steuber,Quebec,Cardiology,FAC_QC_CLIN_011,Physician,Community Clinic,33
+HCP_0226,So Legros,Quebec,Cardiology,FAC_QC_PRIV_008,Physician,Private Practice,34
+HCP_0227,Glory Hickle,Quebec,Cardiology,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,8
+HCP_0228,Leilani Stoltenberg,Quebec,Cardiology,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,7
+HCP_0229,Kathyrn Weimann,Quebec,Cardiology,FAC_QC_CLIN_002,Physician,Community Clinic,2
+HCP_0230,Sanford Gottlieb,Quebec,Cardiology,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,34
+HCP_0231,Suanne Douglas,Quebec,Cardiology,FAC_QC_PRIV_001,Physician,Private Practice,25
+HCP_0232,Toi Kulas,Quebec,Cardiology,FAC_QC_HOSP_013,Physician,Hospital,27
+HCP_0233,Jeanmarie Beatty,Quebec,Cardiology,FAC_QC_ACAD_013,Physician,Academic/Teaching Hospital,11
+HCP_0234,Yasmine Boehm,Quebec,Cardiology,FAC_QC_HOSP_002,Physician,Hospital,23
+HCP_0235,Zaida Treutel,Quebec,Cardiology,FAC_QC_PRIV_003,Physician,Private Practice,3
+HCP_0236,Thad Osinski,Quebec,Cardiology,FAC_QC_ACAD_006,Physician,Academic/Teaching Hospital,24
+HCP_0237,Haywood Gleichner,Quebec,Cardiology,FAC_QC_HOSP_013,Physician,Hospital,21
+HCP_0238,Carmelina Wisozk,Quebec,Cardiology,FAC_QC_CLIN_008,Physician,Community Clinic,12
+HCP_0239,So Legros,Quebec,Cardiology,FAC_QC_CLIN_011,Physician,Community Clinic,25
+HCP_0240,Earl Fahey,Quebec,Cardiology,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,23
+HCP_0241,Clint Goldner,Quebec,Cardiology,FAC_QC_HOSP_007,Physician,Hospital,16
+HCP_0242,Willie Kessler,Quebec,Cardiology,FAC_QC_PRIV_008,Physician,Private Practice,7
+HCP_0243,Veda Pfeffer,Quebec,Gastroenterology,FAC_QC_CLIN_011,Physician,Community Clinic,1
+HCP_0244,Mickie Greenholt,Quebec,Gastroenterology,FAC_QC_HOSP_010,Physician,Hospital,33
+HCP_0245,Darrel Lang,Quebec,Gastroenterology,FAC_QC_PRIV_004,Physician,Private Practice,10
+HCP_0246,Malinda Cassin,Quebec,Gastroenterology,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,11
+HCP_0247,Yasmine Boehm,Quebec,Gastroenterology,FAC_QC_PRIV_009,Physician,Private Practice,24
+HCP_0248,Caroyln Hyatt,Quebec,Gastroenterology,FAC_QC_HOSP_009,Physician,Hospital,9
+HCP_0249,Hildred Wunsch,Quebec,Gastroenterology,FAC_QC_HOSP_005,Physician,Hospital,14
+HCP_0250,Tiana Blick,Quebec,Gastroenterology,FAC_QC_CLIN_003,Physician,Community Clinic,25
+HCP_0251,Sanford Gottlieb,Quebec,Gastroenterology,FAC_QC_PRIV_005,Physician,Private Practice,21
+HCP_0252,Conchita Tejada,Quebec,Gastroenterology,FAC_QC_PRIV_008,Physician,Private Practice,23
+HCP_0253,Leola Tremblay,Quebec,Gastroenterology,FAC_QC_HOSP_014,Physician,Hospital,1
+HCP_0254,Anton Gibson,Quebec,Gastroenterology,FAC_QC_PRIV_006,Physician,Private Practice,16
+HCP_0255,Andrés Sauceda,Quebec,Gastroenterology,FAC_QC_CLIN_005,Physician,Community Clinic,17
+HCP_0256,Pamelia Harber,Quebec,Gastroenterology,FAC_QC_PRIV_005,Physician,Private Practice,23
+HCP_0257,Louvenia Botsford,Quebec,Gastroenterology,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,6
+HCP_0258,Wayne Mertz,Quebec,Gastroenterology,FAC_QC_PRIV_005,Physician,Private Practice,6
+HCP_0259,Vertie Towne,Quebec,Gastroenterology,FAC_QC_HOSP_004,Physician,Hospital,27
+HCP_0260,Brendon Bailey,Quebec,Gastroenterology,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,24
+HCP_0261,Cathi Gulgowski,Quebec,Neurology,FAC_QC_HOSP_001,Physician,Hospital,29
+HCP_0262,Maile Frami,Quebec,Neurology,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,10
+HCP_0263,Royce Green,Quebec,Neurology,FAC_QC_HOSP_012,Physician,Hospital,35
+HCP_0264,Kavita Rao,Quebec,Neurology,FAC_QC_PRIV_009,Physician,Private Practice,10
+HCP_0265,Lerato Molefe,Quebec,Neurology,FAC_QC_HOSP_010,Physician,Hospital,23
+HCP_0266,Leilani Stoltenberg,Quebec,Neurology,FAC_QC_HOSP_014,Physician,Hospital,6
+HCP_0267,Curtis Hamill,Quebec,Neurology,FAC_QC_PRIV_007,Physician,Private Practice,33
+HCP_0268,Vivien Leffler,Quebec,Neurology,FAC_QC_PRIV_008,Physician,Private Practice,12
+HCP_0269,Michel Reichel,Quebec,Neurology,FAC_QC_HOSP_007,Physician,Hospital,29
+HCP_0270,Chad Sawayn,Quebec,Neurology,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,12
+HCP_0271,Paige Goodwin,Quebec,Neurology,FAC_QC_CLIN_005,Physician,Community Clinic,28
+HCP_0272,Phillip McCullough,Quebec,Neurology,FAC_QC_CLIN_011,Physician,Community Clinic,16
+HCP_0273,Lonna Dietrich,Quebec,Neurology,FAC_QC_CLIN_006,Physician,Community Clinic,3
+HCP_0274,Mika Suzuki,Quebec,Neurology,FAC_QC_CLIN_010,Physician,Community Clinic,7
+HCP_0275,Caroyln Hyatt,Quebec,Neurology,FAC_QC_HOSP_001,Physician,Hospital,24
+HCP_0276,Abdul Volkman,Quebec,Neurology,FAC_QC_CLIN_013,Physician,Community Clinic,7
+HCP_0277,Corrina Pacocha,Quebec,Neurology,FAC_QC_HOSP_001,Physician,Hospital,10
+HCP_0278,Dena Rau,Quebec,Neurology,FAC_QC_HOSP_007,Physician,Hospital,19
+HCP_0279,Mari Reynolds,Quebec,Neurology,FAC_QC_CLIN_014,Physician,Community Clinic,9
+HCP_0280,Gertrudis Schaden,Quebec,Neurology,FAC_QC_PRIV_007,Physician,Private Practice,5
+HCP_0281,Randa Leuschke,Quebec,Neurology,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,22
+HCP_0282,Noriko Anderson,Quebec,Psychiatry,FAC_QC_CLIN_004,Physician,Community Clinic,25
+HCP_0283,Gemma Effertz,Quebec,Psychiatry,FAC_QC_CLIN_016,Physician,Community Clinic,26
+HCP_0284,Zaida Treutel,Quebec,Psychiatry,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,34
+HCP_0285,Jackeline Schmitt,Quebec,Psychiatry,FAC_QC_PRIV_003,Physician,Private Practice,5
+HCP_0286,Rahul Menon,Quebec,Psychiatry,FAC_QC_ACAD_015,Physician,Academic/Teaching Hospital,15
+HCP_0287,Tressa Kovacek,Quebec,Psychiatry,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,9
+HCP_0288,Estefana Emmerich,Quebec,Psychiatry,FAC_QC_ACAD_015,Physician,Academic/Teaching Hospital,32
+HCP_0289,Marylee Reynolds,Quebec,Psychiatry,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,19
+HCP_0290,Reyna Keeling,Quebec,Psychiatry,FAC_QC_CLIN_003,Physician,Community Clinic,4
+HCP_0291,Glory Hickle,Quebec,Psychiatry,FAC_QC_CLIN_001,Physician,Community Clinic,25
+HCP_0292,Lesley Murazik,Quebec,Psychiatry,FAC_QC_CLIN_001,Physician,Community Clinic,2
+HCP_0293,Aiko Nakamura,Quebec,Psychiatry,FAC_QC_HOSP_004,Physician,Hospital,10
+HCP_0294,Felton Glover,Quebec,Psychiatry,FAC_QC_PRIV_011,Physician,Private Practice,26
+HCP_0295,Kathyrn Weimann,Quebec,Psychiatry,FAC_QC_PRIV_007,Physician,Private Practice,18
+HCP_0296,Alecia Welch,Quebec,Psychiatry,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,27
+HCP_0297,Earle Rice,Quebec,Psychiatry,FAC_QC_HOSP_014,Physician,Hospital,20
+HCP_0298,Lavinia Douglas,Quebec,Psychiatry,FAC_QC_CLIN_004,Physician,Community Clinic,30
+HCP_0299,Homer Wiegand,Quebec,Psychiatry,FAC_QC_HOSP_002,Physician,Hospital,20
+HCP_0300,Phillip McCullough,Quebec,Psychiatry,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,2
+HCP_0301,Micheal Deckow,Quebec,Psychiatry,FAC_QC_CLIN_015,Physician,Community Clinic,3
+HCP_0302,Parker Grady,Quebec,Psychiatry,FAC_QC_HOSP_014,Physician,Hospital,28
+HCP_0303,Gaynell Streich,Quebec,Psychiatry,FAC_QC_PRIV_009,Physician,Private Practice,2
+HCP_0304,Aubrey Greenfelder,Quebec,Psychiatry,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,14
+HCP_0305,Marylee Reynolds,Quebec,Psychiatry,FAC_QC_ACAD_013,Physician,Academic/Teaching Hospital,1
+HCP_0306,Clint Goldner,Quebec,Psychiatry,FAC_QC_HOSP_004,Physician,Hospital,11
+HCP_0307,Myrl Eichmann,Quebec,Psychiatry,FAC_QC_CLIN_004,Physician,Community Clinic,21
+HCP_0308,Rory Kuvalis,Quebec,Psychiatry,FAC_QC_HOSP_002,Physician,Hospital,7
+HCP_0309,Gale Jacobi,Quebec,Psychiatry,FAC_QC_CLIN_012,Physician,Community Clinic,17
+HCP_0310,Vern Powlowski,Quebec,Psychiatry,FAC_QC_PRIV_011,Physician,Private Practice,35
+HCP_0311,Kurtis Schulist,Quebec,Psychiatry,FAC_QC_CLIN_008,Physician,Community Clinic,3
+HCP_0312,Gemma Effertz,Quebec,Psychiatry,FAC_QC_HOSP_005,Physician,Hospital,3
+HCP_0313,Myong Heidenreich,Quebec,Psychiatry,FAC_QC_PRIV_012,Physician,Private Practice,10
+HCP_0314,Reggie Mitchell,Quebec,Psychiatry,FAC_QC_HOSP_003,Physician,Hospital,29
+HCP_0315,Michell Friesen,Quebec,Psychiatry,FAC_QC_HOSP_007,Physician,Hospital,15
+HCP_0316,Andrés Sauceda,Quebec,Psychiatry,FAC_QC_HOSP_005,Physician,Hospital,23
+HCP_0317,Kathe O'Conner,Quebec,Psychiatry,FAC_QC_HOSP_008,Physician,Hospital,2
+HCP_0318,Alfred Weber,Quebec,Psychiatry,FAC_QC_CLIN_001,Physician,Community Clinic,26
+HCP_0319,Rahul Menon,Quebec,Psychiatry,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,3
+HCP_0320,Alaine Gusikowski,Quebec,Psychiatry,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,25
+HCP_0321,Rayford Wisozk,Quebec,Psychiatry,FAC_QC_HOSP_009,Physician,Hospital,6
+HCP_0322,Vern Powlowski,Quebec,Psychiatry,FAC_QC_HOSP_001,Physician,Hospital,31
+HCP_0323,Michel Reichel,Quebec,Psychiatry,FAC_QC_CLIN_008,Physician,Community Clinic,11
+HCP_0324,Rohan Kapoor,Quebec,Psychiatry,FAC_QC_PRIV_009,Physician,Private Practice,7
+HCP_0325,Thandi Mokoena,Quebec,Psychiatry,FAC_QC_PRIV_010,Physician,Private Practice,12
+HCP_0326,Florinda Schimmel,Quebec,Psychiatry,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,1
+HCP_0327,Lyndia Hettinger,Quebec,Psychiatry,FAC_QC_CLIN_001,Physician,Community Clinic,6
+HCP_0328,Terry Wiegand,Quebec,Psychiatry,FAC_QC_HOSP_002,Physician,Hospital,21
+HCP_0329,Clint Goldner,Quebec,Psychiatry,FAC_QC_HOSP_003,Physician,Hospital,11
+HCP_0330,Rory Kuvalis,Quebec,Psychiatry,FAC_QC_HOSP_003,Physician,Hospital,13
+HCP_0331,Kathyrn Weimann,Quebec,Psychiatry,FAC_QC_HOSP_002,Physician,Hospital,29
+HCP_0332,Pamala Collier,Quebec,Psychiatry,FAC_QC_ACAD_014,Physician,Academic/Teaching Hospital,5
+HCP_0333,Armida Huel,Quebec,Psychiatry,FAC_QC_CLIN_009,Physician,Community Clinic,14
+HCP_0334,Dante Howell,Quebec,Psychiatry,FAC_QC_ACAD_007,Physician,Academic/Teaching Hospital,7
+HCP_0335,Bruno Smitham,Quebec,Psychiatry,FAC_QC_PRIV_006,Physician,Private Practice,17
+HCP_0336,Glory Hickle,Quebec,Psychiatry,FAC_QC_PRIV_009,Physician,Private Practice,12
+HCP_0337,Daichi Watanabe,Quebec,Psychiatry,FAC_QC_CLIN_010,Physician,Community Clinic,2
+HCP_0338,Gale Jacobi,Quebec,Psychiatry,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,3
+HCP_0339,Donita Ward,Quebec,Psychiatry,FAC_QC_HOSP_005,Physician,Hospital,30
+HCP_0340,Aiko Nakamura,Quebec,Psychiatry,FAC_QC_HOSP_009,Physician,Hospital,2
+HCP_0341,Roxanna Crist,Quebec,Psychiatry,FAC_QC_CLIN_009,Physician,Community Clinic,28
+HCP_0342,Ferne Hudson,Quebec,Psychiatry,FAC_QC_CLIN_005,Physician,Community Clinic,33
+HCP_0343,Arcelia Gottlieb,Quebec,Psychiatry,FAC_QC_PRIV_004,Physician,Private Practice,17
+HCP_0344,Blanca Feliciano,Quebec,Psychiatry,FAC_QC_PRIV_009,Physician,Private Practice,11
+HCP_0345,Drew Kohler,Quebec,Psychiatry,FAC_QC_PRIV_002,Physician,Private Practice,28
+HCP_0346,Kent Morar,Quebec,Psychiatry,FAC_QC_CLIN_014,Physician,Community Clinic,35
+HCP_0347,Lerato Molefe,Quebec,Psychiatry,FAC_QC_CLIN_011,Physician,Community Clinic,5
+HCP_0348,Neha Deshmukh,Quebec,Psychiatry,FAC_QC_ACAD_014,Physician,Academic/Teaching Hospital,34
+HCP_0349,Kasi Hickle,Quebec,Psychiatry,FAC_QC_HOSP_005,Physician,Hospital,34
+HCP_0350,Edie Howell,Quebec,Psychiatry,FAC_QC_PRIV_011,Physician,Private Practice,5
+HCP_0351,Kimberely Beatty,Quebec,Psychiatry,FAC_QC_PRIV_003,Physician,Private Practice,2
+HCP_0352,Colby Schowalter,Quebec,Psychiatry,FAC_QC_ACAD_014,Physician,Academic/Teaching Hospital,26
+HCP_0353,Royce Green,Quebec,Psychiatry,FAC_QC_PRIV_008,Physician,Private Practice,3
+HCP_0354,Carmelina Wisozk,Quebec,Psychiatry,FAC_QC_CLIN_005,Physician,Community Clinic,22
+HCP_0355,Hana Kobayashi,Quebec,Psychiatry,FAC_QC_CLIN_008,Physician,Community Clinic,3
+HCP_0356,Sibusiso Ndlovu,Quebec,Psychiatry,FAC_QC_CLIN_002,Physician,Community Clinic,25
+HCP_0357,Lonna Dietrich,Quebec,Psychiatry,FAC_QC_CLIN_016,Physician,Community Clinic,9
+HCP_0358,Katherina Frami,Quebec,Psychiatry,FAC_QC_HOSP_005,Physician,Hospital,4
+HCP_0359,Hassan Rath,Quebec,Psychiatry,FAC_QC_PRIV_001,Physician,Private Practice,3
+HCP_0360,Fernando Sierra,Quebec,Psychiatry,FAC_QC_HOSP_008,Physician,Hospital,7
+HCP_0361,Carroll McClure,Quebec,Psychiatry,FAC_QC_PRIV_002,Physician,Private Practice,19
+HCP_0362,Santina Klocko,Quebec,Psychiatry,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,3
+HCP_0363,Jason Streich,Quebec,Psychiatry,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,29
+HCP_0364,Katherina Frami,Quebec,Psychiatry,FAC_QC_HOSP_009,Physician,Hospital,22
+HCP_0365,Brittani Satterfield,Quebec,Psychiatry,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,11
+HCP_0366,Alecia Welch,Quebec,Psychiatry,FAC_QC_HOSP_005,Physician,Hospital,35
+HCP_0367,Don Denesik,Quebec,Psychiatry,FAC_QC_CLIN_013,Physician,Community Clinic,24
+HCP_0368,Gale Jacobi,Quebec,Psychiatry,FAC_QC_HOSP_004,Physician,Hospital,24
+HCP_0369,Phillip McCullough,Quebec,Psychiatry,FAC_QC_HOSP_007,Physician,Hospital,7
+HCP_0370,Crissy O'Connell,Quebec,Psychiatry,FAC_QC_HOSP_001,Physician,Hospital,25
+HCP_0371,Juan Connelly,Quebec,Psychiatry,FAC_QC_HOSP_008,Physician,Hospital,20
+HCP_0372,Haywood Gleichner,Quebec,Psychiatry,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,35
+HCP_0373,Deloris Zemlak,Quebec,Psychiatry,FAC_QC_HOSP_015,Physician,Hospital,17
+HCP_0374,Dorene Kessler,Quebec,Psychiatry,FAC_QC_CLIN_005,Physician,Community Clinic,24
+HCP_0375,Ettie Schroeder,Quebec,Psychiatry,FAC_QC_PRIV_012,Physician,Private Practice,12
+HCP_0376,Veda Pfeffer,Quebec,Psychiatry,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,2
+HCP_0377,Kelly Boyle,Quebec,Psychiatry,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,5
+HCP_0378,Fernando Sierra,Quebec,Psychiatry,FAC_QC_HOSP_006,Physician,Hospital,31
+HCP_0379,Horace Collier,Quebec,Psychiatry,FAC_QC_ACAD_007,Physician,Academic/Teaching Hospital,26
+HCP_0380,Harley Bins,Quebec,Pediatrics,FAC_QC_PRIV_011,Physician,Private Practice,13
+HCP_0381,Suzette Monahan,Quebec,Pediatrics,FAC_QC_HOSP_002,Physician,Hospital,25
+HCP_0382,Neha Deshmukh,Quebec,Pediatrics,FAC_QC_CLIN_012,Physician,Community Clinic,1
+HCP_0383,Haruto Sato,Quebec,Pediatrics,FAC_QC_ACAD_010,Physician,Academic/Teaching Hospital,2
+HCP_0384,Geraldo Kiehn,Quebec,Pediatrics,FAC_QC_CLIN_012,Physician,Community Clinic,18
+HCP_0385,Von Mraz,Quebec,Pediatrics,FAC_QC_HOSP_011,Physician,Hospital,22
+HCP_0386,Cheree Cassin,Quebec,Pediatrics,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,33
+HCP_0387,Houston Osinski,Quebec,Pediatrics,FAC_QC_ACAD_014,Physician,Academic/Teaching Hospital,27
+HCP_0388,Dante Howell,Quebec,Pediatrics,FAC_QC_ACAD_010,Physician,Academic/Teaching Hospital,10
+HCP_0389,Katherina Frami,Quebec,Pediatrics,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,29
+HCP_0390,Lonna Dietrich,Quebec,Pediatrics,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,18
+HCP_0391,Fernando Sierra,Quebec,Pediatrics,FAC_QC_CLIN_011,Physician,Community Clinic,29
+HCP_0392,Sanford Gottlieb,Quebec,Pediatrics,FAC_QC_HOSP_002,Physician,Hospital,7
+HCP_0393,Sharen McGlynn,Quebec,Pediatrics,FAC_QC_PRIV_003,Physician,Private Practice,1
+HCP_0394,Alexander Koch,Quebec,Pediatrics,FAC_QC_HOSP_003,Physician,Hospital,3
+HCP_0395,Della Steuber,Quebec,Pediatrics,FAC_QC_CLIN_001,Physician,Community Clinic,35
+HCP_0396,Karisa Stiedemann,Quebec,Pediatrics,FAC_QC_PRIV_002,Physician,Private Practice,3
+HCP_0397,Colby Schowalter,Quebec,Pediatrics,FAC_QC_ACAD_005,Physician,Academic/Teaching Hospital,33
+HCP_0398,Rivka Sanford,Quebec,Pediatrics,FAC_QC_CLIN_015,Physician,Community Clinic,26
+HCP_0399,Reggie Mitchell,Quebec,Pediatrics,FAC_QC_CLIN_017,Physician,Community Clinic,6
+HCP_0400,Armida Huel,Quebec,Pediatrics,FAC_QC_PRIV_010,Physician,Private Practice,31
+HCP_0401,Ayanda Mthembu,Quebec,Pediatrics,FAC_QC_HOSP_003,Physician,Hospital,6
+HCP_0402,Carlos Bins,Quebec,Pediatrics,FAC_QC_PRIV_012,Physician,Private Practice,6
+HCP_0403,Rayford Wisozk,Quebec,Pediatrics,FAC_QC_PRIV_003,Physician,Private Practice,21
+HCP_0404,Ren Takahashi,Quebec,Pediatrics,FAC_QC_PRIV_008,Physician,Private Practice,11
+HCP_0405,Tu Witting,Quebec,Pediatrics,FAC_QC_CLIN_017,Physician,Community Clinic,11
+HCP_0406,Tu Witting,Quebec,Pediatrics,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,7
+HCP_0407,Carmelina Wisozk,Quebec,Pediatrics,FAC_QC_CLIN_017,Physician,Community Clinic,22
+HCP_0408,Pamelia Harber,Quebec,Pediatrics,FAC_QC_PRIV_004,Physician,Private Practice,1
+HCP_0409,Neha Deshmukh,Quebec,Pediatrics,FAC_QC_CLIN_016,Physician,Community Clinic,9
+HCP_0410,Patricia Salgado,Quebec,Pediatrics,FAC_QC_HOSP_014,Physician,Hospital,20
+HCP_0411,Vertie Towne,Quebec,Pediatrics,FAC_QC_PRIV_009,Physician,Private Practice,18
+HCP_0412,Raye Wyman,Quebec,Pediatrics,FAC_QC_HOSP_015,Physician,Hospital,25
+HCP_0413,Chere Greenfelder,Quebec,Pediatrics,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,8
+HCP_0414,Judith Johns,Quebec,Pediatrics,FAC_QC_PRIV_006,Physician,Private Practice,23
+HCP_0415,Jeanmarie Beatty,Quebec,Pediatrics,FAC_QC_CLIN_013,Physician,Community Clinic,27
+HCP_0416,Louvenia Botsford,Quebec,Pediatrics,FAC_QC_CLIN_001,Physician,Community Clinic,14
+HCP_0417,Hana Kobayashi,Quebec,Pediatrics,FAC_QC_PRIV_002,Physician,Private Practice,9
+HCP_0418,Cheree Cassin,Quebec,Pediatrics,FAC_QC_CLIN_008,Physician,Community Clinic,20
+HCP_0419,Paige Goodwin,Quebec,Pediatrics,FAC_QC_CLIN_005,Physician,Community Clinic,21
+HCP_0420,Britta Stokes,Quebec,Pediatrics,FAC_QC_CLIN_004,Physician,Community Clinic,4
+HCP_0421,Kavita Rao,Quebec,Pediatrics,FAC_QC_CLIN_015,Physician,Community Clinic,20
+HCP_0422,Rosalba Greenfelder,Quebec,Pediatrics,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,6
+HCP_0423,Alaine Gusikowski,Quebec,Pediatrics,FAC_QC_HOSP_009,Physician,Hospital,20
+HCP_0424,Leilani Stoltenberg,Quebec,Pediatrics,FAC_QC_ACAD_015,Physician,Academic/Teaching Hospital,33
+HCP_0425,Caroyln Hyatt,Quebec,Pediatrics,FAC_QC_CLIN_014,Physician,Community Clinic,19
+HCP_0426,Luke Rath,Quebec,Pediatrics,FAC_QC_PRIV_004,Physician,Private Practice,27
+HCP_0427,Billy Bahringer,Quebec,Pediatrics,FAC_QC_HOSP_010,Physician,Hospital,11
+HCP_0428,Marianela Anderson,Quebec,Pediatrics,FAC_QC_CLIN_009,Physician,Community Clinic,33
+HCP_0429,Phillip McCullough,Quebec,Pediatrics,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,29
+HCP_0430,Moses Schmitt,Quebec,Pediatrics,FAC_QC_CLIN_013,Physician,Community Clinic,33
+HCP_0431,Malinda Cassin,Quebec,Dermatology,FAC_QC_HOSP_010,Physician,Hospital,26
+HCP_0432,Kelly Boyle,Quebec,Dermatology,FAC_QC_PRIV_007,Physician,Private Practice,23
+HCP_0433,Parker Grady,Quebec,Dermatology,FAC_QC_HOSP_010,Physician,Hospital,19
+HCP_0434,Judith Johns,Quebec,Dermatology,FAC_QC_CLIN_003,Physician,Community Clinic,33
+HCP_0435,Carmelina Wisozk,Quebec,Dermatology,FAC_QC_CLIN_004,Physician,Community Clinic,30
+HCP_0436,Cheree Cassin,Quebec,Dermatology,FAC_QC_PRIV_010,Physician,Private Practice,15
+HCP_0437,Haley Effertz,Quebec,Dermatology,FAC_QC_PRIV_001,Physician,Private Practice,3
+HCP_0438,Kavita Rao,Quebec,Dermatology,FAC_QC_PRIV_012,Physician,Private Practice,1
+HCP_0439,Gertrudis Schaden,Quebec,Dermatology,FAC_QC_ACAD_007,Physician,Academic/Teaching Hospital,9
+HCP_0440,Norbert Murphy,Quebec,Dermatology,FAC_QC_HOSP_009,Physician,Hospital,3
+HCP_0441,Ren Takahashi,Quebec,Dermatology,FAC_QC_CLIN_015,Physician,Community Clinic,8
+HCP_0442,Royce Green,Quebec,Dermatology,FAC_QC_HOSP_015,Physician,Hospital,4
+HCP_0443,Judith Johns,Quebec,Dermatology,FAC_QC_HOSP_011,Physician,Hospital,35
+HCP_0444,Noriko Anderson,Quebec,Dermatology,FAC_QC_HOSP_002,Physician,Hospital,4
+HCP_0445,Britta Stokes,Quebec,Dermatology,FAC_QC_PRIV_008,Physician,Private Practice,22
+HCP_0446,Haywood Gleichner,Quebec,Dermatology,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,13
+HCP_0447,Armida Huel,Quebec,Dermatology,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,7
+HCP_0448,Kenji Yamamoto,Quebec,Dermatology,FAC_QC_PRIV_011,Physician,Private Practice,25
+HCP_0449,Alecia Welch,Quebec,General Surgery,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,34
+HCP_0450,Homer Wiegand,Quebec,General Surgery,FAC_QC_HOSP_006,Physician,Hospital,28
+HCP_0451,Mika Suzuki,Quebec,General Surgery,FAC_QC_ACAD_013,Physician,Academic/Teaching Hospital,35
+HCP_0452,Kavita Rao,Quebec,General Surgery,FAC_QC_ACAD_013,Physician,Academic/Teaching Hospital,21
+HCP_0453,Tu Witting,Quebec,General Surgery,FAC_QC_HOSP_015,Physician,Hospital,24
+HCP_0454,Phillip McCullough,Quebec,General Surgery,FAC_QC_CLIN_008,Physician,Community Clinic,6
+HCP_0455,Antonietta Reilly,Quebec,General Surgery,FAC_QC_ACAD_015,Physician,Academic/Teaching Hospital,30
+HCP_0456,Rory Kuvalis,Quebec,General Surgery,FAC_QC_CLIN_010,Physician,Community Clinic,27
+HCP_0457,Jamie Eichmann,Quebec,General Surgery,FAC_QC_ACAD_005,Physician,Academic/Teaching Hospital,9
+HCP_0458,Roxanna Crist,Quebec,General Surgery,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,13
+HCP_0459,Albertina Skiles,Quebec,General Surgery,FAC_QC_CLIN_008,Physician,Community Clinic,22
+HCP_0460,Vern Powlowski,Quebec,General Surgery,FAC_QC_HOSP_007,Physician,Hospital,1
+HCP_0461,Della Steuber,Quebec,General Surgery,FAC_QC_CLIN_004,Physician,Community Clinic,29
+HCP_0462,Clint Goldner,Quebec,General Surgery,FAC_QC_HOSP_004,Physician,Hospital,10
+HCP_0463,Fernando Sierra,Quebec,General Surgery,FAC_QC_CLIN_015,Physician,Community Clinic,3
+HCP_0464,Jeanelle Wyman,Quebec,General Surgery,FAC_QC_PRIV_012,Physician,Private Practice,12
+HCP_0465,Suzette Monahan,Quebec,General Surgery,FAC_QC_CLIN_013,Physician,Community Clinic,30
+HCP_0466,Daichi Watanabe,Quebec,General Surgery,FAC_QC_HOSP_014,Physician,Hospital,10
+HCP_0467,Edie Howell,Quebec,General Surgery,FAC_QC_CLIN_012,Physician,Community Clinic,19
+HCP_0468,Antonietta Reilly,Quebec,General Surgery,FAC_QC_PRIV_002,Physician,Private Practice,29
+HCP_0469,Kasi Hickle,Quebec,General Surgery,FAC_QC_HOSP_010,Physician,Hospital,2
+HCP_0470,Vivek Iyer,Quebec,General Surgery,FAC_QC_HOSP_009,Physician,Hospital,27
+HCP_0471,Kelly Boyle,Quebec,General Surgery,FAC_QC_ACAD_005,Physician,Academic/Teaching Hospital,11
+HCP_0472,Marianela Anderson,Quebec,General Surgery,FAC_QC_HOSP_007,Physician,Hospital,25
+HCP_0473,Carmelina Wisozk,Quebec,General Surgery,FAC_QC_CLIN_007,Physician,Community Clinic,7
+HCP_0474,Corrina Pacocha,Quebec,General Surgery,FAC_QC_HOSP_002,Physician,Hospital,5
+HCP_0475,Roxanna Crist,Quebec,General Surgery,FAC_QC_HOSP_006,Physician,Hospital,28
+HCP_0476,Dena Rau,Quebec,General Surgery,FAC_QC_CLIN_011,Physician,Community Clinic,29
+HCP_0477,Carroll McClure,Quebec,General Surgery,FAC_QC_PRIV_002,Physician,Private Practice,35
+HCP_0478,Jeanmarie Beatty,Quebec,General Surgery,FAC_QC_HOSP_007,Physician,Hospital,24
+HCP_0479,Haywood Gleichner,Quebec,General Surgery,FAC_QC_HOSP_014,Physician,Hospital,17
+HCP_0480,Crista Keebler,Quebec,General Surgery,FAC_QC_HOSP_005,Physician,Hospital,7
+HCP_0481,Homer Wiegand,Quebec,General Surgery,FAC_QC_PRIV_010,Physician,Private Practice,11
+HCP_0482,Dante Howell,Quebec,General Surgery,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,23
+HCP_0483,Emilee Runolfsdottir,Quebec,General Surgery,FAC_QC_HOSP_003,Physician,Hospital,13
+HCP_0484,Jeff Waters,Quebec,General Surgery,FAC_QC_CLIN_017,Physician,Community Clinic,17
+HCP_0485,Suanne Douglas,Quebec,General Surgery,FAC_QC_CLIN_012,Physician,Community Clinic,6
+HCP_0486,Florinda Schimmel,Quebec,General Surgery,FAC_QC_CLIN_009,Physician,Community Clinic,16
+HCP_0487,Felton Glover,Quebec,General Surgery,FAC_QC_HOSP_007,Physician,Hospital,9
+HCP_0488,Buddy Schinner,Quebec,General Surgery,FAC_QC_HOSP_015,Physician,Hospital,4
+HCP_0489,Edmundo Bauch,Quebec,General Surgery,FAC_QC_PRIV_003,Physician,Private Practice,5
+HCP_0490,Raphael Connelly,Quebec,Urology,FAC_QC_CLIN_005,Physician,Community Clinic,19
+HCP_0491,Neha Deshmukh,Quebec,Urology,FAC_QC_CLIN_009,Physician,Community Clinic,13
+HCP_0492,Marla Sanford,Quebec,Urology,FAC_QC_CLIN_007,Physician,Community Clinic,4
+HCP_0493,Elton VonRueden,Quebec,Urology,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,19
+HCP_0494,Raphael Connelly,Quebec,Urology,FAC_QC_PRIV_002,Physician,Private Practice,6
+HCP_0495,Ferne Hudson,Quebec,Urology,FAC_QC_CLIN_011,Physician,Community Clinic,1
+HCP_0496,Deloris Zemlak,Quebec,Urology,FAC_QC_HOSP_008,Physician,Hospital,5
+HCP_0497,Myong Heidenreich,Quebec,Urology,FAC_QC_ACAD_014,Physician,Academic/Teaching Hospital,16
+HCP_0498,Dorene Kessler,Quebec,Urology,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,34
+HCP_0499,Kavita Rao,Quebec,Urology,FAC_QC_HOSP_006,Physician,Hospital,9
+HCP_0500,Jere Waelchi,Quebec,Urology,FAC_QC_ACAD_001,Physician,Academic/Teaching Hospital,10
+HCP_0501,Brittani Satterfield,Quebec,Urology,FAC_QC_PRIV_006,Physician,Private Practice,9
+HCP_0502,Mickie Greenholt,Quebec,Urology,FAC_QC_HOSP_011,Physician,Hospital,13
+HCP_0503,Daichi Watanabe,Quebec,Urology,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,26
+HCP_0504,Marla Sanford,Quebec,Urology,FAC_QC_HOSP_010,Physician,Hospital,12
+HCP_0505,Randa Leuschke,Quebec,Orthopedic Surgery,FAC_QC_HOSP_005,Physician,Hospital,24
+HCP_0506,Daron Berge,Quebec,Orthopedic Surgery,FAC_QC_HOSP_015,Physician,Hospital,32
+HCP_0507,Buddy Schinner,Quebec,Orthopedic Surgery,FAC_QC_CLIN_001,Physician,Community Clinic,34
+HCP_0508,Emilee Runolfsdottir,Quebec,Orthopedic Surgery,FAC_QC_PRIV_011,Physician,Private Practice,20
+HCP_0509,Buford Toy,Quebec,Orthopedic Surgery,FAC_QC_CLIN_004,Physician,Community Clinic,25
+HCP_0510,Lyndia Hettinger,Quebec,Orthopedic Surgery,FAC_QC_HOSP_009,Physician,Hospital,33
+HCP_0511,Sibusiso Ndlovu,Quebec,Orthopedic Surgery,FAC_QC_HOSP_001,Physician,Hospital,28
+HCP_0512,Fernando Sierra,Quebec,Orthopedic Surgery,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,11
+HCP_0513,Albertina Skiles,Quebec,Orthopedic Surgery,FAC_QC_ACAD_010,Physician,Academic/Teaching Hospital,5
+HCP_0514,Elijah Koepp,Quebec,Orthopedic Surgery,FAC_QC_ACAD_006,Physician,Academic/Teaching Hospital,5
+HCP_0515,Mika Suzuki,Quebec,Orthopedic Surgery,FAC_QC_HOSP_007,Physician,Hospital,31
+HCP_0516,Vern Powlowski,Quebec,Orthopedic Surgery,FAC_QC_ACAD_010,Physician,Academic/Teaching Hospital,20
+HCP_0517,Mariano West,Quebec,Orthopedic Surgery,FAC_QC_PRIV_010,Physician,Private Practice,11
+HCP_0518,Mari Reynolds,Quebec,Orthopedic Surgery,FAC_QC_PRIV_007,Physician,Private Practice,13
+HCP_0519,Reyna Keeling,Quebec,Orthopedic Surgery,FAC_QC_HOSP_014,Physician,Hospital,10
+HCP_0520,Antonietta Reilly,Quebec,Orthopedic Surgery,FAC_QC_ACAD_010,Physician,Academic/Teaching Hospital,29
+HCP_0521,Arnoldo Carter,Quebec,Orthopedic Surgery,FAC_QC_CLIN_014,Physician,Community Clinic,22
+HCP_0522,Pamelia Harber,Quebec,Orthopedic Surgery,FAC_QC_HOSP_006,Physician,Hospital,31
+HCP_0523,Shaunte Bergstrom,Quebec,Orthopedic Surgery,FAC_QC_HOSP_009,Physician,Hospital,11
+HCP_0524,Parker Grady,Quebec,Orthopedic Surgery,FAC_QC_CLIN_007,Physician,Community Clinic,17
+HCP_0525,Rayford Wisozk,Quebec,Orthopedic Surgery,FAC_QC_HOSP_010,Physician,Hospital,5
+HCP_0526,Armida Huel,Quebec,Orthopedic Surgery,FAC_QC_CLIN_008,Physician,Community Clinic,34
+HCP_0527,Arjun Malhotra,Quebec,Orthopedic Surgery,FAC_QC_CLIN_010,Physician,Community Clinic,18
+HCP_0528,Pamelia Harber,Quebec,Orthopedic Surgery,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,20
+HCP_0529,Rohan Kapoor,Quebec,Orthopedic Surgery,FAC_QC_HOSP_011,Physician,Hospital,15
+HCP_0530,Arjun Malhotra,Quebec,Orthopedic Surgery,FAC_QC_PRIV_003,Physician,Private Practice,10
+HCP_0531,Alexander Koch,Quebec,Orthopedic Surgery,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,34
+HCP_0532,Edie Howell,Quebec,Orthopedic Surgery,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,18
+HCP_0533,Lon Lind,Quebec,Orthopedic Surgery,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,24
+HCP_0534,Homer Wiegand,Quebec,Orthopedic Surgery,FAC_QC_HOSP_014,Physician,Hospital,2
+HCP_0535,Leilani Stoltenberg,Quebec,Orthopedic Surgery,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,10
+HCP_0536,Lonna Dietrich,Quebec,Ophthalmology,FAC_QC_ACAD_003,Physician,Academic/Teaching Hospital,29
+HCP_0537,Daron Berge,Quebec,Ophthalmology,FAC_QC_CLIN_008,Physician,Community Clinic,4
+HCP_0538,Brittani Satterfield,Quebec,Ophthalmology,FAC_QC_CLIN_013,Physician,Community Clinic,4
+HCP_0539,Marylee Reynolds,Quebec,Ophthalmology,FAC_QC_PRIV_005,Physician,Private Practice,29
+HCP_0540,Phillip McCullough,Quebec,Ophthalmology,FAC_QC_CLIN_005,Physician,Community Clinic,11
+HCP_0541,Kathlyn Borer,Quebec,Ophthalmology,FAC_QC_CLIN_013,Physician,Community Clinic,10
+HCP_0542,Devora Sipes,Quebec,Ophthalmology,FAC_QC_ACAD_008,Physician,Academic/Teaching Hospital,20
+HCP_0543,Rivka Sanford,Quebec,Ophthalmology,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,7
+HCP_0544,Vertie Towne,Quebec,Ophthalmology,FAC_QC_CLIN_004,Physician,Community Clinic,2
+HCP_0545,Dante Howell,Quebec,Ophthalmology,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,1
+HCP_0546,Leonor Najera,Quebec,Ophthalmology,FAC_QC_CLIN_007,Physician,Community Clinic,3
+HCP_0547,Maribel Reilly,Quebec,Ophthalmology,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,6
+HCP_0548,Chad Sawayn,Quebec,Ophthalmology,FAC_QC_PRIV_009,Physician,Private Practice,25
+HCP_0549,Blanca Feliciano,Quebec,Ophthalmology,FAC_QC_CLIN_010,Physician,Community Clinic,11
+HCP_0550,Indira Willms,Quebec,Ophthalmology,FAC_QC_HOSP_003,Physician,Hospital,3
+HCP_0551,Graham Volkman,Quebec,Ophthalmology,FAC_QC_PRIV_002,Physician,Private Practice,1
+HCP_0552,Camille Erdman,Quebec,Ophthalmology,FAC_QC_CLIN_016,Physician,Community Clinic,17
+HCP_0553,Parker Grady,Quebec,Ophthalmology,FAC_QC_HOSP_008,Physician,Hospital,30
+HCP_0554,Gale Jacobi,Quebec,Ophthalmology,FAC_QC_HOSP_009,Physician,Hospital,12
+HCP_0555,Naledi Khumalo,Quebec,Ophthalmology,FAC_QC_ACAD_002,Physician,Academic/Teaching Hospital,3
+HCP_0556,Shawnee Zieme,Quebec,Ophthalmology,FAC_QC_HOSP_003,Physician,Hospital,8
+HCP_0557,Joan Trantow,Quebec,Ophthalmology,FAC_QC_ACAD_010,Physician,Academic/Teaching Hospital,18
+HCP_0558,Karisa Stiedemann,Quebec,Ophthalmology,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,7
+HCP_0559,Cathi Gulgowski,Quebec,Ophthalmology,FAC_QC_HOSP_011,Physician,Hospital,35
+HCP_0560,Earle Rice,Quebec,Ophthalmology,FAC_QC_PRIV_007,Physician,Private Practice,27
+HCP_0561,Latashia Glover,Quebec,Ophthalmology,FAC_QC_PRIV_001,Physician,Private Practice,13
+HCP_0562,Colby Schowalter,Quebec,Ophthalmology,FAC_QC_CLIN_004,Physician,Community Clinic,34
+HCP_0563,Zaida Treutel,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_004,Physician,Private Practice,12
+HCP_0564,Kasi Hickle,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_010,Physician,Community Clinic,5
+HCP_0565,Santina Klocko,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_002,Physician,Community Clinic,33
+HCP_0566,Lyndia Hettinger,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_002,Physician,Community Clinic,34
+HCP_0567,Raye Wyman,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_006,Physician,Academic/Teaching Hospital,11
+HCP_0568,Emilee Runolfsdottir,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_003,Physician,Private Practice,21
+HCP_0569,Darcey Miller,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_014,Physician,Community Clinic,7
+HCP_0570,Estefana Emmerich,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_005,Physician,Academic/Teaching Hospital,23
+HCP_0571,Haruto Sato,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,25
+HCP_0572,Caroyln Hyatt,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_012,Physician,Academic/Teaching Hospital,25
+HCP_0573,Reggie Mitchell,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_009,Physician,Private Practice,20
+HCP_0574,Garth Wyman,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_013,Physician,Community Clinic,25
+HCP_0575,Suzette Monahan,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,20
+HCP_0576,Dorene Kessler,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_007,Physician,Community Clinic,29
+HCP_0577,Kavita Rao,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_011,Physician,Community Clinic,7
+HCP_0578,Buster Ferry,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_007,Physician,Community Clinic,17
+HCP_0579,Katherina Frami,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_004,Physician,Academic/Teaching Hospital,15
+HCP_0580,Wayne Mertz,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_011,Physician,Private Practice,19
+HCP_0581,Veda Pfeffer,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_005,Physician,Community Clinic,5
+HCP_0582,Brandon Gerhold,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_008,Physician,Community Clinic,12
+HCP_0583,Vern Powlowski,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_006,Physician,Community Clinic,34
+HCP_0584,Leonor Najera,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_002,Physician,Private Practice,4
+HCP_0585,Lai Friesen,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_014,Physician,Community Clinic,23
+HCP_0586,Kavita Rao,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_010,Physician,Private Practice,24
+HCP_0587,Dotty Considine,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_007,Physician,Community Clinic,17
+HCP_0588,Oscar Mateo,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_006,Physician,Community Clinic,2
+HCP_0589,Albertina Skiles,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,2
+HCP_0590,Anika Wisozk,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_010,Physician,Community Clinic,10
+HCP_0591,Graham Volkman,Quebec,Obstetrics/Gynecology,FAC_QC_HOSP_002,Physician,Hospital,4
+HCP_0592,Carla Koss,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_013,Physician,Community Clinic,4
+HCP_0593,Geraldo Kiehn,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_008,Physician,Private Practice,6
+HCP_0594,Sipho Dlamini,Quebec,Obstetrics/Gynecology,FAC_QC_HOSP_007,Physician,Hospital,7
+HCP_0595,Rayford Wisozk,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_005,Physician,Community Clinic,30
+HCP_0596,Graham Volkman,Quebec,Obstetrics/Gynecology,FAC_QC_HOSP_005,Physician,Hospital,23
+HCP_0597,Leilani Stoltenberg,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_012,Physician,Private Practice,2
+HCP_0598,Rosalind Kutch,Quebec,Obstetrics/Gynecology,FAC_QC_PRIV_011,Physician,Private Practice,22
+HCP_0599,Darrel Lang,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_011,Physician,Academic/Teaching Hospital,5
+HCP_0600,Darcey Miller,Quebec,Obstetrics/Gynecology,FAC_QC_CLIN_016,Physician,Community Clinic,15
+HCP_0601,Harold Kessler,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,2
+HCP_0602,Rosalind Kutch,Quebec,Obstetrics/Gynecology,FAC_QC_HOSP_003,Physician,Hospital,4
+HCP_0603,Kelly Boyle,Quebec,Obstetrics/Gynecology,FAC_QC_ACAD_009,Physician,Academic/Teaching Hospital,5
+HCP_0604,Jeramy Littel,Ontario,Internal Medicine,FAC_ON_PRIV_019,Physician,Private Practice,16
+HCP_0605,Parker Grady,Ontario,Internal Medicine,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,17
+HCP_0606,Latashia Glover,Ontario,Internal Medicine,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,13
+HCP_0607,Sergio Dooley,Ontario,Internal Medicine,FAC_ON_PRIV_006,Physician,Private Practice,22
+HCP_0608,Mario Guerra,Ontario,Internal Medicine,FAC_ON_CLIN_021,Physician,Community Clinic,26
+HCP_0609,Hana Kobayashi,Ontario,Internal Medicine,FAC_ON_PRIV_007,Physician,Private Practice,26
+HCP_0610,Toi Kulas,Ontario,Internal Medicine,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,21
+HCP_0611,Brandon Gerhold,Ontario,Internal Medicine,FAC_ON_ACAD_001,Physician,Academic/Teaching Hospital,20
+HCP_0612,Suanne Douglas,Ontario,Internal Medicine,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,18
+HCP_0613,Dena Rau,Ontario,Internal Medicine,FAC_ON_HOSP_014,Physician,Hospital,9
+HCP_0614,Bart Jenkins,Ontario,Internal Medicine,FAC_ON_PRIV_019,Physician,Private Practice,18
+HCP_0615,Maximo Carter,Ontario,Internal Medicine,FAC_ON_HOSP_009,Physician,Hospital,1
+HCP_0616,Joleen Oberbrunner,Ontario,Internal Medicine,FAC_ON_PRIV_020,Physician,Private Practice,34
+HCP_0617,Emilee Runolfsdottir,Ontario,Internal Medicine,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,13
+HCP_0618,Lesley Murazik,Ontario,Internal Medicine,FAC_ON_HOSP_022,Physician,Hospital,27
+HCP_0619,Lynwood Monahan,Ontario,Internal Medicine,FAC_ON_PRIV_008,Physician,Private Practice,34
+HCP_0620,Clint Goldner,Ontario,Internal Medicine,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,18
+HCP_0621,Carmelina Wisozk,Ontario,Internal Medicine,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,31
+HCP_0622,Elvis Hartmann,Ontario,Internal Medicine,FAC_ON_CLIN_012,Physician,Community Clinic,17
+HCP_0623,Edie Howell,Ontario,Internal Medicine,FAC_ON_HOSP_007,Physician,Hospital,5
+HCP_0624,Caroyln Hyatt,Ontario,Internal Medicine,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,1
+HCP_0625,Raphael Connelly,Ontario,Internal Medicine,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,5
+HCP_0626,Florinda Schimmel,Ontario,Internal Medicine,FAC_ON_PRIV_017,Physician,Private Practice,33
+HCP_0627,Juan Connelly,Ontario,Internal Medicine,FAC_ON_ACAD_021,Physician,Academic/Teaching Hospital,17
+HCP_0628,Sharen McGlynn,Ontario,Internal Medicine,FAC_ON_HOSP_004,Physician,Hospital,12
+HCP_0629,Shawnee Zieme,Ontario,Internal Medicine,FAC_ON_PRIV_021,Physician,Private Practice,16
+HCP_0630,Sharen McGlynn,Ontario,Internal Medicine,FAC_ON_HOSP_014,Physician,Hospital,9
+HCP_0631,Kelly Boyle,Ontario,Internal Medicine,FAC_ON_ACAD_024,Physician,Academic/Teaching Hospital,31
+HCP_0632,Anton Gibson,Ontario,Internal Medicine,FAC_ON_PRIV_018,Physician,Private Practice,35
+HCP_0633,Carmelina Wisozk,Ontario,Internal Medicine,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,3
+HCP_0634,Horace Collier,Ontario,Internal Medicine,FAC_ON_PRIV_001,Physician,Private Practice,26
+HCP_0635,Kasi Hickle,Ontario,Internal Medicine,FAC_ON_HOSP_024,Physician,Hospital,12
+HCP_0636,Maximo Carter,Ontario,Internal Medicine,FAC_ON_HOSP_010,Physician,Hospital,2
+HCP_0637,Lyndia Hettinger,Ontario,Internal Medicine,FAC_ON_CLIN_001,Physician,Community Clinic,33
+HCP_0638,Paige Goodwin,Ontario,Internal Medicine,FAC_ON_PRIV_015,Physician,Private Practice,3
+HCP_0639,Cathi Gulgowski,Ontario,Internal Medicine,FAC_ON_HOSP_002,Physician,Hospital,8
+HCP_0640,Haruto Sato,Ontario,Internal Medicine,FAC_ON_ACAD_008,Physician,Academic/Teaching Hospital,1
+HCP_0641,Gemma Effertz,Ontario,Internal Medicine,FAC_ON_HOSP_026,Physician,Hospital,17
+HCP_0642,Priya Nair,Ontario,Internal Medicine,FAC_ON_CLIN_014,Physician,Community Clinic,21
+HCP_0643,Toi Kulas,Ontario,Internal Medicine,FAC_ON_HOSP_012,Physician,Hospital,12
+HCP_0644,Elvis Hartmann,Ontario,Internal Medicine,FAC_ON_CLIN_018,Physician,Community Clinic,3
+HCP_0645,Crissy O'Connell,Ontario,Internal Medicine,FAC_ON_CLIN_003,Physician,Community Clinic,5
+HCP_0646,Anton Gibson,Ontario,Internal Medicine,FAC_ON_HOSP_005,Physician,Hospital,33
+HCP_0647,Suanne Douglas,Ontario,Internal Medicine,FAC_ON_PRIV_004,Physician,Private Practice,29
+HCP_0648,Kimberely Beatty,Ontario,Internal Medicine,FAC_ON_ACAD_012,Physician,Academic/Teaching Hospital,33
+HCP_0649,Mika Suzuki,Ontario,Internal Medicine,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,19
+HCP_0650,Carroll McClure,Ontario,Internal Medicine,FAC_ON_CLIN_003,Physician,Community Clinic,20
+HCP_0651,Noriko Anderson,Ontario,Internal Medicine,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,28
+HCP_0652,Mickie Greenholt,Ontario,Internal Medicine,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,22
+HCP_0653,Donita Ward,Ontario,Internal Medicine,FAC_ON_ACAD_017,Physician,Academic/Teaching Hospital,16
+HCP_0654,Marianela Anderson,Ontario,Internal Medicine,FAC_ON_CLIN_007,Physician,Community Clinic,11
+HCP_0655,Rory Kuvalis,Ontario,Internal Medicine,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,17
+HCP_0656,Kimberely Beatty,Ontario,Internal Medicine,FAC_ON_PRIV_019,Physician,Private Practice,3
+HCP_0657,Alaine Gusikowski,Ontario,Internal Medicine,FAC_ON_HOSP_017,Physician,Hospital,7
+HCP_0658,Roxanna Crist,Ontario,Internal Medicine,FAC_ON_CLIN_019,Physician,Community Clinic,26
+HCP_0659,Benton Becker,Ontario,Internal Medicine,FAC_ON_PRIV_002,Physician,Private Practice,31
+HCP_0660,Homer Wiegand,Ontario,Internal Medicine,FAC_ON_HOSP_009,Physician,Hospital,4
+HCP_0661,Sanford Gottlieb,Ontario,Internal Medicine,FAC_ON_CLIN_012,Physician,Community Clinic,4
+HCP_0662,Joan Trantow,Ontario,Internal Medicine,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,3
+HCP_0663,Terry Wiegand,Ontario,Internal Medicine,FAC_ON_HOSP_025,Physician,Hospital,28
+HCP_0664,Donita Ward,Ontario,Internal Medicine,FAC_ON_CLIN_022,Physician,Community Clinic,11
+HCP_0665,Antonietta Reilly,Ontario,Internal Medicine,FAC_ON_HOSP_008,Physician,Hospital,12
+HCP_0666,Augustine Fisher,Ontario,Internal Medicine,FAC_ON_PRIV_022,Physician,Private Practice,1
+HCP_0667,Shawnee Zieme,Ontario,Internal Medicine,FAC_ON_HOSP_015,Physician,Hospital,35
+HCP_0668,Noe Gutkowski,Ontario,Internal Medicine,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,16
+HCP_0669,Priya Nair,Ontario,Internal Medicine,FAC_ON_HOSP_015,Physician,Hospital,28
+HCP_0670,Judith Johns,Ontario,Internal Medicine,FAC_ON_ACAD_007,Physician,Academic/Teaching Hospital,25
+HCP_0671,Aiko Nakamura,Ontario,Internal Medicine,FAC_ON_ACAD_021,Physician,Academic/Teaching Hospital,5
+HCP_0672,Michel Reichel,Ontario,Internal Medicine,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,29
+HCP_0673,Joleen Oberbrunner,Ontario,Internal Medicine,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,20
+HCP_0674,Veda Pfeffer,Ontario,Internal Medicine,FAC_ON_HOSP_007,Physician,Hospital,22
+HCP_0675,Arcelia Gottlieb,Ontario,Internal Medicine,FAC_ON_ACAD_010,Physician,Academic/Teaching Hospital,8
+HCP_0676,Alfred Weber,Ontario,Internal Medicine,FAC_ON_PRIV_004,Physician,Private Practice,30
+HCP_0677,Leilani Stoltenberg,Ontario,Internal Medicine,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,33
+HCP_0678,Malinda Cassin,Ontario,Internal Medicine,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,15
+HCP_0679,Buster Ferry,Ontario,Internal Medicine,FAC_ON_PRIV_010,Physician,Private Practice,4
+HCP_0680,Neha Deshmukh,Ontario,Internal Medicine,FAC_ON_CLIN_020,Physician,Community Clinic,30
+HCP_0681,Della Steuber,Ontario,Internal Medicine,FAC_ON_HOSP_013,Physician,Hospital,32
+HCP_0682,Jeramy Littel,Ontario,Internal Medicine,FAC_ON_HOSP_003,Physician,Hospital,18
+HCP_0683,Mika Suzuki,Ontario,Internal Medicine,FAC_ON_CLIN_013,Physician,Community Clinic,21
+HCP_0684,Mika Suzuki,Ontario,Internal Medicine,FAC_ON_ACAD_007,Physician,Academic/Teaching Hospital,8
+HCP_0685,Maile Frami,Ontario,Internal Medicine,FAC_ON_PRIV_006,Physician,Private Practice,3
+HCP_0686,Graham Volkman,Ontario,Internal Medicine,FAC_ON_CLIN_015,Physician,Community Clinic,34
+HCP_0687,Adela Chapa,Ontario,Internal Medicine,FAC_ON_HOSP_017,Physician,Hospital,17
+HCP_0688,Chad Sawayn,Ontario,Internal Medicine,FAC_ON_PRIV_018,Physician,Private Practice,10
+HCP_0689,Curtis Hamill,Ontario,Internal Medicine,FAC_ON_PRIV_009,Physician,Private Practice,25
+HCP_0690,Dena Rau,Ontario,Internal Medicine,FAC_ON_ACAD_012,Physician,Academic/Teaching Hospital,1
+HCP_0691,Ayanda Mthembu,Ontario,Internal Medicine,FAC_ON_PRIV_017,Physician,Private Practice,3
+HCP_0692,Jeff Waters,Ontario,Internal Medicine,FAC_ON_PRIV_002,Physician,Private Practice,9
+HCP_0693,Vivek Iyer,Ontario,Internal Medicine,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,16
+HCP_0694,Haruto Sato,Ontario,Internal Medicine,FAC_ON_CLIN_008,Physician,Community Clinic,13
+HCP_0695,Hassan Rath,Ontario,Internal Medicine,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,7
+HCP_0696,Matt Bartell,Ontario,Internal Medicine,FAC_ON_CLIN_002,Physician,Community Clinic,13
+HCP_0697,Della Steuber,Ontario,Internal Medicine,FAC_ON_HOSP_020,Physician,Hospital,12
+HCP_0698,Chad Sawayn,Ontario,Internal Medicine,FAC_ON_CLIN_009,Physician,Community Clinic,19
+HCP_0699,Garth Wyman,Ontario,Internal Medicine,FAC_ON_HOSP_025,Physician,Hospital,20
+HCP_0700,Veda Pfeffer,Ontario,Internal Medicine,FAC_ON_HOSP_009,Physician,Hospital,31
+HCP_0701,Alecia Welch,Ontario,Internal Medicine,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,29
+HCP_0702,Harold Kessler,Ontario,Internal Medicine,FAC_ON_ACAD_008,Physician,Academic/Teaching Hospital,11
+HCP_0703,Maile Frami,Ontario,Internal Medicine,FAC_ON_HOSP_008,Physician,Hospital,32
+HCP_0704,Maile Frami,Ontario,Internal Medicine,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,19
+HCP_0705,Mohammed Parisian,Ontario,Internal Medicine,FAC_ON_HOSP_015,Physician,Hospital,7
+HCP_0706,Haley Effertz,Ontario,Internal Medicine,FAC_ON_CLIN_014,Physician,Community Clinic,12
+HCP_0707,Suzette Monahan,Ontario,Internal Medicine,FAC_ON_PRIV_010,Physician,Private Practice,26
+HCP_0708,Estefana Emmerich,Ontario,Internal Medicine,FAC_ON_CLIN_005,Physician,Community Clinic,29
+HCP_0709,Reyna Keeling,Ontario,Internal Medicine,FAC_ON_PRIV_021,Physician,Private Practice,14
+HCP_0710,Corrina Pacocha,Ontario,Internal Medicine,FAC_ON_ACAD_007,Physician,Academic/Teaching Hospital,6
+HCP_0711,Indira Willms,Ontario,Internal Medicine,FAC_ON_HOSP_019,Physician,Hospital,7
+HCP_0712,Alecia Welch,Ontario,Internal Medicine,FAC_ON_HOSP_026,Physician,Hospital,4
+HCP_0713,Alfred Weber,Ontario,Internal Medicine,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,25
+HCP_0714,Edmundo Bauch,Ontario,Internal Medicine,FAC_ON_PRIV_021,Physician,Private Practice,18
+HCP_0715,Priya Nair,Ontario,Internal Medicine,FAC_ON_PRIV_005,Physician,Private Practice,16
+HCP_0716,Graham Volkman,Ontario,Internal Medicine,FAC_ON_CLIN_005,Physician,Community Clinic,24
+HCP_0717,Blanca Feliciano,Ontario,Internal Medicine,FAC_ON_CLIN_001,Physician,Community Clinic,30
+HCP_0718,Zaida Treutel,Ontario,Internal Medicine,FAC_ON_PRIV_009,Physician,Private Practice,28
+HCP_0719,Lyndia Hettinger,Ontario,Internal Medicine,FAC_ON_PRIV_010,Physician,Private Practice,5
+HCP_0720,Alexander Koch,Ontario,Internal Medicine,FAC_ON_HOSP_001,Physician,Hospital,21
+HCP_0721,Clint Goldner,Ontario,Internal Medicine,FAC_ON_PRIV_013,Physician,Private Practice,31
+HCP_0722,Vivek Iyer,Ontario,Internal Medicine,FAC_ON_PRIV_012,Physician,Private Practice,28
+HCP_0723,Anika Wisozk,Ontario,Internal Medicine,FAC_ON_HOSP_007,Physician,Hospital,12
+HCP_0724,Myong Heidenreich,Ontario,Internal Medicine,FAC_ON_CLIN_017,Physician,Community Clinic,14
+HCP_0725,Dena Rau,Ontario,Internal Medicine,FAC_ON_ACAD_010,Physician,Academic/Teaching Hospital,32
+HCP_0726,Brittani Satterfield,Ontario,Internal Medicine,FAC_ON_PRIV_003,Physician,Private Practice,2
+HCP_0727,Della Steuber,Ontario,Internal Medicine,FAC_ON_HOSP_007,Physician,Hospital,19
+HCP_0728,Malinda Cassin,Ontario,Internal Medicine,FAC_ON_HOSP_007,Physician,Hospital,5
+HCP_0729,Noriko Anderson,Ontario,Internal Medicine,FAC_ON_PRIV_017,Physician,Private Practice,32
+HCP_0730,Andrés Sauceda,Ontario,Cardiology,FAC_ON_CLIN_020,Physician,Community Clinic,2
+HCP_0731,Kathe O'Conner,Ontario,Cardiology,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,1
+HCP_0732,Jeanelle Wyman,Ontario,Cardiology,FAC_ON_PRIV_005,Physician,Private Practice,12
+HCP_0733,Arjun Malhotra,Ontario,Cardiology,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,8
+HCP_0734,Carlos Bins,Ontario,Cardiology,FAC_ON_HOSP_013,Physician,Hospital,18
+HCP_0735,Lucio Robel,Ontario,Cardiology,FAC_ON_CLIN_019,Physician,Community Clinic,11
+HCP_0736,Gemma Effertz,Ontario,Cardiology,FAC_ON_HOSP_023,Physician,Hospital,13
+HCP_0737,Kathe O'Conner,Ontario,Cardiology,FAC_ON_PRIV_007,Physician,Private Practice,20
+HCP_0738,Felton Glover,Ontario,Cardiology,FAC_ON_HOSP_001,Physician,Hospital,20
+HCP_0739,Kelly Boyle,Ontario,Cardiology,FAC_ON_CLIN_009,Physician,Community Clinic,33
+HCP_0740,Aubrey Greenfelder,Ontario,Cardiology,FAC_ON_CLIN_014,Physician,Community Clinic,17
+HCP_0741,Elijah Koepp,Ontario,Cardiology,FAC_ON_HOSP_022,Physician,Hospital,20
+HCP_0742,Edmundo Bauch,Ontario,Cardiology,FAC_ON_HOSP_017,Physician,Hospital,24
+HCP_0743,Roxanna Crist,Ontario,Cardiology,FAC_ON_PRIV_019,Physician,Private Practice,7
+HCP_0744,Buford Toy,Ontario,Cardiology,FAC_ON_ACAD_021,Physician,Academic/Teaching Hospital,24
+HCP_0745,Jeff Waters,Ontario,Cardiology,FAC_ON_HOSP_016,Physician,Hospital,31
+HCP_0746,Sharen McGlynn,Ontario,Cardiology,FAC_ON_CLIN_022,Physician,Community Clinic,12
+HCP_0747,Kimberely Beatty,Ontario,Cardiology,FAC_ON_HOSP_018,Physician,Hospital,7
+HCP_0748,Gale Jacobi,Ontario,Cardiology,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,13
+HCP_0749,Armida Huel,Ontario,Cardiology,FAC_ON_CLIN_014,Physician,Community Clinic,10
+HCP_0750,Lon Lind,Ontario,Cardiology,FAC_ON_ACAD_006,Physician,Academic/Teaching Hospital,21
+HCP_0751,Mika Suzuki,Ontario,Cardiology,FAC_ON_HOSP_004,Physician,Hospital,31
+HCP_0752,Jamie Eichmann,Ontario,Cardiology,FAC_ON_HOSP_020,Physician,Hospital,21
+HCP_0753,Malinda Cassin,Ontario,Cardiology,FAC_ON_PRIV_016,Physician,Private Practice,5
+HCP_0754,Neha Deshmukh,Ontario,Cardiology,FAC_ON_PRIV_009,Physician,Private Practice,12
+HCP_0755,Rory Kuvalis,Ontario,Cardiology,FAC_ON_ACAD_016,Physician,Academic/Teaching Hospital,25
+HCP_0756,Lavinia Douglas,Ontario,Cardiology,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,12
+HCP_0757,Kelly Boyle,Ontario,Cardiology,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,21
+HCP_0758,Victor Fadel,Ontario,Cardiology,FAC_ON_PRIV_021,Physician,Private Practice,25
+HCP_0759,Mohammed Parisian,Ontario,Cardiology,FAC_ON_CLIN_007,Physician,Community Clinic,12
+HCP_0760,Kathe O'Conner,Ontario,Cardiology,FAC_ON_CLIN_008,Physician,Community Clinic,23
+HCP_0761,Sanford Gottlieb,Ontario,Cardiology,FAC_ON_HOSP_007,Physician,Hospital,14
+HCP_0762,Rory Kuvalis,Ontario,Cardiology,FAC_ON_CLIN_016,Physician,Community Clinic,5
+HCP_0763,Haruto Sato,Ontario,Cardiology,FAC_ON_CLIN_010,Physician,Community Clinic,14
+HCP_0764,Neha Deshmukh,Ontario,Cardiology,FAC_ON_HOSP_014,Physician,Hospital,16
+HCP_0765,Micheal Deckow,Ontario,Cardiology,FAC_ON_HOSP_018,Physician,Hospital,1
+HCP_0766,Rosalind Kutch,Ontario,Cardiology,FAC_ON_PRIV_009,Physician,Private Practice,32
+HCP_0767,Michel Reichel,Ontario,Cardiology,FAC_ON_CLIN_019,Physician,Community Clinic,19
+HCP_0768,Elvis Hartmann,Ontario,Cardiology,FAC_ON_ACAD_012,Physician,Academic/Teaching Hospital,2
+HCP_0769,Clint Goldner,Ontario,Cardiology,FAC_ON_CLIN_020,Physician,Community Clinic,31
+HCP_0770,Dorene Kessler,Ontario,Cardiology,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,30
+HCP_0771,Mickie Greenholt,Ontario,Cardiology,FAC_ON_PRIV_013,Physician,Private Practice,1
+HCP_0772,Naledi Khumalo,Ontario,Cardiology,FAC_ON_HOSP_016,Physician,Hospital,6
+HCP_0773,Suzette Monahan,Ontario,Cardiology,FAC_ON_HOSP_009,Physician,Hospital,13
+HCP_0774,Thad Osinski,Ontario,Cardiology,FAC_ON_PRIV_006,Physician,Private Practice,18
+HCP_0775,Carroll McClure,Ontario,Cardiology,FAC_ON_PRIV_005,Physician,Private Practice,26
+HCP_0776,Aiko Nakamura,Ontario,Cardiology,FAC_ON_CLIN_001,Physician,Community Clinic,15
+HCP_0777,Jere Waelchi,Ontario,Cardiology,FAC_ON_PRIV_011,Physician,Private Practice,22
+HCP_0778,Myong Heidenreich,Ontario,Cardiology,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,1
+HCP_0779,Buford Toy,Ontario,Gastroenterology,FAC_ON_CLIN_016,Physician,Community Clinic,24
+HCP_0780,Earle Rice,Ontario,Gastroenterology,FAC_ON_HOSP_011,Physician,Hospital,33
+HCP_0781,Karisa Stiedemann,Ontario,Gastroenterology,FAC_ON_CLIN_009,Physician,Community Clinic,19
+HCP_0782,Joleen Oberbrunner,Ontario,Gastroenterology,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,16
+HCP_0783,Cheree Cassin,Ontario,Gastroenterology,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,11
+HCP_0784,Cheree Cassin,Ontario,Gastroenterology,FAC_ON_ACAD_006,Physician,Academic/Teaching Hospital,34
+HCP_0785,Elvis Hartmann,Ontario,Gastroenterology,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,2
+HCP_0786,Brendon Bailey,Ontario,Gastroenterology,FAC_ON_HOSP_013,Physician,Hospital,11
+HCP_0787,Von Mraz,Ontario,Gastroenterology,FAC_ON_CLIN_012,Physician,Community Clinic,5
+HCP_0788,Maximo Carter,Ontario,Gastroenterology,FAC_ON_HOSP_002,Physician,Hospital,31
+HCP_0789,Kathyrn Weimann,Ontario,Gastroenterology,FAC_ON_HOSP_019,Physician,Hospital,17
+HCP_0790,Gaynell Streich,Ontario,Gastroenterology,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,33
+HCP_0791,Veda Pfeffer,Ontario,Gastroenterology,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,24
+HCP_0792,Daron Berge,Ontario,Gastroenterology,FAC_ON_HOSP_003,Physician,Hospital,20
+HCP_0793,Della Steuber,Ontario,Gastroenterology,FAC_ON_PRIV_013,Physician,Private Practice,19
+HCP_0794,Parker Grady,Ontario,Gastroenterology,FAC_ON_PRIV_018,Physician,Private Practice,8
+HCP_0795,Carmelina Wisozk,Ontario,Gastroenterology,FAC_ON_HOSP_012,Physician,Hospital,20
+HCP_0796,Paige Goodwin,Ontario,Gastroenterology,FAC_ON_ACAD_001,Physician,Academic/Teaching Hospital,24
+HCP_0797,Hana Kobayashi,Ontario,Gastroenterology,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,34
+HCP_0798,Bruno Smitham,Ontario,Gastroenterology,FAC_ON_PRIV_009,Physician,Private Practice,20
+HCP_0799,Gale Jacobi,Ontario,Gastroenterology,FAC_ON_PRIV_020,Physician,Private Practice,33
+HCP_0800,Jackeline Schmitt,Ontario,Gastroenterology,FAC_ON_CLIN_006,Physician,Community Clinic,34
+HCP_0801,Gaynell Streich,Ontario,Gastroenterology,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,19
+HCP_0802,Myrl Eichmann,Ontario,Gastroenterology,FAC_ON_CLIN_009,Physician,Community Clinic,16
+HCP_0803,Blanca Feliciano,Ontario,Gastroenterology,FAC_ON_ACAD_008,Physician,Academic/Teaching Hospital,5
+HCP_0804,Priya Nair,Ontario,Neurology,FAC_ON_HOSP_018,Physician,Hospital,10
+HCP_0805,Kelly Boyle,Ontario,Neurology,FAC_ON_HOSP_003,Physician,Hospital,31
+HCP_0806,Rosalind Kutch,Ontario,Neurology,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,5
+HCP_0807,Kathyrn Weimann,Ontario,Neurology,FAC_ON_CLIN_008,Physician,Community Clinic,14
+HCP_0808,Crista Keebler,Ontario,Neurology,FAC_ON_CLIN_002,Physician,Community Clinic,25
+HCP_0809,Mac Stroman,Ontario,Neurology,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,9
+HCP_0810,Ayanda Mthembu,Ontario,Neurology,FAC_ON_HOSP_026,Physician,Hospital,35
+HCP_0811,Colby Schowalter,Ontario,Neurology,FAC_ON_PRIV_014,Physician,Private Practice,23
+HCP_0812,Mariano West,Ontario,Neurology,FAC_ON_CLIN_018,Physician,Community Clinic,1
+HCP_0813,Maximo Carter,Ontario,Neurology,FAC_ON_HOSP_010,Physician,Hospital,9
+HCP_0814,Reggie Mitchell,Ontario,Neurology,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,26
+HCP_0815,Carlos Bins,Ontario,Neurology,FAC_ON_HOSP_001,Physician,Hospital,31
+HCP_0816,Albertina Skiles,Ontario,Neurology,FAC_ON_HOSP_018,Physician,Hospital,33
+HCP_0817,Colby Schowalter,Ontario,Neurology,FAC_ON_PRIV_002,Physician,Private Practice,30
+HCP_0818,Vern Powlowski,Ontario,Neurology,FAC_ON_ACAD_007,Physician,Academic/Teaching Hospital,3
+HCP_0819,Kurtis Schulist,Ontario,Neurology,FAC_ON_HOSP_015,Physician,Hospital,26
+HCP_0820,Ayanda Mthembu,Ontario,Neurology,FAC_ON_PRIV_017,Physician,Private Practice,4
+HCP_0821,Phillip McCullough,Ontario,Neurology,FAC_ON_PRIV_013,Physician,Private Practice,3
+HCP_0822,Kurtis Schulist,Ontario,Neurology,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,25
+HCP_0823,Jeramy Littel,Ontario,Neurology,FAC_ON_HOSP_017,Physician,Hospital,17
+HCP_0824,Mickie Greenholt,Ontario,Neurology,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,23
+HCP_0825,Arcelia Gottlieb,Ontario,Neurology,FAC_ON_PRIV_009,Physician,Private Practice,30
+HCP_0826,Hassan Rath,Ontario,Neurology,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,3
+HCP_0827,Indira Willms,Ontario,Neurology,FAC_ON_CLIN_004,Physician,Community Clinic,19
+HCP_0828,Aubrey Greenfelder,Ontario,Neurology,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,30
+HCP_0829,Billy Bahringer,Ontario,Neurology,FAC_ON_PRIV_011,Physician,Private Practice,16
+HCP_0830,Guadalupe Valenzuela,Ontario,Neurology,FAC_ON_HOSP_020,Physician,Hospital,19
+HCP_0831,Michell Friesen,Ontario,Neurology,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,18
+HCP_0832,Geraldo Kiehn,Ontario,Neurology,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,32
+HCP_0833,Daron Berge,Ontario,Neurology,FAC_ON_CLIN_009,Physician,Community Clinic,2
+HCP_0834,Pamelia Harber,Ontario,Neurology,FAC_ON_PRIV_007,Physician,Private Practice,31
+HCP_0835,Toi Kulas,Ontario,Neurology,FAC_ON_CLIN_005,Physician,Community Clinic,29
+HCP_0836,Carlos Bins,Ontario,Neurology,FAC_ON_PRIV_014,Physician,Private Practice,29
+HCP_0837,Glory Hickle,Ontario,Neurology,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,15
+HCP_0838,Luke Rath,Ontario,Neurology,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,19
+HCP_0839,Patricia Salgado,Ontario,Neurology,FAC_ON_HOSP_013,Physician,Hospital,13
+HCP_0840,Ananya Mehta,Ontario,Psychiatry,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,9
+HCP_0841,Ferne Hudson,Ontario,Psychiatry,FAC_ON_CLIN_004,Physician,Community Clinic,31
+HCP_0842,Alia Adams,Ontario,Psychiatry,FAC_ON_PRIV_013,Physician,Private Practice,18
+HCP_0843,Ananya Mehta,Ontario,Psychiatry,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,26
+HCP_0844,Terry Wiegand,Ontario,Psychiatry,FAC_ON_CLIN_009,Physician,Community Clinic,4
+HCP_0845,Suzette Monahan,Ontario,Psychiatry,FAC_ON_CLIN_021,Physician,Community Clinic,28
+HCP_0846,Suzette Monahan,Ontario,Psychiatry,FAC_ON_CLIN_021,Physician,Community Clinic,24
+HCP_0847,Lon Lind,Ontario,Psychiatry,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,35
+HCP_0848,Leonor Najera,Ontario,Psychiatry,FAC_ON_CLIN_009,Physician,Community Clinic,5
+HCP_0849,Elijah Koepp,Ontario,Psychiatry,FAC_ON_CLIN_012,Physician,Community Clinic,19
+HCP_0850,Raphael Connelly,Ontario,Psychiatry,FAC_ON_CLIN_022,Physician,Community Clinic,18
+HCP_0851,Sipho Dlamini,Ontario,Psychiatry,FAC_ON_HOSP_022,Physician,Hospital,19
+HCP_0852,Graham Volkman,Ontario,Psychiatry,FAC_ON_CLIN_006,Physician,Community Clinic,2
+HCP_0853,Daichi Watanabe,Ontario,Psychiatry,FAC_ON_HOSP_010,Physician,Hospital,17
+HCP_0854,Geraldo Kiehn,Ontario,Psychiatry,FAC_ON_HOSP_015,Physician,Hospital,11
+HCP_0855,Homer Wiegand,Ontario,Psychiatry,FAC_ON_PRIV_010,Physician,Private Practice,22
+HCP_0856,Earle Rice,Ontario,Psychiatry,FAC_ON_HOSP_005,Physician,Hospital,9
+HCP_0857,Michell Friesen,Ontario,Psychiatry,FAC_ON_PRIV_007,Physician,Private Practice,16
+HCP_0858,Devora Sipes,Ontario,Psychiatry,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,22
+HCP_0859,Kurtis Schulist,Ontario,Psychiatry,FAC_ON_PRIV_009,Physician,Private Practice,3
+HCP_0860,Graham Volkman,Ontario,Psychiatry,FAC_ON_CLIN_021,Physician,Community Clinic,28
+HCP_0861,Hana Kobayashi,Ontario,Psychiatry,FAC_ON_HOSP_017,Physician,Hospital,26
+HCP_0862,Kavita Rao,Ontario,Psychiatry,FAC_ON_ACAD_001,Physician,Academic/Teaching Hospital,3
+HCP_0863,Myong Heidenreich,Ontario,Psychiatry,FAC_ON_ACAD_008,Physician,Academic/Teaching Hospital,3
+HCP_0864,Crissy O'Connell,Ontario,Psychiatry,FAC_ON_PRIV_011,Physician,Private Practice,30
+HCP_0865,Carroll McClure,Ontario,Psychiatry,FAC_ON_HOSP_007,Physician,Hospital,10
+HCP_0866,Augustine Fisher,Ontario,Psychiatry,FAC_ON_HOSP_019,Physician,Hospital,31
+HCP_0867,Elijah Koepp,Ontario,Psychiatry,FAC_ON_CLIN_003,Physician,Community Clinic,18
+HCP_0868,Albertina Skiles,Ontario,Psychiatry,FAC_ON_HOSP_021,Physician,Hospital,12
+HCP_0869,Curtis Hamill,Ontario,Psychiatry,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,10
+HCP_0870,Tiana Blick,Ontario,Psychiatry,FAC_ON_HOSP_023,Physician,Hospital,24
+HCP_0871,Bruno Smitham,Ontario,Psychiatry,FAC_ON_CLIN_005,Physician,Community Clinic,4
+HCP_0872,Donita Ward,Ontario,Psychiatry,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,15
+HCP_0873,Brittani Satterfield,Ontario,Psychiatry,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,13
+HCP_0874,Cheree Cassin,Ontario,Psychiatry,FAC_ON_HOSP_025,Physician,Hospital,6
+HCP_0875,Augustine Fisher,Ontario,Psychiatry,FAC_ON_CLIN_008,Physician,Community Clinic,13
+HCP_0876,Shawnee Zieme,Ontario,Psychiatry,FAC_ON_PRIV_011,Physician,Private Practice,19
+HCP_0877,Marylee Reynolds,Ontario,Psychiatry,FAC_ON_PRIV_007,Physician,Private Practice,24
+HCP_0878,Fernando Sierra,Ontario,Psychiatry,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,4
+HCP_0879,Dewayne Rosenbaum,Ontario,Psychiatry,FAC_ON_ACAD_007,Physician,Academic/Teaching Hospital,31
+HCP_0880,Darrel Lang,Ontario,Psychiatry,FAC_ON_ACAD_010,Physician,Academic/Teaching Hospital,31
+HCP_0881,Malinda Cassin,Ontario,Psychiatry,FAC_ON_HOSP_004,Physician,Hospital,25
+HCP_0882,Earle Rice,Ontario,Psychiatry,FAC_ON_HOSP_004,Physician,Hospital,33
+HCP_0883,Ezequiel Hoeger,Ontario,Psychiatry,FAC_ON_PRIV_013,Physician,Private Practice,15
+HCP_0884,Lon Lind,Ontario,Psychiatry,FAC_ON_HOSP_025,Physician,Hospital,29
+HCP_0885,Hae Ruecker,Ontario,Psychiatry,FAC_ON_CLIN_001,Physician,Community Clinic,26
+HCP_0886,Joan Trantow,Ontario,Psychiatry,FAC_ON_HOSP_010,Physician,Hospital,20
+HCP_0887,Leonor Najera,Ontario,Psychiatry,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,7
+HCP_0888,Rivka Sanford,Ontario,Psychiatry,FAC_ON_HOSP_001,Physician,Hospital,20
+HCP_0889,Patricia Salgado,Ontario,Psychiatry,FAC_ON_HOSP_008,Physician,Hospital,32
+HCP_0890,Buford Toy,Ontario,Psychiatry,FAC_ON_HOSP_022,Physician,Hospital,35
+HCP_0891,Oscar Mateo,Ontario,Psychiatry,FAC_ON_HOSP_010,Physician,Hospital,16
+HCP_0892,Kathlyn Borer,Ontario,Psychiatry,FAC_ON_PRIV_005,Physician,Private Practice,9
+HCP_0893,Alecia Welch,Ontario,Psychiatry,FAC_ON_CLIN_018,Physician,Community Clinic,27
+HCP_0894,Sipho Dlamini,Ontario,Psychiatry,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,3
+HCP_0895,Lavera Flatley,Ontario,Psychiatry,FAC_ON_CLIN_019,Physician,Community Clinic,6
+HCP_0896,Michel Reichel,Ontario,Psychiatry,FAC_ON_PRIV_012,Physician,Private Practice,20
+HCP_0897,Britta Stokes,Ontario,Psychiatry,FAC_ON_PRIV_003,Physician,Private Practice,35
+HCP_0898,Devora Sipes,Ontario,Psychiatry,FAC_ON_PRIV_011,Physician,Private Practice,12
+HCP_0899,Houston Osinski,Ontario,Psychiatry,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,16
+HCP_0900,Harold Kessler,Ontario,Psychiatry,FAC_ON_HOSP_002,Physician,Hospital,12
+HCP_0901,Suzette Monahan,Ontario,Psychiatry,FAC_ON_PRIV_018,Physician,Private Practice,16
+HCP_0902,Colby Schowalter,Ontario,Psychiatry,FAC_ON_ACAD_010,Physician,Academic/Teaching Hospital,1
+HCP_0903,Jinny Conroy,Ontario,Psychiatry,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,21
+HCP_0904,Ettie Schroeder,Ontario,Psychiatry,FAC_ON_PRIV_018,Physician,Private Practice,21
+HCP_0905,Bruno Smitham,Ontario,Psychiatry,FAC_ON_PRIV_016,Physician,Private Practice,12
+HCP_0906,Kathlyn Borer,Ontario,Psychiatry,FAC_ON_ACAD_016,Physician,Academic/Teaching Hospital,10
+HCP_0907,Deloris Zemlak,Ontario,Psychiatry,FAC_ON_PRIV_017,Physician,Private Practice,27
+HCP_0908,Vertie Towne,Ontario,Psychiatry,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,7
+HCP_0909,Pamala Collier,Ontario,Psychiatry,FAC_ON_HOSP_019,Physician,Hospital,2
+HCP_0910,Hassan Rath,Ontario,Psychiatry,FAC_ON_CLIN_009,Physician,Community Clinic,2
+HCP_0911,Crissy O'Connell,Ontario,Psychiatry,FAC_ON_HOSP_006,Physician,Hospital,31
+HCP_0912,Kasi Hickle,Ontario,Psychiatry,FAC_ON_HOSP_010,Physician,Hospital,13
+HCP_0913,Dorene Kessler,Ontario,Psychiatry,FAC_ON_CLIN_019,Physician,Community Clinic,4
+HCP_0914,Sipho Dlamini,Ontario,Psychiatry,FAC_ON_HOSP_001,Physician,Hospital,31
+HCP_0915,Chad Sawayn,Ontario,Psychiatry,FAC_ON_CLIN_017,Physician,Community Clinic,6
+HCP_0916,Bruno Smitham,Ontario,Psychiatry,FAC_ON_CLIN_018,Physician,Community Clinic,12
+HCP_0917,Marylee Reynolds,Ontario,Psychiatry,FAC_ON_PRIV_002,Physician,Private Practice,1
+HCP_0918,Dena Rau,Ontario,Psychiatry,FAC_ON_ACAD_006,Physician,Academic/Teaching Hospital,24
+HCP_0919,Matt Bartell,Ontario,Psychiatry,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,25
+HCP_0920,Joleen Oberbrunner,Ontario,Psychiatry,FAC_ON_CLIN_018,Physician,Community Clinic,27
+HCP_0921,Olen Heathcote,Ontario,Psychiatry,FAC_ON_CLIN_013,Physician,Community Clinic,10
+HCP_0922,Estefana Emmerich,Ontario,Psychiatry,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,12
+HCP_0923,Curtis Hamill,Ontario,Psychiatry,FAC_ON_HOSP_016,Physician,Hospital,33
+HCP_0924,Pamelia Harber,Ontario,Psychiatry,FAC_ON_PRIV_008,Physician,Private Practice,29
+HCP_0925,Emilee Runolfsdottir,Ontario,Psychiatry,FAC_ON_CLIN_003,Physician,Community Clinic,2
+HCP_0926,Haruto Sato,Ontario,Psychiatry,FAC_ON_HOSP_012,Physician,Hospital,25
+HCP_0927,Marylee Reynolds,Ontario,Psychiatry,FAC_ON_PRIV_015,Physician,Private Practice,29
+HCP_0928,Myrl Eichmann,Ontario,Psychiatry,FAC_ON_CLIN_021,Physician,Community Clinic,20
+HCP_0929,Caroyln Hyatt,Ontario,Psychiatry,FAC_ON_HOSP_023,Physician,Hospital,23
+HCP_0930,Leilani Stoltenberg,Ontario,Psychiatry,FAC_ON_PRIV_018,Physician,Private Practice,1
+HCP_0931,Latashia Glover,Ontario,Psychiatry,FAC_ON_HOSP_009,Physician,Hospital,2
+HCP_0932,Dahlia Renner,Ontario,Psychiatry,FAC_ON_PRIV_013,Physician,Private Practice,2
+HCP_0933,Kent Morar,Ontario,Psychiatry,FAC_ON_HOSP_006,Physician,Hospital,6
+HCP_0934,Mickie Greenholt,Ontario,Psychiatry,FAC_ON_CLIN_014,Physician,Community Clinic,35
+HCP_0935,Jackeline Schmitt,Ontario,Psychiatry,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,23
+HCP_0936,Rahul Menon,Ontario,Psychiatry,FAC_ON_HOSP_005,Physician,Hospital,28
+HCP_0937,Lon Lind,Ontario,Psychiatry,FAC_ON_ACAD_012,Physician,Academic/Teaching Hospital,11
+HCP_0938,Jamie Eichmann,Ontario,Psychiatry,FAC_ON_PRIV_019,Physician,Private Practice,33
+HCP_0939,Suanne Douglas,Ontario,Psychiatry,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,7
+HCP_0940,Britta Stokes,Ontario,Psychiatry,FAC_ON_HOSP_006,Physician,Hospital,32
+HCP_0941,Rosalba Greenfelder,Ontario,Psychiatry,FAC_ON_PRIV_007,Physician,Private Practice,2
+HCP_0942,Lai Friesen,Ontario,Psychiatry,FAC_ON_ACAD_010,Physician,Academic/Teaching Hospital,1
+HCP_0943,Rohan Kapoor,Ontario,Psychiatry,FAC_ON_ACAD_021,Physician,Academic/Teaching Hospital,3
+HCP_0944,Reyna Keeling,Ontario,Psychiatry,FAC_ON_HOSP_012,Physician,Hospital,28
+HCP_0945,Mohammed Parisian,Ontario,Psychiatry,FAC_ON_ACAD_006,Physician,Academic/Teaching Hospital,10
+HCP_0946,Myong Heidenreich,Ontario,Psychiatry,FAC_ON_HOSP_003,Physician,Hospital,16
+HCP_0947,Ren Takahashi,Ontario,Psychiatry,FAC_ON_PRIV_004,Physician,Private Practice,17
+HCP_0948,Jeramy Littel,Ontario,Psychiatry,FAC_ON_CLIN_020,Physician,Community Clinic,28
+HCP_0949,Haruto Sato,Ontario,Psychiatry,FAC_ON_PRIV_002,Physician,Private Practice,13
+HCP_0950,Chere Greenfelder,Ontario,Psychiatry,FAC_ON_PRIV_013,Physician,Private Practice,1
+HCP_0951,Veda Pfeffer,Ontario,Psychiatry,FAC_ON_HOSP_011,Physician,Hospital,14
+HCP_0952,Myrl Eichmann,Ontario,Psychiatry,FAC_ON_PRIV_015,Physician,Private Practice,11
+HCP_0953,Michel Reichel,Ontario,Psychiatry,FAC_ON_ACAD_007,Physician,Academic/Teaching Hospital,26
+HCP_0954,Maribel Reilly,Ontario,Psychiatry,FAC_ON_CLIN_022,Physician,Community Clinic,27
+HCP_0955,Dena Rau,Ontario,Psychiatry,FAC_ON_CLIN_005,Physician,Community Clinic,4
+HCP_0956,Michel Reichel,Ontario,Psychiatry,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,28
+HCP_0957,Norbert Murphy,Ontario,Psychiatry,FAC_ON_HOSP_023,Physician,Hospital,3
+HCP_0958,Roxanna Crist,Ontario,Psychiatry,FAC_ON_CLIN_009,Physician,Community Clinic,22
+HCP_0959,Ren Takahashi,Ontario,Psychiatry,FAC_ON_PRIV_007,Physician,Private Practice,14
+HCP_0960,Deloris Zemlak,Ontario,Psychiatry,FAC_ON_CLIN_005,Physician,Community Clinic,11
+HCP_0961,Lonna Dietrich,Ontario,Psychiatry,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,17
+HCP_0962,Adela Chapa,Ontario,Psychiatry,FAC_ON_CLIN_002,Physician,Community Clinic,11
+HCP_0963,Albertina Skiles,Ontario,Psychiatry,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,28
+HCP_0964,Jinny Conroy,Ontario,Psychiatry,FAC_ON_HOSP_020,Physician,Hospital,34
+HCP_0965,Haruto Sato,Ontario,Psychiatry,FAC_ON_PRIV_018,Physician,Private Practice,29
+HCP_0966,Brendon Bailey,Ontario,Psychiatry,FAC_ON_PRIV_017,Physician,Private Practice,16
+HCP_0967,Alexander Koch,Ontario,Psychiatry,FAC_ON_HOSP_017,Physician,Hospital,18
+HCP_0968,Gale Jacobi,Ontario,Psychiatry,FAC_ON_HOSP_024,Physician,Hospital,16
+HCP_0969,Priya Nair,Ontario,Psychiatry,FAC_ON_PRIV_008,Physician,Private Practice,28
+HCP_0970,Terry Wiegand,Ontario,Psychiatry,FAC_ON_PRIV_006,Physician,Private Practice,20
+HCP_0971,Royce Green,Ontario,Psychiatry,FAC_ON_PRIV_017,Physician,Private Practice,17
+HCP_0972,Caroyln Hyatt,Ontario,Psychiatry,FAC_ON_HOSP_021,Physician,Hospital,15
+HCP_0973,Elvis Hartmann,Ontario,Psychiatry,FAC_ON_PRIV_015,Physician,Private Practice,14
+HCP_0974,Reyna Keeling,Ontario,Psychiatry,FAC_ON_ACAD_008,Physician,Academic/Teaching Hospital,20
+HCP_0975,Jamie Eichmann,Ontario,Psychiatry,FAC_ON_HOSP_017,Physician,Hospital,25
+HCP_0976,Jason Streich,Ontario,Psychiatry,FAC_ON_CLIN_022,Physician,Community Clinic,16
+HCP_0977,Veda Pfeffer,Ontario,Psychiatry,FAC_ON_CLIN_021,Physician,Community Clinic,29
+HCP_0978,Estefana Emmerich,Ontario,Psychiatry,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,29
+HCP_0979,Benita Boehm,Ontario,Psychiatry,FAC_ON_CLIN_021,Physician,Community Clinic,16
+HCP_0980,Haley Effertz,Ontario,Psychiatry,FAC_ON_CLIN_020,Physician,Community Clinic,32
+HCP_0981,Brendon Bailey,Ontario,Psychiatry,FAC_ON_PRIV_004,Physician,Private Practice,7
+HCP_0982,Dahlia Renner,Ontario,Psychiatry,FAC_ON_HOSP_023,Physician,Hospital,33
+HCP_0983,Kathyrn Weimann,Ontario,Psychiatry,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,11
+HCP_0984,Gerard Schaefer,Ontario,Psychiatry,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,20
+HCP_0985,Brendon Bailey,Ontario,Psychiatry,FAC_ON_PRIV_006,Physician,Private Practice,10
+HCP_0986,Mickie Greenholt,Ontario,Psychiatry,FAC_ON_PRIV_011,Physician,Private Practice,16
+HCP_0987,Harold Kessler,Ontario,Psychiatry,FAC_ON_PRIV_012,Physician,Private Practice,12
+HCP_0988,Gale Jacobi,Ontario,Psychiatry,FAC_ON_ACAD_024,Physician,Academic/Teaching Hospital,25
+HCP_0989,Michell Friesen,Ontario,Psychiatry,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,3
+HCP_0990,Hildred Wunsch,Ontario,Psychiatry,FAC_ON_CLIN_015,Physician,Community Clinic,30
+HCP_0991,Ofelia Skiles,Ontario,Psychiatry,FAC_ON_CLIN_012,Physician,Community Clinic,32
+HCP_0992,Dewayne Rosenbaum,Ontario,Psychiatry,FAC_ON_PRIV_004,Physician,Private Practice,20
+HCP_0993,Luke Rath,Ontario,Psychiatry,FAC_ON_HOSP_004,Physician,Hospital,20
+HCP_0994,Carmelina Wisozk,Ontario,Psychiatry,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,25
+HCP_0995,Buddy Schinner,Ontario,Psychiatry,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,7
+HCP_0996,Earl Fahey,Ontario,Psychiatry,FAC_ON_PRIV_021,Physician,Private Practice,27
+HCP_0997,Buster Ferry,Ontario,Psychiatry,FAC_ON_CLIN_022,Physician,Community Clinic,8
+HCP_0998,Micheal Deckow,Ontario,Psychiatry,FAC_ON_CLIN_013,Physician,Community Clinic,24
+HCP_0999,Mika Suzuki,Ontario,Psychiatry,FAC_ON_CLIN_015,Physician,Community Clinic,11
+HCP_1000,Mario Guerra,Ontario,Psychiatry,FAC_ON_PRIV_009,Physician,Private Practice,27
+HCP_1001,Glory Hickle,Ontario,Pediatrics,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,28
+HCP_1002,Kelly Boyle,Ontario,Pediatrics,FAC_ON_PRIV_009,Physician,Private Practice,8
+HCP_1003,Geralyn Mitchell,Ontario,Pediatrics,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,22
+HCP_1004,Ettie Schroeder,Ontario,Pediatrics,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,18
+HCP_1005,Mohammed Parisian,Ontario,Pediatrics,FAC_ON_PRIV_002,Physician,Private Practice,11
+HCP_1006,Arjun Malhotra,Ontario,Pediatrics,FAC_ON_CLIN_005,Physician,Community Clinic,21
+HCP_1007,Earle Rice,Ontario,Pediatrics,FAC_ON_PRIV_020,Physician,Private Practice,35
+HCP_1008,Shawnee Zieme,Ontario,Pediatrics,FAC_ON_CLIN_017,Physician,Community Clinic,1
+HCP_1009,Joan Trantow,Ontario,Pediatrics,FAC_ON_PRIV_006,Physician,Private Practice,34
+HCP_1010,Alecia Welch,Ontario,Pediatrics,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,30
+HCP_1011,Buford Toy,Ontario,Pediatrics,FAC_ON_CLIN_019,Physician,Community Clinic,19
+HCP_1012,Graham Volkman,Ontario,Pediatrics,FAC_ON_PRIV_022,Physician,Private Practice,22
+HCP_1013,Michell Friesen,Ontario,Pediatrics,FAC_ON_HOSP_022,Physician,Hospital,13
+HCP_1014,Gale Jacobi,Ontario,Pediatrics,FAC_ON_PRIV_011,Physician,Private Practice,5
+HCP_1015,Alecia Welch,Ontario,Pediatrics,FAC_ON_CLIN_015,Physician,Community Clinic,21
+HCP_1016,Albertina Skiles,Ontario,Pediatrics,FAC_ON_CLIN_011,Physician,Community Clinic,29
+HCP_1017,Victor Fadel,Ontario,Pediatrics,FAC_ON_PRIV_020,Physician,Private Practice,9
+HCP_1018,Conchita Tejada,Ontario,Pediatrics,FAC_ON_HOSP_008,Physician,Hospital,26
+HCP_1019,Tiana Blick,Ontario,Pediatrics,FAC_ON_PRIV_004,Physician,Private Practice,27
+HCP_1020,Brittani Satterfield,Ontario,Pediatrics,FAC_ON_PRIV_004,Physician,Private Practice,27
+HCP_1021,Devora Sipes,Ontario,Pediatrics,FAC_ON_CLIN_005,Physician,Community Clinic,12
+HCP_1022,Benton Becker,Ontario,Pediatrics,FAC_ON_HOSP_020,Physician,Hospital,14
+HCP_1023,Marla Sanford,Ontario,Pediatrics,FAC_ON_CLIN_001,Physician,Community Clinic,15
+HCP_1024,Anika Wisozk,Ontario,Pediatrics,FAC_ON_HOSP_024,Physician,Hospital,30
+HCP_1025,Ines Weber,Ontario,Pediatrics,FAC_ON_CLIN_014,Physician,Community Clinic,32
+HCP_1026,Devora Sipes,Ontario,Pediatrics,FAC_ON_PRIV_018,Physician,Private Practice,15
+HCP_1027,Jesus Quiroz,Ontario,Pediatrics,FAC_ON_HOSP_013,Physician,Hospital,34
+HCP_1028,Reggie Mitchell,Ontario,Pediatrics,FAC_ON_PRIV_019,Physician,Private Practice,20
+HCP_1029,Haley Effertz,Ontario,Pediatrics,FAC_ON_HOSP_003,Physician,Hospital,14
+HCP_1030,Felton Glover,Ontario,Pediatrics,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,1
+HCP_1031,Noriko Anderson,Ontario,Pediatrics,FAC_ON_PRIV_012,Physician,Private Practice,22
+HCP_1032,Vertie Towne,Ontario,Pediatrics,FAC_ON_CLIN_016,Physician,Community Clinic,23
+HCP_1033,Kathe O'Conner,Ontario,Pediatrics,FAC_ON_PRIV_001,Physician,Private Practice,34
+HCP_1034,Gale Jacobi,Ontario,Pediatrics,FAC_ON_HOSP_010,Physician,Hospital,26
+HCP_1035,Mari Reynolds,Ontario,Pediatrics,FAC_ON_HOSP_011,Physician,Hospital,2
+HCP_1036,Homero Zúñiga,Ontario,Pediatrics,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,20
+HCP_1037,Carla Koss,Ontario,Pediatrics,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,26
+HCP_1038,Patricia Salgado,Ontario,Pediatrics,FAC_ON_HOSP_025,Physician,Hospital,18
+HCP_1039,Lavinia Douglas,Ontario,Pediatrics,FAC_ON_CLIN_017,Physician,Community Clinic,16
+HCP_1040,Parker Grady,Ontario,Pediatrics,FAC_ON_HOSP_025,Physician,Hospital,29
+HCP_1041,Palma Morar,Ontario,Pediatrics,FAC_ON_CLIN_021,Physician,Community Clinic,22
+HCP_1042,Toi Kulas,Ontario,Pediatrics,FAC_ON_CLIN_011,Physician,Community Clinic,24
+HCP_1043,Caroyln Hyatt,Ontario,Pediatrics,FAC_ON_CLIN_019,Physician,Community Clinic,17
+HCP_1044,Pamala Collier,Ontario,Pediatrics,FAC_ON_PRIV_021,Physician,Private Practice,10
+HCP_1045,Kathlyn Borer,Ontario,Pediatrics,FAC_ON_HOSP_015,Physician,Hospital,19
+HCP_1046,Lonna Dietrich,Ontario,Pediatrics,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,34
+HCP_1047,Geraldo Kiehn,Ontario,Pediatrics,FAC_ON_PRIV_009,Physician,Private Practice,22
+HCP_1048,Alexander Koch,Ontario,Pediatrics,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,25
+HCP_1049,Kurtis Schulist,Ontario,Pediatrics,FAC_ON_HOSP_025,Physician,Hospital,5
+HCP_1050,Myong Heidenreich,Ontario,Pediatrics,FAC_ON_PRIV_021,Physician,Private Practice,35
+HCP_1051,Britta Stokes,Ontario,Pediatrics,FAC_ON_ACAD_010,Physician,Academic/Teaching Hospital,9
+HCP_1052,Sharen McGlynn,Ontario,Pediatrics,FAC_ON_HOSP_012,Physician,Hospital,34
+HCP_1053,Tu Witting,Ontario,Pediatrics,FAC_ON_ACAD_006,Physician,Academic/Teaching Hospital,16
+HCP_1054,Mika Suzuki,Ontario,Pediatrics,FAC_ON_CLIN_016,Physician,Community Clinic,33
+HCP_1055,Jesus Quiroz,Ontario,Pediatrics,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,32
+HCP_1056,Sibusiso Ndlovu,Ontario,Pediatrics,FAC_ON_CLIN_007,Physician,Community Clinic,27
+HCP_1057,Ezequiel Hoeger,Ontario,Pediatrics,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,33
+HCP_1058,Crissy O'Connell,Ontario,Pediatrics,FAC_ON_HOSP_011,Physician,Hospital,22
+HCP_1059,Jere Waelchi,Ontario,Pediatrics,FAC_ON_CLIN_019,Physician,Community Clinic,30
+HCP_1060,Armida Huel,Ontario,Pediatrics,FAC_ON_CLIN_002,Physician,Community Clinic,7
+HCP_1061,Crissy O'Connell,Ontario,Pediatrics,FAC_ON_HOSP_022,Physician,Hospital,3
+HCP_1062,Dotty Considine,Ontario,Pediatrics,FAC_ON_CLIN_014,Physician,Community Clinic,20
+HCP_1063,Pamelia Harber,Ontario,Pediatrics,FAC_ON_CLIN_021,Physician,Community Clinic,29
+HCP_1064,Palma Morar,Ontario,Pediatrics,FAC_ON_HOSP_018,Physician,Hospital,27
+HCP_1065,Lavera Flatley,Ontario,Pediatrics,FAC_ON_PRIV_020,Physician,Private Practice,19
+HCP_1066,Bart Jenkins,Ontario,Pediatrics,FAC_ON_PRIV_019,Physician,Private Practice,19
+HCP_1067,Kavita Rao,Ontario,Pediatrics,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,22
+HCP_1068,Darcey Miller,Ontario,Pediatrics,FAC_ON_PRIV_016,Physician,Private Practice,31
+HCP_1069,Felton Glover,Ontario,Pediatrics,FAC_ON_HOSP_014,Physician,Hospital,30
+HCP_1070,Gaynell Streich,Ontario,Pediatrics,FAC_ON_HOSP_012,Physician,Hospital,4
+HCP_1071,Louvenia Botsford,Ontario,Pediatrics,FAC_ON_CLIN_015,Physician,Community Clinic,21
+HCP_1072,Lucio Robel,Ontario,Pediatrics,FAC_ON_CLIN_021,Physician,Community Clinic,14
+HCP_1073,Elton VonRueden,Ontario,Pediatrics,FAC_ON_HOSP_019,Physician,Hospital,28
+HCP_1074,Buster Ferry,Ontario,Pediatrics,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,18
+HCP_1075,Corrina Pacocha,Ontario,Pediatrics,FAC_ON_PRIV_015,Physician,Private Practice,35
+HCP_1076,Edie Howell,Ontario,Pediatrics,FAC_ON_PRIV_012,Physician,Private Practice,16
+HCP_1077,Moses Schmitt,Ontario,Pediatrics,FAC_ON_HOSP_020,Physician,Hospital,24
+HCP_1078,Edie Howell,Ontario,Pediatrics,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,4
+HCP_1079,Caroyln Hyatt,Ontario,Pediatrics,FAC_ON_HOSP_013,Physician,Hospital,33
+HCP_1080,Brandon Gerhold,Ontario,Pediatrics,FAC_ON_CLIN_002,Physician,Community Clinic,6
+HCP_1081,Priya Nair,Ontario,Pediatrics,FAC_ON_CLIN_012,Physician,Community Clinic,14
+HCP_1082,Lerato Molefe,Ontario,Pediatrics,FAC_ON_ACAD_024,Physician,Academic/Teaching Hospital,30
+HCP_1083,Kenji Yamamoto,Ontario,Pediatrics,FAC_ON_CLIN_018,Physician,Community Clinic,34
+HCP_1084,Rory Kuvalis,Ontario,Pediatrics,FAC_ON_HOSP_001,Physician,Hospital,17
+HCP_1085,Luke Rath,Ontario,Pediatrics,FAC_ON_CLIN_015,Physician,Community Clinic,17
+HCP_1086,Albertina Skiles,Ontario,Pediatrics,FAC_ON_CLIN_020,Physician,Community Clinic,2
+HCP_1087,Graham Volkman,Ontario,Pediatrics,FAC_ON_HOSP_003,Physician,Hospital,35
+HCP_1088,Lerato Molefe,Ontario,Pediatrics,FAC_ON_HOSP_004,Physician,Hospital,1
+HCP_1089,Mickie Greenholt,Ontario,Pediatrics,FAC_ON_HOSP_013,Physician,Hospital,1
+HCP_1090,Clint Goldner,Ontario,Pediatrics,FAC_ON_CLIN_011,Physician,Community Clinic,17
+HCP_1091,Shawnee Zieme,Ontario,Pediatrics,FAC_ON_CLIN_016,Physician,Community Clinic,1
+HCP_1092,Ezequiel Hoeger,Ontario,Pediatrics,FAC_ON_CLIN_010,Physician,Community Clinic,6
+HCP_1093,Anika Wisozk,Ontario,Pediatrics,FAC_ON_PRIV_001,Physician,Private Practice,22
+HCP_1094,Mac Stroman,Ontario,Pediatrics,FAC_ON_HOSP_016,Physician,Hospital,25
+HCP_1095,Anton Gibson,Ontario,Pediatrics,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,11
+HCP_1096,Gertrudis Schaden,Ontario,Pediatrics,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,28
+HCP_1097,Brandon Gerhold,Ontario,Pediatrics,FAC_ON_HOSP_021,Physician,Hospital,22
+HCP_1098,Elton VonRueden,Ontario,Pediatrics,FAC_ON_CLIN_020,Physician,Community Clinic,8
+HCP_1099,Tiana Blick,Ontario,Pediatrics,FAC_ON_HOSP_007,Physician,Hospital,25
+HCP_1100,Carmelina Wisozk,Ontario,Pediatrics,FAC_ON_CLIN_003,Physician,Community Clinic,21
+HCP_1101,Elvis Hartmann,Ontario,Dermatology,FAC_ON_CLIN_006,Physician,Community Clinic,29
+HCP_1102,Don Denesik,Ontario,Dermatology,FAC_ON_HOSP_021,Physician,Hospital,6
+HCP_1103,Priya Nair,Ontario,Dermatology,FAC_ON_HOSP_018,Physician,Hospital,9
+HCP_1104,Lonna Dietrich,Ontario,Dermatology,FAC_ON_CLIN_003,Physician,Community Clinic,11
+HCP_1105,So Legros,Ontario,Dermatology,FAC_ON_PRIV_009,Physician,Private Practice,12
+HCP_1106,Kasi Hickle,Ontario,Dermatology,FAC_ON_CLIN_016,Physician,Community Clinic,32
+HCP_1107,Michell Friesen,Ontario,Dermatology,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,26
+HCP_1108,Drew Kohler,Ontario,Dermatology,FAC_ON_CLIN_006,Physician,Community Clinic,20
+HCP_1109,Rahul Menon,Ontario,Dermatology,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,19
+HCP_1110,Colby Schowalter,Ontario,Dermatology,FAC_ON_HOSP_002,Physician,Hospital,32
+HCP_1111,Roxanna Crist,Ontario,Dermatology,FAC_ON_PRIV_017,Physician,Private Practice,16
+HCP_1112,Florinda Schimmel,Ontario,Dermatology,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,8
+HCP_1113,Rivka Sanford,Ontario,Dermatology,FAC_ON_HOSP_010,Physician,Hospital,5
+HCP_1114,Ferne Hudson,Ontario,Dermatology,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,12
+HCP_1115,Rivka Sanford,Ontario,Dermatology,FAC_ON_CLIN_007,Physician,Community Clinic,23
+HCP_1116,Zaida Treutel,Ontario,Dermatology,FAC_ON_CLIN_019,Physician,Community Clinic,17
+HCP_1117,Sibusiso Ndlovu,Ontario,Dermatology,FAC_ON_PRIV_018,Physician,Private Practice,15
+HCP_1118,Brendon Bailey,Ontario,Dermatology,FAC_ON_PRIV_013,Physician,Private Practice,17
+HCP_1119,Della Steuber,Ontario,Dermatology,FAC_ON_HOSP_008,Physician,Hospital,35
+HCP_1120,Zaida Treutel,Ontario,General Surgery,FAC_ON_ACAD_021,Physician,Academic/Teaching Hospital,35
+HCP_1121,Patricia Salgado,Ontario,General Surgery,FAC_ON_PRIV_016,Physician,Private Practice,6
+HCP_1122,Malinda Cassin,Ontario,General Surgery,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,5
+HCP_1123,Buford Toy,Ontario,General Surgery,FAC_ON_CLIN_008,Physician,Community Clinic,9
+HCP_1124,Michell Friesen,Ontario,General Surgery,FAC_ON_PRIV_001,Physician,Private Practice,30
+HCP_1125,Albertina Skiles,Ontario,General Surgery,FAC_ON_CLIN_004,Physician,Community Clinic,17
+HCP_1126,Anika Wisozk,Ontario,General Surgery,FAC_ON_ACAD_004,Physician,Academic/Teaching Hospital,31
+HCP_1127,Toi Kulas,Ontario,General Surgery,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,23
+HCP_1128,Joleen Oberbrunner,Ontario,General Surgery,FAC_ON_ACAD_024,Physician,Academic/Teaching Hospital,20
+HCP_1129,Rory Kuvalis,Ontario,General Surgery,FAC_ON_PRIV_011,Physician,Private Practice,10
+HCP_1130,Mickie Greenholt,Ontario,General Surgery,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,13
+HCP_1131,Adela Chapa,Ontario,General Surgery,FAC_ON_CLIN_001,Physician,Community Clinic,6
+HCP_1132,Gemma Effertz,Ontario,General Surgery,FAC_ON_CLIN_005,Physician,Community Clinic,19
+HCP_1133,Cathi Gulgowski,Ontario,General Surgery,FAC_ON_ACAD_003,Physician,Academic/Teaching Hospital,10
+HCP_1134,Edmundo Bauch,Ontario,General Surgery,FAC_ON_HOSP_024,Physician,Hospital,11
+HCP_1135,Michel Reichel,Ontario,General Surgery,FAC_ON_PRIV_012,Physician,Private Practice,2
+HCP_1136,Devora Sipes,Ontario,General Surgery,FAC_ON_HOSP_024,Physician,Hospital,28
+HCP_1137,Alfred Weber,Ontario,General Surgery,FAC_ON_PRIV_020,Physician,Private Practice,33
+HCP_1138,Sharen McGlynn,Ontario,General Surgery,FAC_ON_CLIN_021,Physician,Community Clinic,18
+HCP_1139,Homero Zúñiga,Ontario,General Surgery,FAC_ON_CLIN_013,Physician,Community Clinic,19
+HCP_1140,Latashia Glover,Ontario,General Surgery,FAC_ON_CLIN_022,Physician,Community Clinic,33
+HCP_1141,Mariano West,Ontario,General Surgery,FAC_ON_CLIN_005,Physician,Community Clinic,18
+HCP_1142,Juan Connelly,Ontario,General Surgery,FAC_ON_CLIN_008,Physician,Community Clinic,22
+HCP_1143,Vivek Iyer,Ontario,General Surgery,FAC_ON_CLIN_004,Physician,Community Clinic,15
+HCP_1144,Anika Wisozk,Ontario,General Surgery,FAC_ON_PRIV_007,Physician,Private Practice,19
+HCP_1145,Felton Glover,Ontario,General Surgery,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,19
+HCP_1146,Abdul Volkman,Ontario,General Surgery,FAC_ON_PRIV_006,Physician,Private Practice,25
+HCP_1147,Buddy Schinner,Ontario,General Surgery,FAC_ON_PRIV_008,Physician,Private Practice,22
+HCP_1148,Alaine Gusikowski,Ontario,General Surgery,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,18
+HCP_1149,Dotty Considine,Ontario,General Surgery,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,3
+HCP_1150,Earle Rice,Ontario,General Surgery,FAC_ON_HOSP_022,Physician,Hospital,32
+HCP_1151,Pamala Collier,Ontario,General Surgery,FAC_ON_PRIV_004,Physician,Private Practice,32
+HCP_1152,Shawnee Zieme,Ontario,General Surgery,FAC_ON_HOSP_014,Physician,Hospital,7
+HCP_1153,Maribel Reilly,Ontario,General Surgery,FAC_ON_HOSP_013,Physician,Hospital,11
+HCP_1154,Ananya Mehta,Ontario,General Surgery,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,35
+HCP_1155,Myrl Eichmann,Ontario,General Surgery,FAC_ON_HOSP_009,Physician,Hospital,12
+HCP_1156,Brendon Bailey,Ontario,General Surgery,FAC_ON_ACAD_016,Physician,Academic/Teaching Hospital,29
+HCP_1157,Myong Heidenreich,Ontario,General Surgery,FAC_ON_ACAD_007,Physician,Academic/Teaching Hospital,28
+HCP_1158,Earle Rice,Ontario,General Surgery,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,31
+HCP_1159,Victor Fadel,Ontario,General Surgery,FAC_ON_PRIV_013,Physician,Private Practice,1
+HCP_1160,Ofelia Skiles,Ontario,General Surgery,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,17
+HCP_1161,Willie Kessler,Ontario,General Surgery,FAC_ON_HOSP_021,Physician,Hospital,20
+HCP_1162,Tu Witting,Ontario,General Surgery,FAC_ON_ACAD_021,Physician,Academic/Teaching Hospital,30
+HCP_1163,Carroll McClure,Ontario,General Surgery,FAC_ON_HOSP_003,Physician,Hospital,8
+HCP_1164,Kimberely Beatty,Ontario,General Surgery,FAC_ON_CLIN_009,Physician,Community Clinic,11
+HCP_1165,Blanca Feliciano,Ontario,General Surgery,FAC_ON_HOSP_008,Physician,Hospital,7
+HCP_1166,Vern Powlowski,Ontario,General Surgery,FAC_ON_CLIN_013,Physician,Community Clinic,27
+HCP_1167,Phillip McCullough,Ontario,General Surgery,FAC_ON_PRIV_015,Physician,Private Practice,35
+HCP_1168,Norbert Murphy,Ontario,General Surgery,FAC_ON_CLIN_018,Physician,Community Clinic,5
+HCP_1169,Ayanda Mthembu,Ontario,General Surgery,FAC_ON_ACAD_023,Physician,Academic/Teaching Hospital,9
+HCP_1170,Priya Nair,Ontario,General Surgery,FAC_ON_PRIV_018,Physician,Private Practice,11
+HCP_1171,Darrel Lang,Ontario,General Surgery,FAC_ON_PRIV_022,Physician,Private Practice,32
+HCP_1172,Darrel Lang,Ontario,General Surgery,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,16
+HCP_1173,Mac Stroman,Ontario,General Surgery,FAC_ON_CLIN_009,Physician,Community Clinic,10
+HCP_1174,Sanford Gottlieb,Ontario,General Surgery,FAC_ON_CLIN_017,Physician,Community Clinic,12
+HCP_1175,Gaynell Streich,Ontario,General Surgery,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,21
+HCP_1176,Juan Connelly,Ontario,General Surgery,FAC_ON_PRIV_002,Physician,Private Practice,14
+HCP_1177,Gale Jacobi,Ontario,General Surgery,FAC_ON_PRIV_006,Physician,Private Practice,5
+HCP_1178,Shaunte Bergstrom,Ontario,General Surgery,FAC_ON_CLIN_014,Physician,Community Clinic,29
+HCP_1179,Kent Morar,Ontario,Urology,FAC_ON_HOSP_004,Physician,Hospital,15
+HCP_1180,Phillip McCullough,Ontario,Urology,FAC_ON_HOSP_013,Physician,Hospital,9
+HCP_1181,Lucienne Hudson,Ontario,Urology,FAC_ON_HOSP_008,Physician,Hospital,26
+HCP_1182,Kavita Rao,Ontario,Urology,FAC_ON_HOSP_006,Physician,Hospital,27
+HCP_1183,Rosalba Greenfelder,Ontario,Urology,FAC_ON_PRIV_007,Physician,Private Practice,6
+HCP_1184,Ezequiel Hoeger,Ontario,Urology,FAC_ON_HOSP_010,Physician,Hospital,3
+HCP_1185,Jeanelle Wyman,Ontario,Urology,FAC_ON_PRIV_006,Physician,Private Practice,2
+HCP_1186,So Legros,Ontario,Urology,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,27
+HCP_1187,Pamelia Harber,Ontario,Urology,FAC_ON_ACAD_012,Physician,Academic/Teaching Hospital,22
+HCP_1188,Alexander Koch,Ontario,Urology,FAC_ON_CLIN_007,Physician,Community Clinic,28
+HCP_1189,Haley Effertz,Ontario,Urology,FAC_ON_HOSP_023,Physician,Hospital,22
+HCP_1190,Suzette Monahan,Ontario,Urology,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,15
+HCP_1191,Caroyln Hyatt,Ontario,Urology,FAC_ON_HOSP_015,Physician,Hospital,21
+HCP_1192,Chere Greenfelder,Ontario,Urology,FAC_ON_PRIV_019,Physician,Private Practice,26
+HCP_1193,Maile Frami,Ontario,Urology,FAC_ON_PRIV_004,Physician,Private Practice,14
+HCP_1194,Palma Morar,Ontario,Urology,FAC_ON_HOSP_022,Physician,Hospital,33
+HCP_1195,Buster Ferry,Ontario,Urology,FAC_ON_PRIV_001,Physician,Private Practice,32
+HCP_1196,Roxanna Crist,Ontario,Urology,FAC_ON_HOSP_024,Physician,Hospital,29
+HCP_1197,Moses Schmitt,Ontario,Urology,FAC_ON_HOSP_024,Physician,Hospital,35
+HCP_1198,Sipho Dlamini,Ontario,Urology,FAC_ON_ACAD_024,Physician,Academic/Teaching Hospital,14
+HCP_1199,Graham Volkman,Ontario,Urology,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,4
+HCP_1200,Arcelia Gottlieb,Ontario,Urology,FAC_ON_CLIN_021,Physician,Community Clinic,17
+HCP_1201,Mariano West,Ontario,Urology,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,27
+HCP_1202,Elvis Hartmann,Ontario,Orthopedic Surgery,FAC_ON_ACAD_024,Physician,Academic/Teaching Hospital,28
+HCP_1203,Naledi Khumalo,Ontario,Orthopedic Surgery,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,14
+HCP_1204,Yasmine Boehm,Ontario,Orthopedic Surgery,FAC_ON_HOSP_010,Physician,Hospital,11
+HCP_1205,Mickie Greenholt,Ontario,Orthopedic Surgery,FAC_ON_CLIN_010,Physician,Community Clinic,16
+HCP_1206,Carla Koss,Ontario,Orthopedic Surgery,FAC_ON_PRIV_019,Physician,Private Practice,29
+HCP_1207,Blanca Feliciano,Ontario,Orthopedic Surgery,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,3
+HCP_1208,Della Steuber,Ontario,Orthopedic Surgery,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,12
+HCP_1209,Homer Wiegand,Ontario,Orthopedic Surgery,FAC_ON_CLIN_004,Physician,Community Clinic,9
+HCP_1210,Daichi Watanabe,Ontario,Orthopedic Surgery,FAC_ON_HOSP_023,Physician,Hospital,29
+HCP_1211,Arcelia Gottlieb,Ontario,Orthopedic Surgery,FAC_ON_ACAD_017,Physician,Academic/Teaching Hospital,17
+HCP_1212,Rosalind Kutch,Ontario,Orthopedic Surgery,FAC_ON_CLIN_022,Physician,Community Clinic,4
+HCP_1213,Suanne Douglas,Ontario,Orthopedic Surgery,FAC_ON_CLIN_021,Physician,Community Clinic,10
+HCP_1214,Marla Sanford,Ontario,Orthopedic Surgery,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,2
+HCP_1215,Benton Becker,Ontario,Orthopedic Surgery,FAC_ON_PRIV_022,Physician,Private Practice,17
+HCP_1216,Brittani Satterfield,Ontario,Orthopedic Surgery,FAC_ON_CLIN_002,Physician,Community Clinic,35
+HCP_1217,Britta Stokes,Ontario,Orthopedic Surgery,FAC_ON_HOSP_024,Physician,Hospital,20
+HCP_1218,Joan Trantow,Ontario,Orthopedic Surgery,FAC_ON_CLIN_020,Physician,Community Clinic,31
+HCP_1219,Glory Hickle,Ontario,Orthopedic Surgery,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,26
+HCP_1220,Jackeline Schmitt,Ontario,Orthopedic Surgery,FAC_ON_CLIN_021,Physician,Community Clinic,31
+HCP_1221,Mickie Greenholt,Ontario,Orthopedic Surgery,FAC_ON_PRIV_005,Physician,Private Practice,11
+HCP_1222,Rory Kuvalis,Ontario,Orthopedic Surgery,FAC_ON_CLIN_019,Physician,Community Clinic,34
+HCP_1223,Mika Suzuki,Ontario,Orthopedic Surgery,FAC_ON_ACAD_017,Physician,Academic/Teaching Hospital,9
+HCP_1224,Alia Adams,Ontario,Orthopedic Surgery,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,16
+HCP_1225,Caroyln Hyatt,Ontario,Orthopedic Surgery,FAC_ON_PRIV_008,Physician,Private Practice,24
+HCP_1226,Hana Kobayashi,Ontario,Orthopedic Surgery,FAC_ON_ACAD_010,Physician,Academic/Teaching Hospital,11
+HCP_1227,Vern Powlowski,Ontario,Orthopedic Surgery,FAC_ON_PRIV_012,Physician,Private Practice,10
+HCP_1228,Naledi Khumalo,Ontario,Orthopedic Surgery,FAC_ON_CLIN_006,Physician,Community Clinic,5
+HCP_1229,Lonna Dietrich,Ontario,Orthopedic Surgery,FAC_ON_PRIV_012,Physician,Private Practice,1
+HCP_1230,Homer Wiegand,Ontario,Orthopedic Surgery,FAC_ON_ACAD_025,Physician,Academic/Teaching Hospital,18
+HCP_1231,Ines Weber,Ontario,Orthopedic Surgery,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,35
+HCP_1232,Joan Trantow,Ontario,Orthopedic Surgery,FAC_ON_HOSP_025,Physician,Hospital,8
+HCP_1233,Hana Kobayashi,Ontario,Orthopedic Surgery,FAC_ON_PRIV_022,Physician,Private Practice,16
+HCP_1234,Lavera Flatley,Ontario,Orthopedic Surgery,FAC_ON_HOSP_010,Physician,Hospital,33
+HCP_1235,Joleen Oberbrunner,Ontario,Orthopedic Surgery,FAC_ON_PRIV_009,Physician,Private Practice,28
+HCP_1236,Vivien Leffler,Ontario,Orthopedic Surgery,FAC_ON_PRIV_001,Physician,Private Practice,1
+HCP_1237,Suzette Monahan,Ontario,Orthopedic Surgery,FAC_ON_CLIN_014,Physician,Community Clinic,18
+HCP_1238,Cheree Cassin,Ontario,Orthopedic Surgery,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,6
+HCP_1239,Royce Green,Ontario,Orthopedic Surgery,FAC_ON_ACAD_001,Physician,Academic/Teaching Hospital,9
+HCP_1240,Tiana Blick,Ontario,Orthopedic Surgery,FAC_ON_HOSP_006,Physician,Hospital,9
+HCP_1241,Britta Stokes,Ontario,Orthopedic Surgery,FAC_ON_HOSP_016,Physician,Hospital,22
+HCP_1242,Carlos Bins,Ontario,Orthopedic Surgery,FAC_ON_HOSP_025,Physician,Hospital,7
+HCP_1243,Daichi Watanabe,Ontario,Orthopedic Surgery,FAC_ON_ACAD_006,Physician,Academic/Teaching Hospital,9
+HCP_1244,Zaida Treutel,Ontario,Orthopedic Surgery,FAC_ON_PRIV_010,Physician,Private Practice,8
+HCP_1245,Karisa Stiedemann,Ontario,Orthopedic Surgery,FAC_ON_PRIV_013,Physician,Private Practice,13
+HCP_1246,Naledi Khumalo,Ontario,Orthopedic Surgery,FAC_ON_ACAD_018,Physician,Academic/Teaching Hospital,23
+HCP_1247,Noe Gutkowski,Ontario,Orthopedic Surgery,FAC_ON_ACAD_014,Physician,Academic/Teaching Hospital,14
+HCP_1248,Corrina Pacocha,Ontario,Orthopedic Surgery,FAC_ON_HOSP_024,Physician,Hospital,12
+HCP_1249,Sergio Dooley,Ontario,Ophthalmology,FAC_ON_HOSP_015,Physician,Hospital,19
+HCP_1250,Thandi Mokoena,Ontario,Ophthalmology,FAC_ON_CLIN_012,Physician,Community Clinic,22
+HCP_1251,Geraldo Kiehn,Ontario,Ophthalmology,FAC_ON_CLIN_014,Physician,Community Clinic,1
+HCP_1252,Deloris Zemlak,Ontario,Ophthalmology,FAC_ON_PRIV_012,Physician,Private Practice,32
+HCP_1253,Benton Becker,Ontario,Ophthalmology,FAC_ON_HOSP_004,Physician,Hospital,33
+HCP_1254,Cathi Gulgowski,Ontario,Ophthalmology,FAC_ON_CLIN_014,Physician,Community Clinic,22
+HCP_1255,Mickie Greenholt,Ontario,Ophthalmology,FAC_ON_HOSP_011,Physician,Hospital,21
+HCP_1256,Malinda Cassin,Ontario,Ophthalmology,FAC_ON_HOSP_019,Physician,Hospital,25
+HCP_1257,Jason Streich,Ontario,Ophthalmology,FAC_ON_HOSP_015,Physician,Hospital,16
+HCP_1258,Rory Kuvalis,Ontario,Ophthalmology,FAC_ON_HOSP_009,Physician,Hospital,13
+HCP_1259,Marylee Reynolds,Ontario,Ophthalmology,FAC_ON_PRIV_012,Physician,Private Practice,13
+HCP_1260,Graham Volkman,Ontario,Ophthalmology,FAC_ON_CLIN_015,Physician,Community Clinic,6
+HCP_1261,Lesley Murazik,Ontario,Ophthalmology,FAC_ON_CLIN_012,Physician,Community Clinic,30
+HCP_1262,Kavita Rao,Ontario,Ophthalmology,FAC_ON_CLIN_016,Physician,Community Clinic,12
+HCP_1263,Curtis Hamill,Ontario,Ophthalmology,FAC_ON_PRIV_021,Physician,Private Practice,10
+HCP_1264,Ines Weber,Ontario,Ophthalmology,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,34
+HCP_1265,Lyndia Hettinger,Ontario,Ophthalmology,FAC_ON_PRIV_018,Physician,Private Practice,18
+HCP_1266,Terry Wiegand,Ontario,Ophthalmology,FAC_ON_PRIV_006,Physician,Private Practice,22
+HCP_1267,Devora Sipes,Ontario,Ophthalmology,FAC_ON_PRIV_008,Physician,Private Practice,9
+HCP_1268,Dorene Kessler,Ontario,Ophthalmology,FAC_ON_PRIV_015,Physician,Private Practice,10
+HCP_1269,Aiko Nakamura,Ontario,Ophthalmology,FAC_ON_HOSP_009,Physician,Hospital,26
+HCP_1270,Garth Wyman,Ontario,Ophthalmology,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,16
+HCP_1271,Pamala Collier,Ontario,Ophthalmology,FAC_ON_HOSP_002,Physician,Hospital,6
+HCP_1272,Crista Keebler,Ontario,Ophthalmology,FAC_ON_CLIN_012,Physician,Community Clinic,30
+HCP_1273,Vivek Iyer,Ontario,Ophthalmology,FAC_ON_PRIV_010,Physician,Private Practice,15
+HCP_1274,Louvenia Botsford,Ontario,Ophthalmology,FAC_ON_CLIN_001,Physician,Community Clinic,24
+HCP_1275,Edmundo Bauch,Ontario,Ophthalmology,FAC_ON_HOSP_008,Physician,Hospital,12
+HCP_1276,Moses Schmitt,Ontario,Ophthalmology,FAC_ON_ACAD_021,Physician,Academic/Teaching Hospital,20
+HCP_1277,Andrés Sauceda,Ontario,Ophthalmology,FAC_ON_HOSP_018,Physician,Hospital,28
+HCP_1278,Crissy O'Connell,Ontario,Ophthalmology,FAC_ON_HOSP_007,Physician,Hospital,31
+HCP_1279,Suzette Monahan,Ontario,Ophthalmology,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,8
+HCP_1280,Billy Bahringer,Ontario,Ophthalmology,FAC_ON_PRIV_010,Physician,Private Practice,24
+HCP_1281,Kelly Boyle,Ontario,Ophthalmology,FAC_ON_HOSP_026,Physician,Hospital,33
+HCP_1282,Kelly Boyle,Ontario,Ophthalmology,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,23
+HCP_1283,Camille Erdman,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_002,Physician,Academic/Teaching Hospital,6
+HCP_1284,Graham Volkman,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_003,Physician,Hospital,7
+HCP_1285,Victor Fadel,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_001,Physician,Community Clinic,8
+HCP_1286,Garth Wyman,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_022,Physician,Community Clinic,4
+HCP_1287,Drew Kohler,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_016,Physician,Hospital,27
+HCP_1288,Lyndia Hettinger,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_013,Physician,Hospital,34
+HCP_1289,Wayne Mertz,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_022,Physician,Hospital,19
+HCP_1290,Arcelia Gottlieb,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_024,Physician,Hospital,21
+HCP_1291,Florinda Schimmel,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_021,Physician,Community Clinic,28
+HCP_1292,Noe Gutkowski,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_013,Physician,Community Clinic,15
+HCP_1293,Curtis Hamill,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_015,Physician,Hospital,17
+HCP_1294,Suzette Monahan,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_004,Physician,Community Clinic,21
+HCP_1295,Aiko Nakamura,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_017,Physician,Hospital,11
+HCP_1296,Mario Guerra,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_013,Physician,Academic/Teaching Hospital,3
+HCP_1297,Harley Bins,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_019,Physician,Hospital,20
+HCP_1298,Louvenia Botsford,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_011,Physician,Academic/Teaching Hospital,29
+HCP_1299,Buddy Schinner,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_004,Physician,Private Practice,3
+HCP_1300,Von Mraz,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_022,Physician,Academic/Teaching Hospital,8
+HCP_1301,Yasmine Boehm,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_006,Physician,Private Practice,10
+HCP_1302,Norbert Murphy,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_018,Physician,Community Clinic,29
+HCP_1303,Dahlia Renner,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_017,Physician,Private Practice,18
+HCP_1304,Aubrey Greenfelder,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_004,Physician,Community Clinic,19
+HCP_1305,Lucienne Hudson,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_014,Physician,Hospital,23
+HCP_1306,Gemma Effertz,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_009,Physician,Community Clinic,10
+HCP_1307,Matt Bartell,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_008,Physician,Community Clinic,25
+HCP_1308,Lyndia Hettinger,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_005,Physician,Hospital,2
+HCP_1309,Caroyln Hyatt,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_012,Physician,Hospital,4
+HCP_1310,Earle Rice,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,29
+HCP_1311,Buster Ferry,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_019,Physician,Private Practice,24
+HCP_1312,Benita Boehm,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_001,Physician,Community Clinic,7
+HCP_1313,Rosalind Kutch,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,16
+HCP_1314,Earle Rice,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_007,Physician,Hospital,2
+HCP_1315,Carla Koss,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_018,Physician,Community Clinic,24
+HCP_1316,Royce Green,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_015,Physician,Academic/Teaching Hospital,27
+HCP_1317,Kathlyn Borer,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_018,Physician,Private Practice,10
+HCP_1318,Chad Sawayn,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_012,Physician,Community Clinic,13
+HCP_1319,Ezequiel Hoeger,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_007,Physician,Community Clinic,9
+HCP_1320,Camille Erdman,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_013,Physician,Hospital,14
+HCP_1321,Brittani Satterfield,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_016,Physician,Hospital,10
+HCP_1322,Randa Leuschke,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_006,Physician,Hospital,9
+HCP_1323,Dewayne Rosenbaum,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_009,Physician,Academic/Teaching Hospital,16
+HCP_1324,Ettie Schroeder,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_007,Physician,Private Practice,31
+HCP_1325,Marla Sanford,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_012,Physician,Community Clinic,27
+HCP_1326,Leola Tremblay,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_017,Physician,Academic/Teaching Hospital,11
+HCP_1327,Indira Willms,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_007,Physician,Hospital,33
+HCP_1328,Malinda Cassin,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_022,Physician,Hospital,8
+HCP_1329,Louvenia Botsford,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_001,Physician,Community Clinic,32
+HCP_1330,Ofelia Skiles,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_016,Physician,Academic/Teaching Hospital,11
+HCP_1331,Ezequiel Hoeger,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_004,Physician,Private Practice,19
+HCP_1332,Thad Osinski,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_019,Physician,Academic/Teaching Hospital,8
+HCP_1333,Jere Waelchi,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_010,Physician,Hospital,27
+HCP_1334,Marianela Anderson,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_005,Physician,Academic/Teaching Hospital,12
+HCP_1335,Kimberely Beatty,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_006,Physician,Hospital,31
+HCP_1336,Ayanda Mthembu,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_019,Physician,Hospital,3
+HCP_1337,Joleen Oberbrunner,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_004,Physician,Private Practice,18
+HCP_1338,Paige Goodwin,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_019,Physician,Hospital,6
+HCP_1339,Carlos Bins,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_017,Physician,Academic/Teaching Hospital,32
+HCP_1340,Adela Chapa,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_008,Physician,Academic/Teaching Hospital,15
+HCP_1341,Kimberely Beatty,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_009,Physician,Private Practice,24
+HCP_1342,Jeramy Littel,Ontario,Obstetrics/Gynecology,FAC_ON_CLIN_010,Physician,Community Clinic,31
+HCP_1343,Myong Heidenreich,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_022,Physician,Hospital,19
+HCP_1344,Lenny Dare,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_012,Physician,Private Practice,3
+HCP_1345,Leola Tremblay,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_020,Physician,Private Practice,8
+HCP_1346,Ayanda Mthembu,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,8
+HCP_1347,Toi Kulas,Ontario,Obstetrics/Gynecology,FAC_ON_PRIV_020,Physician,Private Practice,32
+HCP_1348,Dahlia Renner,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_020,Physician,Hospital,32
+HCP_1349,Joan Trantow,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_026,Physician,Hospital,17
+HCP_1350,Antonietta Reilly,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_020,Physician,Academic/Teaching Hospital,32
+HCP_1351,Lynwood Monahan,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_015,Physician,Hospital,9
+HCP_1352,Mac Stroman,Ontario,Obstetrics/Gynecology,FAC_ON_ACAD_016,Physician,Academic/Teaching Hospital,24
+HCP_1353,Conchita Tejada,Ontario,Obstetrics/Gynecology,FAC_ON_HOSP_008,Physician,Hospital,14
+HCP_1354,Rohan Kapoor,Manitoba,Internal Medicine,FAC_MB_PRIV_001,Physician,Private Practice,9
+HCP_1355,Jinny Conroy,Manitoba,Internal Medicine,FAC_MB_ACAD_001,Physician,Academic/Teaching Hospital,9
+HCP_1356,Conchita Tejada,Manitoba,Internal Medicine,FAC_MB_CLIN_001,Physician,Community Clinic,15
+HCP_1357,Vivien Leffler,Manitoba,Internal Medicine,FAC_MB_HOSP_001,Physician,Hospital,12
+HCP_1358,Jeramy Littel,Manitoba,Internal Medicine,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,8
+HCP_1359,Wayne Mertz,Manitoba,Internal Medicine,FAC_MB_HOSP_002,Physician,Hospital,12
+HCP_1360,Sharen McGlynn,Manitoba,Internal Medicine,FAC_MB_PRIV_001,Physician,Private Practice,5
+HCP_1361,Gertrudis Schaden,Manitoba,Internal Medicine,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,34
+HCP_1362,Houston Osinski,Manitoba,Internal Medicine,FAC_MB_PRIV_001,Physician,Private Practice,14
+HCP_1363,Benita Boehm,Manitoba,Cardiology,FAC_MB_HOSP_002,Physician,Hospital,4
+HCP_1364,Donita Ward,Manitoba,Cardiology,FAC_MB_ACAD_001,Physician,Academic/Teaching Hospital,21
+HCP_1365,Rory Kuvalis,Manitoba,Cardiology,FAC_MB_HOSP_001,Physician,Hospital,31
+HCP_1366,Jeanmarie Beatty,Manitoba,Gastroenterology,FAC_MB_PRIV_003,Physician,Private Practice,13
+HCP_1367,Myrl Eichmann,Manitoba,Neurology,FAC_MB_PRIV_001,Physician,Private Practice,30
+HCP_1368,Daron Berge,Manitoba,Neurology,FAC_MB_CLIN_001,Physician,Community Clinic,22
+HCP_1369,Daichi Watanabe,Manitoba,Neurology,FAC_MB_CLIN_002,Physician,Community Clinic,26
+HCP_1370,Roxanna Crist,Manitoba,Psychiatry,FAC_MB_HOSP_001,Physician,Hospital,11
+HCP_1371,Mariano West,Manitoba,Psychiatry,FAC_MB_ACAD_002,Physician,Academic/Teaching Hospital,2
+HCP_1372,Vivien Leffler,Manitoba,Psychiatry,FAC_MB_HOSP_002,Physician,Hospital,13
+HCP_1373,Ezequiel Hoeger,Manitoba,Psychiatry,FAC_MB_CLIN_002,Physician,Community Clinic,33
+HCP_1374,Jeanelle Wyman,Manitoba,Psychiatry,FAC_MB_PRIV_003,Physician,Private Practice,28
+HCP_1375,Santina Klocko,Manitoba,Psychiatry,FAC_MB_PRIV_002,Physician,Private Practice,28
+HCP_1376,Mika Suzuki,Manitoba,Psychiatry,FAC_MB_PRIV_002,Physician,Private Practice,31
+HCP_1377,Mika Suzuki,Manitoba,Psychiatry,FAC_MB_PRIV_001,Physician,Private Practice,14
+HCP_1378,Lavera Flatley,Manitoba,Psychiatry,FAC_MB_PRIV_001,Physician,Private Practice,12
+HCP_1379,Shawnee Zieme,Manitoba,Psychiatry,FAC_MB_ACAD_001,Physician,Academic/Teaching Hospital,33
+HCP_1380,Marylee Reynolds,Manitoba,Psychiatry,FAC_MB_CLIN_001,Physician,Community Clinic,21
+HCP_1381,Sipho Dlamini,Manitoba,Psychiatry,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,11
+HCP_1382,Homer Wiegand,Manitoba,Psychiatry,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,10
+HCP_1383,Vivien Leffler,Manitoba,Psychiatry,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,31
+HCP_1384,Aubrey Greenfelder,Manitoba,Pediatrics,FAC_MB_ACAD_002,Physician,Academic/Teaching Hospital,2
+HCP_1385,Bart Jenkins,Manitoba,Pediatrics,FAC_MB_ACAD_002,Physician,Academic/Teaching Hospital,3
+HCP_1386,Lyndia Hettinger,Manitoba,Pediatrics,FAC_MB_HOSP_001,Physician,Hospital,26
+HCP_1387,Geralyn Mitchell,Manitoba,Pediatrics,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,1
+HCP_1388,Sergio Dooley,Manitoba,Pediatrics,FAC_MB_PRIV_002,Physician,Private Practice,6
+HCP_1389,Santina Klocko,Manitoba,Pediatrics,FAC_MB_CLIN_001,Physician,Community Clinic,35
+HCP_1390,Ananya Mehta,Manitoba,Pediatrics,FAC_MB_PRIV_001,Physician,Private Practice,15
+HCP_1391,So Legros,Manitoba,Pediatrics,FAC_MB_CLIN_002,Physician,Community Clinic,26
+HCP_1392,Buddy Schinner,Manitoba,Pediatrics,FAC_MB_PRIV_003,Physician,Private Practice,18
+HCP_1393,Naledi Khumalo,Manitoba,Pediatrics,FAC_MB_ACAD_002,Physician,Academic/Teaching Hospital,4
+HCP_1394,Homero Zúñiga,Manitoba,Dermatology,FAC_MB_HOSP_001,Physician,Hospital,7
+HCP_1395,Quinton Klocko,Manitoba,Dermatology,FAC_MB_CLIN_002,Physician,Community Clinic,27
+HCP_1396,Chad Sawayn,Manitoba,General Surgery,FAC_MB_ACAD_002,Physician,Academic/Teaching Hospital,4
+HCP_1397,Arcelia Gottlieb,Manitoba,General Surgery,FAC_MB_CLIN_002,Physician,Community Clinic,21
+HCP_1398,Alia Adams,Manitoba,General Surgery,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,13
+HCP_1399,Phillip McCullough,Manitoba,General Surgery,FAC_MB_HOSP_002,Physician,Hospital,13
+HCP_1400,Royce Green,Manitoba,General Surgery,FAC_MB_PRIV_001,Physician,Private Practice,34
+HCP_1401,Toi Kulas,Manitoba,General Surgery,FAC_MB_ACAD_002,Physician,Academic/Teaching Hospital,22
+HCP_1402,Geraldo Kiehn,Manitoba,Urology,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,22
+HCP_1403,Royce Green,Manitoba,Urology,FAC_MB_HOSP_002,Physician,Hospital,13
+HCP_1404,Sergio Dooley,Manitoba,Orthopedic Surgery,FAC_MB_ACAD_002,Physician,Academic/Teaching Hospital,14
+HCP_1405,Sanford Gottlieb,Manitoba,Orthopedic Surgery,FAC_MB_CLIN_001,Physician,Community Clinic,25
+HCP_1406,Lon Lind,Manitoba,Orthopedic Surgery,FAC_MB_CLIN_001,Physician,Community Clinic,2
+HCP_1407,Vivien Leffler,Manitoba,Orthopedic Surgery,FAC_MB_CLIN_001,Physician,Community Clinic,9
+HCP_1408,Olen Heathcote,Manitoba,Orthopedic Surgery,FAC_MB_PRIV_001,Physician,Private Practice,22
+HCP_1409,Tomas Sauer,Manitoba,Ophthalmology,FAC_MB_PRIV_003,Physician,Private Practice,22
+HCP_1410,Reggie Mitchell,Manitoba,Ophthalmology,FAC_MB_CLIN_001,Physician,Community Clinic,4
+HCP_1411,Lynwood Monahan,Manitoba,Ophthalmology,FAC_MB_HOSP_002,Physician,Hospital,28
+HCP_1412,Steven Greenfelder,Manitoba,Obstetrics/Gynecology,FAC_MB_ACAD_003,Physician,Academic/Teaching Hospital,19
+HCP_1413,Emilee Runolfsdottir,Manitoba,Obstetrics/Gynecology,FAC_MB_HOSP_001,Physician,Hospital,9
+HCP_1414,Cathi Gulgowski,Manitoba,Obstetrics/Gynecology,FAC_MB_HOSP_001,Physician,Hospital,27
+HCP_1415,Willie Kessler,Manitoba,Obstetrics/Gynecology,FAC_MB_PRIV_002,Physician,Private Practice,35
+HCP_1416,Dena Rau,Manitoba,Obstetrics/Gynecology,FAC_MB_CLIN_002,Physician,Community Clinic,15
+HCP_1417,Roxanna Crist,Manitoba,Obstetrics/Gynecology,FAC_MB_PRIV_001,Physician,Private Practice,10
+HCP_1418,Lavinia Douglas,Manitoba,Obstetrics/Gynecology,FAC_MB_ACAD_001,Physician,Academic/Teaching Hospital,11
+HCP_1419,Noe Gutkowski,Saskatchewan,Internal Medicine,FAC_SK_HOSP_001,Physician,Hospital,21
+HCP_1420,Reyna Keeling,Saskatchewan,Internal Medicine,FAC_SK_CLIN_001,Physician,Community Clinic,2
+HCP_1421,Aiko Nakamura,Saskatchewan,Internal Medicine,FAC_SK_PRIV_001,Physician,Private Practice,17
+HCP_1422,Sibusiso Ndlovu,Saskatchewan,Internal Medicine,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,1
+HCP_1423,Brendon Bailey,Saskatchewan,Internal Medicine,FAC_SK_PRIV_002,Physician,Private Practice,2
+HCP_1424,Louvenia Botsford,Saskatchewan,Internal Medicine,FAC_SK_CLIN_001,Physician,Community Clinic,16
+HCP_1425,Kent Morar,Saskatchewan,Internal Medicine,FAC_SK_PRIV_002,Physician,Private Practice,27
+HCP_1426,Hae Ruecker,Saskatchewan,Internal Medicine,FAC_SK_ACAD_002,Physician,Academic/Teaching Hospital,31
+HCP_1427,Gemma Effertz,Saskatchewan,Internal Medicine,FAC_SK_CLIN_001,Physician,Community Clinic,4
+HCP_1428,Carla Koss,Saskatchewan,Cardiology,FAC_SK_ACAD_002,Physician,Academic/Teaching Hospital,9
+HCP_1429,Lesley Murazik,Saskatchewan,Cardiology,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,15
+HCP_1430,Hildred Wunsch,Saskatchewan,Cardiology,FAC_SK_CLIN_002,Physician,Community Clinic,21
+HCP_1431,Don Denesik,Saskatchewan,Gastroenterology,FAC_SK_HOSP_002,Physician,Hospital,35
+HCP_1432,Leola Tremblay,Saskatchewan,Neurology,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,24
+HCP_1433,Maile Frami,Saskatchewan,Neurology,FAC_SK_HOSP_002,Physician,Hospital,19
+HCP_1434,Steven Greenfelder,Saskatchewan,Neurology,FAC_SK_CLIN_001,Physician,Community Clinic,3
+HCP_1435,Rayford Wisozk,Saskatchewan,Psychiatry,FAC_SK_HOSP_002,Physician,Hospital,3
+HCP_1436,Wayne Mertz,Saskatchewan,Psychiatry,FAC_SK_PRIV_001,Physician,Private Practice,6
+HCP_1437,Maribel Reilly,Saskatchewan,Psychiatry,FAC_SK_CLIN_001,Physician,Community Clinic,24
+HCP_1438,Alia Adams,Saskatchewan,Psychiatry,FAC_SK_PRIV_001,Physician,Private Practice,12
+HCP_1439,Rayford Wisozk,Saskatchewan,Psychiatry,FAC_SK_ACAD_002,Physician,Academic/Teaching Hospital,9
+HCP_1440,Kenji Yamamoto,Saskatchewan,Psychiatry,FAC_SK_ACAD_002,Physician,Academic/Teaching Hospital,24
+HCP_1441,Rosalind Kutch,Saskatchewan,Psychiatry,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,29
+HCP_1442,Mario Guerra,Saskatchewan,Psychiatry,FAC_SK_HOSP_001,Physician,Hospital,16
+HCP_1443,Neha Deshmukh,Saskatchewan,Pediatrics,FAC_SK_CLIN_001,Physician,Community Clinic,31
+HCP_1444,Carmelina Wisozk,Saskatchewan,Pediatrics,FAC_SK_HOSP_002,Physician,Hospital,26
+HCP_1445,Clint Goldner,Saskatchewan,Pediatrics,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,26
+HCP_1446,Terry Wiegand,Saskatchewan,Pediatrics,FAC_SK_PRIV_002,Physician,Private Practice,31
+HCP_1447,Rahul Menon,Saskatchewan,Pediatrics,FAC_SK_CLIN_002,Physician,Community Clinic,7
+HCP_1448,Mika Suzuki,Saskatchewan,Pediatrics,FAC_SK_PRIV_001,Physician,Private Practice,27
+HCP_1449,Kelly Boyle,Saskatchewan,Pediatrics,FAC_SK_PRIV_001,Physician,Private Practice,34
+HCP_1450,Wayne Mertz,Saskatchewan,Dermatology,FAC_SK_CLIN_002,Physician,Community Clinic,35
+HCP_1451,Paige Goodwin,Saskatchewan,General Surgery,FAC_SK_CLIN_002,Physician,Community Clinic,21
+HCP_1452,Tiana Blick,Saskatchewan,General Surgery,FAC_SK_HOSP_002,Physician,Hospital,27
+HCP_1453,Leonor Najera,Saskatchewan,General Surgery,FAC_SK_CLIN_001,Physician,Community Clinic,32
+HCP_1454,Michell Friesen,Saskatchewan,General Surgery,FAC_SK_CLIN_002,Physician,Community Clinic,30
+HCP_1455,Estefana Emmerich,Saskatchewan,General Surgery,FAC_SK_ACAD_002,Physician,Academic/Teaching Hospital,32
+HCP_1456,Mari Reynolds,Saskatchewan,General Surgery,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,30
+HCP_1457,Naledi Khumalo,Saskatchewan,Urology,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,14
+HCP_1458,Daron Berge,Saskatchewan,Orthopedic Surgery,FAC_SK_HOSP_001,Physician,Hospital,26
+HCP_1459,Lesley Murazik,Saskatchewan,Orthopedic Surgery,FAC_SK_ACAD_002,Physician,Academic/Teaching Hospital,15
+HCP_1460,Blanca Feliciano,Saskatchewan,Orthopedic Surgery,FAC_SK_CLIN_001,Physician,Community Clinic,29
+HCP_1461,Hildred Wunsch,Saskatchewan,Orthopedic Surgery,FAC_SK_CLIN_002,Physician,Community Clinic,29
+HCP_1462,Armida Huel,Saskatchewan,Ophthalmology,FAC_SK_ACAD_002,Physician,Academic/Teaching Hospital,33
+HCP_1463,Garth Wyman,Saskatchewan,Ophthalmology,FAC_SK_ACAD_001,Physician,Academic/Teaching Hospital,21
+HCP_1464,Leonor Najera,Saskatchewan,Obstetrics/Gynecology,FAC_SK_HOSP_002,Physician,Hospital,17
+HCP_1465,Earle Rice,Saskatchewan,Obstetrics/Gynecology,FAC_SK_CLIN_002,Physician,Community Clinic,6
+HCP_1466,Crista Keebler,Saskatchewan,Obstetrics/Gynecology,FAC_SK_PRIV_001,Physician,Private Practice,23
+HCP_1467,Roxanna Crist,Saskatchewan,Obstetrics/Gynecology,FAC_SK_PRIV_002,Physician,Private Practice,20
+HCP_1468,Victor Fadel,Saskatchewan,Obstetrics/Gynecology,FAC_SK_CLIN_002,Physician,Community Clinic,19
+HCP_1469,Carlos Bins,Saskatchewan,Obstetrics/Gynecology,FAC_SK_PRIV_002,Physician,Private Practice,24
+HCP_1470,Lynwood Monahan,Alberta,Internal Medicine,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,30
+HCP_1471,Aubrey Greenfelder,Alberta,Internal Medicine,FAC_AB_HOSP_002,Physician,Hospital,6
+HCP_1472,Augustine Fisher,Alberta,Internal Medicine,FAC_AB_PRIV_003,Physician,Private Practice,16
+HCP_1473,Ezequiel Hoeger,Alberta,Internal Medicine,FAC_AB_PRIV_003,Physician,Private Practice,26
+HCP_1474,Lucio Robel,Alberta,Internal Medicine,FAC_AB_ACAD_006,Physician,Academic/Teaching Hospital,29
+HCP_1475,Thandi Mokoena,Alberta,Internal Medicine,FAC_AB_CLIN_004,Physician,Community Clinic,28
+HCP_1476,Myrl Eichmann,Alberta,Internal Medicine,FAC_AB_HOSP_008,Physician,Hospital,28
+HCP_1477,Zaida Treutel,Alberta,Internal Medicine,FAC_AB_PRIV_006,Physician,Private Practice,30
+HCP_1478,Camille Erdman,Alberta,Internal Medicine,FAC_AB_PRIV_004,Physician,Private Practice,34
+HCP_1479,Florinda Schimmel,Alberta,Internal Medicine,FAC_AB_CLIN_007,Physician,Community Clinic,22
+HCP_1480,Caroyln Hyatt,Alberta,Internal Medicine,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,9
+HCP_1481,Lonna Dietrich,Alberta,Internal Medicine,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,20
+HCP_1482,Tomas Sauer,Alberta,Internal Medicine,FAC_AB_HOSP_003,Physician,Hospital,25
+HCP_1483,Ferne Hudson,Alberta,Internal Medicine,FAC_AB_ACAD_006,Physician,Academic/Teaching Hospital,4
+HCP_1484,Crista Keebler,Alberta,Internal Medicine,FAC_AB_HOSP_004,Physician,Hospital,27
+HCP_1485,Caroyln Hyatt,Alberta,Internal Medicine,FAC_AB_CLIN_005,Physician,Community Clinic,20
+HCP_1486,Billy Bahringer,Alberta,Internal Medicine,FAC_AB_HOSP_001,Physician,Hospital,33
+HCP_1487,Tressa Kovacek,Alberta,Internal Medicine,FAC_AB_CLIN_002,Physician,Community Clinic,8
+HCP_1488,Tomas Sauer,Alberta,Internal Medicine,FAC_AB_ACAD_007,Physician,Academic/Teaching Hospital,32
+HCP_1489,Crista Keebler,Alberta,Internal Medicine,FAC_AB_CLIN_005,Physician,Community Clinic,16
+HCP_1490,Britta Stokes,Alberta,Internal Medicine,FAC_AB_PRIV_004,Physician,Private Practice,21
+HCP_1491,Randa Leuschke,Alberta,Internal Medicine,FAC_AB_HOSP_002,Physician,Hospital,24
+HCP_1492,Noriko Anderson,Alberta,Internal Medicine,FAC_AB_PRIV_006,Physician,Private Practice,21
+HCP_1493,Guadalupe Valenzuela,Alberta,Internal Medicine,FAC_AB_CLIN_002,Physician,Community Clinic,32
+HCP_1494,Felton Glover,Alberta,Internal Medicine,FAC_AB_PRIV_003,Physician,Private Practice,6
+HCP_1495,Deloris Zemlak,Alberta,Internal Medicine,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,26
+HCP_1496,Carmelina Wisozk,Alberta,Internal Medicine,FAC_AB_PRIV_001,Physician,Private Practice,35
+HCP_1497,Dewayne Rosenbaum,Alberta,Internal Medicine,FAC_AB_HOSP_002,Physician,Hospital,8
+HCP_1498,Rosalind Kutch,Alberta,Internal Medicine,FAC_AB_CLIN_001,Physician,Community Clinic,9
+HCP_1499,Corrina Pacocha,Alberta,Internal Medicine,FAC_AB_HOSP_001,Physician,Hospital,17
+HCP_1500,Anika Wisozk,Alberta,Internal Medicine,FAC_AB_CLIN_006,Physician,Community Clinic,26
+HCP_1501,Buddy Schinner,Alberta,Internal Medicine,FAC_AB_HOSP_006,Physician,Hospital,34
+HCP_1502,Harley Bins,Alberta,Internal Medicine,FAC_AB_PRIV_007,Physician,Private Practice,28
+HCP_1503,Raye Wyman,Alberta,Internal Medicine,FAC_AB_CLIN_005,Physician,Community Clinic,28
+HCP_1504,Sergio Dooley,Alberta,Internal Medicine,FAC_AB_HOSP_008,Physician,Hospital,16
+HCP_1505,Antonietta Reilly,Alberta,Internal Medicine,FAC_AB_HOSP_008,Physician,Hospital,23
+HCP_1506,Geraldo Kiehn,Alberta,Internal Medicine,FAC_AB_ACAD_005,Physician,Academic/Teaching Hospital,8
+HCP_1507,Rohan Kapoor,Alberta,Internal Medicine,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,17
+HCP_1508,Elvis Hartmann,Alberta,Cardiology,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,7
+HCP_1509,Billy Bahringer,Alberta,Cardiology,FAC_AB_HOSP_003,Physician,Hospital,1
+HCP_1510,Maximo Carter,Alberta,Cardiology,FAC_AB_CLIN_007,Physician,Community Clinic,30
+HCP_1511,Felton Glover,Alberta,Cardiology,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,29
+HCP_1512,Raye Wyman,Alberta,Cardiology,FAC_AB_PRIV_001,Physician,Private Practice,18
+HCP_1513,Homero Zúñiga,Alberta,Cardiology,FAC_AB_HOSP_007,Physician,Hospital,1
+HCP_1514,Felton Glover,Alberta,Cardiology,FAC_AB_HOSP_005,Physician,Hospital,4
+HCP_1515,Emilee Runolfsdottir,Alberta,Cardiology,FAC_AB_CLIN_003,Physician,Community Clinic,4
+HCP_1516,Vivek Iyer,Alberta,Cardiology,FAC_AB_ACAD_007,Physician,Academic/Teaching Hospital,26
+HCP_1517,Abdul Volkman,Alberta,Cardiology,FAC_AB_HOSP_001,Physician,Hospital,8
+HCP_1518,Garth Wyman,Alberta,Cardiology,FAC_AB_ACAD_005,Physician,Academic/Teaching Hospital,9
+HCP_1519,Conchita Tejada,Alberta,Cardiology,FAC_AB_PRIV_005,Physician,Private Practice,31
+HCP_1520,Suanne Douglas,Alberta,Gastroenterology,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,31
+HCP_1521,Billy Bahringer,Alberta,Gastroenterology,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,27
+HCP_1522,Moses Schmitt,Alberta,Gastroenterology,FAC_AB_CLIN_007,Physician,Community Clinic,11
+HCP_1523,Shaunte Bergstrom,Alberta,Gastroenterology,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,21
+HCP_1524,Jamie Eichmann,Alberta,Gastroenterology,FAC_AB_HOSP_001,Physician,Hospital,8
+HCP_1525,Raphael Connelly,Alberta,Gastroenterology,FAC_AB_CLIN_004,Physician,Community Clinic,31
+HCP_1526,Garth Wyman,Alberta,Gastroenterology,FAC_AB_HOSP_005,Physician,Hospital,3
+HCP_1527,Rayford Wisozk,Alberta,Gastroenterology,FAC_AB_HOSP_004,Physician,Hospital,27
+HCP_1528,Clint Goldner,Alberta,Gastroenterology,FAC_AB_HOSP_001,Physician,Hospital,18
+HCP_1529,Jeanmarie Beatty,Alberta,Neurology,FAC_AB_HOSP_008,Physician,Hospital,27
+HCP_1530,Priya Nair,Alberta,Neurology,FAC_AB_HOSP_006,Physician,Hospital,16
+HCP_1531,Hassan Rath,Alberta,Neurology,FAC_AB_CLIN_006,Physician,Community Clinic,6
+HCP_1532,Gaynell Streich,Alberta,Neurology,FAC_AB_HOSP_005,Physician,Hospital,27
+HCP_1533,Vivek Iyer,Alberta,Neurology,FAC_AB_HOSP_008,Physician,Hospital,23
+HCP_1534,Shaunte Bergstrom,Alberta,Neurology,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,17
+HCP_1535,Elijah Koepp,Alberta,Neurology,FAC_AB_HOSP_008,Physician,Hospital,14
+HCP_1536,Von Mraz,Alberta,Neurology,FAC_AB_HOSP_008,Physician,Hospital,13
+HCP_1537,Lonna Dietrich,Alberta,Neurology,FAC_AB_HOSP_003,Physician,Hospital,17
+HCP_1538,Crista Keebler,Alberta,Neurology,FAC_AB_HOSP_008,Physician,Hospital,10
+HCP_1539,Palma Morar,Alberta,Neurology,FAC_AB_PRIV_003,Physician,Private Practice,10
+HCP_1540,Arcelia Gottlieb,Alberta,Neurology,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,10
+HCP_1541,Reyna Keeling,Alberta,Neurology,FAC_AB_PRIV_002,Physician,Private Practice,1
+HCP_1542,Geraldo Kiehn,Alberta,Neurology,FAC_AB_PRIV_001,Physician,Private Practice,33
+HCP_1543,Hassan Rath,Alberta,Neurology,FAC_AB_HOSP_005,Physician,Hospital,9
+HCP_1544,Estefana Emmerich,Alberta,Psychiatry,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,6
+HCP_1545,Florinda Schimmel,Alberta,Psychiatry,FAC_AB_HOSP_006,Physician,Hospital,6
+HCP_1546,Chad Sawayn,Alberta,Psychiatry,FAC_AB_PRIV_008,Physician,Private Practice,35
+HCP_1547,Dotty Considine,Alberta,Psychiatry,FAC_AB_CLIN_001,Physician,Community Clinic,17
+HCP_1548,Earle Rice,Alberta,Psychiatry,FAC_AB_ACAD_005,Physician,Academic/Teaching Hospital,12
+HCP_1549,Conchita Tejada,Alberta,Psychiatry,FAC_AB_CLIN_001,Physician,Community Clinic,15
+HCP_1550,Suzette Monahan,Alberta,Psychiatry,FAC_AB_PRIV_004,Physician,Private Practice,4
+HCP_1551,Reggie Mitchell,Alberta,Psychiatry,FAC_AB_CLIN_007,Physician,Community Clinic,11
+HCP_1552,Earle Rice,Alberta,Psychiatry,FAC_AB_PRIV_003,Physician,Private Practice,9
+HCP_1553,Kimberely Beatty,Alberta,Psychiatry,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,29
+HCP_1554,Harold Kessler,Alberta,Psychiatry,FAC_AB_PRIV_006,Physician,Private Practice,3
+HCP_1555,Bruno Smitham,Alberta,Psychiatry,FAC_AB_CLIN_007,Physician,Community Clinic,15
+HCP_1556,Tressa Kovacek,Alberta,Psychiatry,FAC_AB_CLIN_008,Physician,Community Clinic,28
+HCP_1557,Aubrey Greenfelder,Alberta,Psychiatry,FAC_AB_PRIV_001,Physician,Private Practice,30
+HCP_1558,Crissy O'Connell,Alberta,Psychiatry,FAC_AB_CLIN_003,Physician,Community Clinic,18
+HCP_1559,Sibusiso Ndlovu,Alberta,Psychiatry,FAC_AB_HOSP_007,Physician,Hospital,8
+HCP_1560,Toi Kulas,Alberta,Psychiatry,FAC_AB_CLIN_001,Physician,Community Clinic,12
+HCP_1561,Ferne Hudson,Alberta,Psychiatry,FAC_AB_HOSP_002,Physician,Hospital,8
+HCP_1562,Matt Bartell,Alberta,Psychiatry,FAC_AB_HOSP_004,Physician,Hospital,24
+HCP_1563,Emilee Runolfsdottir,Alberta,Psychiatry,FAC_AB_CLIN_008,Physician,Community Clinic,11
+HCP_1564,Priya Nair,Alberta,Psychiatry,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,23
+HCP_1565,Geralyn Mitchell,Alberta,Psychiatry,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,23
+HCP_1566,Daron Berge,Alberta,Psychiatry,FAC_AB_CLIN_005,Physician,Community Clinic,33
+HCP_1567,Hana Kobayashi,Alberta,Psychiatry,FAC_AB_CLIN_002,Physician,Community Clinic,13
+HCP_1568,Raphael Connelly,Alberta,Psychiatry,FAC_AB_HOSP_002,Physician,Hospital,34
+HCP_1569,Ananya Mehta,Alberta,Psychiatry,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,15
+HCP_1570,Naledi Khumalo,Alberta,Psychiatry,FAC_AB_HOSP_003,Physician,Hospital,24
+HCP_1571,Jesus Quiroz,Alberta,Psychiatry,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,24
+HCP_1572,Micheal Deckow,Alberta,Psychiatry,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,29
+HCP_1573,Joan Trantow,Alberta,Psychiatry,FAC_AB_PRIV_005,Physician,Private Practice,17
+HCP_1574,Hae Ruecker,Alberta,Psychiatry,FAC_AB_CLIN_007,Physician,Community Clinic,28
+HCP_1575,Jamie Eichmann,Alberta,Psychiatry,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,13
+HCP_1576,Rayford Wisozk,Alberta,Psychiatry,FAC_AB_PRIV_004,Physician,Private Practice,18
+HCP_1577,Dewayne Rosenbaum,Alberta,Psychiatry,FAC_AB_PRIV_005,Physician,Private Practice,18
+HCP_1578,Graham Volkman,Alberta,Psychiatry,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,25
+HCP_1579,Crista Keebler,Alberta,Psychiatry,FAC_AB_ACAD_005,Physician,Academic/Teaching Hospital,22
+HCP_1580,Alexander Koch,Alberta,Psychiatry,FAC_AB_HOSP_004,Physician,Hospital,3
+HCP_1581,Paige Goodwin,Alberta,Psychiatry,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,29
+HCP_1582,Quinton Klocko,Alberta,Psychiatry,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,27
+HCP_1583,Blanca Feliciano,Alberta,Psychiatry,FAC_AB_HOSP_007,Physician,Hospital,4
+HCP_1584,Deloris Zemlak,Alberta,Psychiatry,FAC_AB_CLIN_008,Physician,Community Clinic,34
+HCP_1585,Roxanna Crist,Alberta,Psychiatry,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,24
+HCP_1586,Gale Jacobi,Alberta,Psychiatry,FAC_AB_HOSP_007,Physician,Hospital,3
+HCP_1587,Ines Weber,Alberta,Psychiatry,FAC_AB_CLIN_003,Physician,Community Clinic,18
+HCP_1588,Jesus Quiroz,Alberta,Psychiatry,FAC_AB_PRIV_001,Physician,Private Practice,30
+HCP_1589,Noe Gutkowski,Alberta,Psychiatry,FAC_AB_PRIV_008,Physician,Private Practice,10
+HCP_1590,Von Mraz,Alberta,Psychiatry,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,33
+HCP_1591,Joan Trantow,Alberta,Psychiatry,FAC_AB_HOSP_004,Physician,Hospital,15
+HCP_1592,Vivien Leffler,Alberta,Psychiatry,FAC_AB_CLIN_007,Physician,Community Clinic,8
+HCP_1593,Victor Fadel,Alberta,Pediatrics,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,13
+HCP_1594,Jeanmarie Beatty,Alberta,Pediatrics,FAC_AB_PRIV_002,Physician,Private Practice,19
+HCP_1595,Dahlia Renner,Alberta,Pediatrics,FAC_AB_HOSP_003,Physician,Hospital,25
+HCP_1596,Edie Howell,Alberta,Pediatrics,FAC_AB_CLIN_007,Physician,Community Clinic,33
+HCP_1597,Andrés Sauceda,Alberta,Pediatrics,FAC_AB_CLIN_005,Physician,Community Clinic,7
+HCP_1598,Alfred Weber,Alberta,Pediatrics,FAC_AB_PRIV_006,Physician,Private Practice,34
+HCP_1599,Carroll McClure,Alberta,Pediatrics,FAC_AB_CLIN_006,Physician,Community Clinic,19
+HCP_1600,Kathlyn Borer,Alberta,Pediatrics,FAC_AB_PRIV_006,Physician,Private Practice,5
+HCP_1601,Myrl Eichmann,Alberta,Pediatrics,FAC_AB_CLIN_003,Physician,Community Clinic,33
+HCP_1602,Kelly Boyle,Alberta,Pediatrics,FAC_AB_PRIV_003,Physician,Private Practice,13
+HCP_1603,Parker Grady,Alberta,Pediatrics,FAC_AB_HOSP_005,Physician,Hospital,22
+HCP_1604,Gale Jacobi,Alberta,Pediatrics,FAC_AB_PRIV_002,Physician,Private Practice,25
+HCP_1605,Cheree Cassin,Alberta,Pediatrics,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,1
+HCP_1606,Santina Klocko,Alberta,Pediatrics,FAC_AB_HOSP_008,Physician,Hospital,8
+HCP_1607,Jamie Eichmann,Alberta,Pediatrics,FAC_AB_CLIN_008,Physician,Community Clinic,25
+HCP_1608,Chad Sawayn,Alberta,Pediatrics,FAC_AB_PRIV_003,Physician,Private Practice,12
+HCP_1609,Lyndia Hettinger,Alberta,Pediatrics,FAC_AB_PRIV_007,Physician,Private Practice,1
+HCP_1610,Mohammed Parisian,Alberta,Pediatrics,FAC_AB_PRIV_008,Physician,Private Practice,1
+HCP_1611,Carlos Bins,Alberta,Pediatrics,FAC_AB_PRIV_008,Physician,Private Practice,29
+HCP_1612,Pamelia Harber,Alberta,Pediatrics,FAC_AB_PRIV_002,Physician,Private Practice,6
+HCP_1613,Gemma Effertz,Alberta,Pediatrics,FAC_AB_PRIV_005,Physician,Private Practice,4
+HCP_1614,Rosalba Greenfelder,Alberta,Pediatrics,FAC_AB_HOSP_008,Physician,Hospital,20
+HCP_1615,Lynwood Monahan,Alberta,Pediatrics,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,5
+HCP_1616,Vertie Towne,Alberta,Pediatrics,FAC_AB_CLIN_008,Physician,Community Clinic,23
+HCP_1617,Cathi Gulgowski,Alberta,Pediatrics,FAC_AB_HOSP_002,Physician,Hospital,20
+HCP_1618,Britta Stokes,Alberta,Pediatrics,FAC_AB_CLIN_008,Physician,Community Clinic,23
+HCP_1619,Cheree Cassin,Alberta,Pediatrics,FAC_AB_CLIN_006,Physician,Community Clinic,18
+HCP_1620,Sibusiso Ndlovu,Alberta,Pediatrics,FAC_AB_HOSP_002,Physician,Hospital,28
+HCP_1621,Lesley Murazik,Alberta,Pediatrics,FAC_AB_ACAD_005,Physician,Academic/Teaching Hospital,23
+HCP_1622,Tomas Sauer,Alberta,Pediatrics,FAC_AB_HOSP_006,Physician,Hospital,15
+HCP_1623,Arjun Malhotra,Alberta,Pediatrics,FAC_AB_CLIN_001,Physician,Community Clinic,1
+HCP_1624,Patricia Salgado,Alberta,Pediatrics,FAC_AB_CLIN_003,Physician,Community Clinic,10
+HCP_1625,Rory Kuvalis,Alberta,Pediatrics,FAC_AB_ACAD_005,Physician,Academic/Teaching Hospital,5
+HCP_1626,Sibusiso Ndlovu,Alberta,Pediatrics,FAC_AB_PRIV_002,Physician,Private Practice,1
+HCP_1627,Leilani Stoltenberg,Alberta,Pediatrics,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,10
+HCP_1628,Willie Kessler,Alberta,Pediatrics,FAC_AB_HOSP_003,Physician,Hospital,8
+HCP_1629,Bart Jenkins,Alberta,Pediatrics,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,3
+HCP_1630,Mohammed Parisian,Alberta,Pediatrics,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,11
+HCP_1631,Estefana Emmerich,Alberta,Pediatrics,FAC_AB_CLIN_004,Physician,Community Clinic,18
+HCP_1632,Aubrey Greenfelder,Alberta,Pediatrics,FAC_AB_PRIV_006,Physician,Private Practice,7
+HCP_1633,Hassan Rath,Alberta,Dermatology,FAC_AB_HOSP_002,Physician,Hospital,10
+HCP_1634,Mariano West,Alberta,Dermatology,FAC_AB_ACAD_005,Physician,Academic/Teaching Hospital,1
+HCP_1635,Caroyln Hyatt,Alberta,Dermatology,FAC_AB_ACAD_006,Physician,Academic/Teaching Hospital,2
+HCP_1636,Latashia Glover,Alberta,Dermatology,FAC_AB_CLIN_008,Physician,Community Clinic,6
+HCP_1637,Edie Howell,Alberta,Dermatology,FAC_AB_PRIV_004,Physician,Private Practice,16
+HCP_1638,Arcelia Gottlieb,Alberta,Dermatology,FAC_AB_CLIN_005,Physician,Community Clinic,24
+HCP_1639,Kasi Hickle,Alberta,Dermatology,FAC_AB_HOSP_001,Physician,Hospital,28
+HCP_1640,Randa Leuschke,Alberta,General Surgery,FAC_AB_PRIV_006,Physician,Private Practice,23
+HCP_1641,Della Steuber,Alberta,General Surgery,FAC_AB_PRIV_006,Physician,Private Practice,22
+HCP_1642,Leonor Najera,Alberta,General Surgery,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,33
+HCP_1643,Curtis Hamill,Alberta,General Surgery,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,9
+HCP_1644,Antonietta Reilly,Alberta,General Surgery,FAC_AB_CLIN_005,Physician,Community Clinic,28
+HCP_1645,Judith Johns,Alberta,General Surgery,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,33
+HCP_1646,Paige Goodwin,Alberta,General Surgery,FAC_AB_PRIV_008,Physician,Private Practice,20
+HCP_1647,Vivien Leffler,Alberta,General Surgery,FAC_AB_PRIV_004,Physician,Private Practice,30
+HCP_1648,Haywood Gleichner,Alberta,General Surgery,FAC_AB_PRIV_003,Physician,Private Practice,5
+HCP_1649,Thandi Mokoena,Alberta,General Surgery,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,31
+HCP_1650,Brandon Gerhold,Alberta,General Surgery,FAC_AB_PRIV_005,Physician,Private Practice,20
+HCP_1651,Shaunte Bergstrom,Alberta,General Surgery,FAC_AB_HOSP_004,Physician,Hospital,8
+HCP_1652,Jeanmarie Beatty,Alberta,General Surgery,FAC_AB_HOSP_004,Physician,Hospital,3
+HCP_1653,Leonor Najera,Alberta,General Surgery,FAC_AB_CLIN_002,Physician,Community Clinic,26
+HCP_1654,Antonietta Reilly,Alberta,Urology,FAC_AB_PRIV_002,Physician,Private Practice,16
+HCP_1655,Lon Lind,Alberta,Urology,FAC_AB_PRIV_001,Physician,Private Practice,11
+HCP_1656,Florinda Schimmel,Alberta,Urology,FAC_AB_CLIN_007,Physician,Community Clinic,14
+HCP_1657,Carroll McClure,Alberta,Urology,FAC_AB_PRIV_005,Physician,Private Practice,35
+HCP_1658,Olen Heathcote,Alberta,Orthopedic Surgery,FAC_AB_ACAD_002,Physician,Academic/Teaching Hospital,15
+HCP_1659,Albertina Skiles,Alberta,Orthopedic Surgery,FAC_AB_CLIN_003,Physician,Community Clinic,3
+HCP_1660,Matt Bartell,Alberta,Orthopedic Surgery,FAC_AB_CLIN_001,Physician,Community Clinic,10
+HCP_1661,Arcelia Gottlieb,Alberta,Orthopedic Surgery,FAC_AB_PRIV_007,Physician,Private Practice,6
+HCP_1662,Lucienne Hudson,Alberta,Orthopedic Surgery,FAC_AB_CLIN_008,Physician,Community Clinic,25
+HCP_1663,Leola Tremblay,Alberta,Orthopedic Surgery,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,29
+HCP_1664,Rory Kuvalis,Alberta,Orthopedic Surgery,FAC_AB_ACAD_004,Physician,Academic/Teaching Hospital,30
+HCP_1665,Buster Ferry,Alberta,Orthopedic Surgery,FAC_AB_PRIV_005,Physician,Private Practice,23
+HCP_1666,Camille Erdman,Alberta,Orthopedic Surgery,FAC_AB_CLIN_002,Physician,Community Clinic,27
+HCP_1667,Lavera Flatley,Alberta,Orthopedic Surgery,FAC_AB_PRIV_007,Physician,Private Practice,15
+HCP_1668,Louvenia Botsford,Alberta,Orthopedic Surgery,FAC_AB_HOSP_005,Physician,Hospital,22
+HCP_1669,Kimberely Beatty,Alberta,Orthopedic Surgery,FAC_AB_CLIN_001,Physician,Community Clinic,4
+HCP_1670,Alfred Weber,Alberta,Orthopedic Surgery,FAC_AB_HOSP_002,Physician,Hospital,19
+HCP_1671,Edmundo Bauch,Alberta,Orthopedic Surgery,FAC_AB_HOSP_006,Physician,Hospital,20
+HCP_1672,Haley Effertz,Alberta,Orthopedic Surgery,FAC_AB_HOSP_006,Physician,Hospital,2
+HCP_1673,Lesley Murazik,Alberta,Ophthalmology,FAC_AB_PRIV_002,Physician,Private Practice,20
+HCP_1674,Yasmine Boehm,Alberta,Ophthalmology,FAC_AB_HOSP_004,Physician,Hospital,26
+HCP_1675,Thad Osinski,Alberta,Ophthalmology,FAC_AB_PRIV_004,Physician,Private Practice,13
+HCP_1676,Naledi Khumalo,Alberta,Ophthalmology,FAC_AB_CLIN_001,Physician,Community Clinic,20
+HCP_1677,Jamie Eichmann,Alberta,Ophthalmology,FAC_AB_CLIN_004,Physician,Community Clinic,11
+HCP_1678,Jeanelle Wyman,Alberta,Ophthalmology,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,10
+HCP_1679,Arjun Malhotra,Alberta,Ophthalmology,FAC_AB_PRIV_005,Physician,Private Practice,5
+HCP_1680,Mario Guerra,Alberta,Ophthalmology,FAC_AB_PRIV_003,Physician,Private Practice,12
+HCP_1681,Yuki Tanaka,Alberta,Ophthalmology,FAC_AB_PRIV_001,Physician,Private Practice,29
+HCP_1682,Gaynell Streich,Alberta,Ophthalmology,FAC_AB_HOSP_002,Physician,Hospital,33
+HCP_1683,Terry Wiegand,Alberta,Obstetrics/Gynecology,FAC_AB_HOSP_005,Physician,Hospital,23
+HCP_1684,Jeff Waters,Alberta,Obstetrics/Gynecology,FAC_AB_PRIV_001,Physician,Private Practice,22
+HCP_1685,Arnoldo Carter,Alberta,Obstetrics/Gynecology,FAC_AB_ACAD_003,Physician,Academic/Teaching Hospital,22
+HCP_1686,Alecia Welch,Alberta,Obstetrics/Gynecology,FAC_AB_HOSP_006,Physician,Hospital,17
+HCP_1687,Maribel Reilly,Alberta,Obstetrics/Gynecology,FAC_AB_HOSP_003,Physician,Hospital,15
+HCP_1688,Adela Chapa,Alberta,Obstetrics/Gynecology,FAC_AB_ACAD_006,Physician,Academic/Teaching Hospital,22
+HCP_1689,Rahul Menon,Alberta,Obstetrics/Gynecology,FAC_AB_ACAD_006,Physician,Academic/Teaching Hospital,28
+HCP_1690,Veda Pfeffer,Alberta,Obstetrics/Gynecology,FAC_AB_HOSP_003,Physician,Hospital,15
+HCP_1691,Crissy O'Connell,Alberta,Obstetrics/Gynecology,FAC_AB_CLIN_001,Physician,Community Clinic,20
+HCP_1692,Santina Klocko,Alberta,Obstetrics/Gynecology,FAC_AB_PRIV_008,Physician,Private Practice,17
+HCP_1693,Andrés Sauceda,Alberta,Obstetrics/Gynecology,FAC_AB_HOSP_005,Physician,Hospital,10
+HCP_1694,Camille Erdman,Alberta,Obstetrics/Gynecology,FAC_AB_CLIN_007,Physician,Community Clinic,11
+HCP_1695,Tressa Kovacek,Alberta,Obstetrics/Gynecology,FAC_AB_CLIN_005,Physician,Community Clinic,3
+HCP_1696,Maximo Carter,Alberta,Obstetrics/Gynecology,FAC_AB_PRIV_005,Physician,Private Practice,16
+HCP_1697,Don Denesik,Alberta,Obstetrics/Gynecology,FAC_AB_CLIN_003,Physician,Community Clinic,25
+HCP_1698,Jamie Eichmann,Alberta,Obstetrics/Gynecology,FAC_AB_CLIN_001,Physician,Community Clinic,24
+HCP_1699,Arnoldo Carter,Alberta,Obstetrics/Gynecology,FAC_AB_CLIN_004,Physician,Community Clinic,35
+HCP_1700,Mika Suzuki,Alberta,Obstetrics/Gynecology,FAC_AB_ACAD_001,Physician,Academic/Teaching Hospital,2
+HCP_1701,Lesley Murazik,Alberta,Obstetrics/Gynecology,FAC_AB_HOSP_003,Physician,Hospital,27
+HCP_1702,Sanford Gottlieb,Alberta,Obstetrics/Gynecology,FAC_AB_HOSP_004,Physician,Hospital,28
+HCP_1703,Indira Willms,British Columbia,Internal Medicine,FAC_BC_HOSP_009,Physician,Hospital,16
+HCP_1704,Luke Rath,British Columbia,Internal Medicine,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,10
+HCP_1705,Priya Nair,British Columbia,Internal Medicine,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,13
+HCP_1706,Noe Gutkowski,British Columbia,Internal Medicine,FAC_BC_PRIV_009,Physician,Private Practice,24
+HCP_1707,Naledi Khumalo,British Columbia,Internal Medicine,FAC_BC_HOSP_002,Physician,Hospital,31
+HCP_1708,Rohan Kapoor,British Columbia,Internal Medicine,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,23
+HCP_1709,Michell Friesen,British Columbia,Internal Medicine,FAC_BC_CLIN_006,Physician,Community Clinic,18
+HCP_1710,Leif Grant,British Columbia,Internal Medicine,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,23
+HCP_1711,Ofelia Skiles,British Columbia,Internal Medicine,FAC_BC_CLIN_007,Physician,Community Clinic,3
+HCP_1712,Don Denesik,British Columbia,Internal Medicine,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,22
+HCP_1713,Mariano West,British Columbia,Internal Medicine,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,2
+HCP_1714,Joan Trantow,British Columbia,Internal Medicine,FAC_BC_HOSP_002,Physician,Hospital,34
+HCP_1715,Gerard Schaefer,British Columbia,Internal Medicine,FAC_BC_PRIV_005,Physician,Private Practice,32
+HCP_1716,Karisa Stiedemann,British Columbia,Internal Medicine,FAC_BC_CLIN_006,Physician,Community Clinic,18
+HCP_1717,Gerard Schaefer,British Columbia,Internal Medicine,FAC_BC_CLIN_007,Physician,Community Clinic,14
+HCP_1718,Horace Collier,British Columbia,Internal Medicine,FAC_BC_CLIN_007,Physician,Community Clinic,26
+HCP_1719,Deloris Zemlak,British Columbia,Internal Medicine,FAC_BC_PRIV_004,Physician,Private Practice,23
+HCP_1720,Blanca Feliciano,British Columbia,Internal Medicine,FAC_BC_CLIN_005,Physician,Community Clinic,25
+HCP_1721,Hassan Rath,British Columbia,Internal Medicine,FAC_BC_PRIV_003,Physician,Private Practice,19
+HCP_1722,Homero Zúñiga,British Columbia,Internal Medicine,FAC_BC_PRIV_007,Physician,Private Practice,9
+HCP_1723,Alia Adams,British Columbia,Internal Medicine,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,3
+HCP_1724,Kathe O'Conner,British Columbia,Internal Medicine,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,10
+HCP_1725,Kimberely Beatty,British Columbia,Internal Medicine,FAC_BC_HOSP_010,Physician,Hospital,19
+HCP_1726,Dena Rau,British Columbia,Internal Medicine,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,15
+HCP_1727,Haruto Sato,British Columbia,Internal Medicine,FAC_BC_HOSP_006,Physician,Hospital,18
+HCP_1728,Estefana Emmerich,British Columbia,Internal Medicine,FAC_BC_PRIV_010,Physician,Private Practice,10
+HCP_1729,Curtis Hamill,British Columbia,Internal Medicine,FAC_BC_CLIN_005,Physician,Community Clinic,33
+HCP_1730,Vern Powlowski,British Columbia,Internal Medicine,FAC_BC_PRIV_010,Physician,Private Practice,13
+HCP_1731,Rosalind Kutch,British Columbia,Internal Medicine,FAC_BC_PRIV_003,Physician,Private Practice,30
+HCP_1732,Drew Kohler,British Columbia,Internal Medicine,FAC_BC_ACAD_008,Physician,Academic/Teaching Hospital,14
+HCP_1733,Dahlia Renner,British Columbia,Internal Medicine,FAC_BC_CLIN_007,Physician,Community Clinic,16
+HCP_1734,Billy Bahringer,British Columbia,Internal Medicine,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,22
+HCP_1735,Noe Gutkowski,British Columbia,Internal Medicine,FAC_BC_CLIN_003,Physician,Community Clinic,10
+HCP_1736,Jeff Waters,British Columbia,Internal Medicine,FAC_BC_HOSP_006,Physician,Hospital,8
+HCP_1737,Shawnee Zieme,British Columbia,Internal Medicine,FAC_BC_CLIN_001,Physician,Community Clinic,14
+HCP_1738,Oscar Mateo,British Columbia,Internal Medicine,FAC_BC_PRIV_006,Physician,Private Practice,29
+HCP_1739,Tomas Sauer,British Columbia,Internal Medicine,FAC_BC_PRIV_008,Physician,Private Practice,6
+HCP_1740,Donita Ward,British Columbia,Internal Medicine,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,16
+HCP_1741,Carmelina Wisozk,British Columbia,Internal Medicine,FAC_BC_HOSP_002,Physician,Hospital,24
+HCP_1742,Homero Zúñiga,British Columbia,Internal Medicine,FAC_BC_CLIN_007,Physician,Community Clinic,25
+HCP_1743,Daron Berge,British Columbia,Internal Medicine,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,16
+HCP_1744,Phillip McCullough,British Columbia,Internal Medicine,FAC_BC_CLIN_003,Physician,Community Clinic,3
+HCP_1745,Leif Grant,British Columbia,Internal Medicine,FAC_BC_HOSP_003,Physician,Hospital,1
+HCP_1746,Sipho Dlamini,British Columbia,Internal Medicine,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,17
+HCP_1747,Lerato Molefe,British Columbia,Internal Medicine,FAC_BC_CLIN_008,Physician,Community Clinic,29
+HCP_1748,Horace Collier,British Columbia,Internal Medicine,FAC_BC_ACAD_002,Physician,Academic/Teaching Hospital,1
+HCP_1749,Marianela Anderson,British Columbia,Internal Medicine,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,32
+HCP_1750,Thad Osinski,British Columbia,Internal Medicine,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,24
+HCP_1751,Vivek Iyer,British Columbia,Internal Medicine,FAC_BC_PRIV_007,Physician,Private Practice,1
+HCP_1752,Santina Klocko,British Columbia,Cardiology,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,13
+HCP_1753,Darrel Lang,British Columbia,Cardiology,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,8
+HCP_1754,Camille Erdman,British Columbia,Cardiology,FAC_BC_CLIN_004,Physician,Community Clinic,34
+HCP_1755,Earl Fahey,British Columbia,Cardiology,FAC_BC_HOSP_009,Physician,Hospital,20
+HCP_1756,Rayford Wisozk,British Columbia,Cardiology,FAC_BC_CLIN_007,Physician,Community Clinic,12
+HCP_1757,Benita Boehm,British Columbia,Cardiology,FAC_BC_PRIV_001,Physician,Private Practice,10
+HCP_1758,Lucienne Hudson,British Columbia,Cardiology,FAC_BC_PRIV_007,Physician,Private Practice,20
+HCP_1759,Estefana Emmerich,British Columbia,Cardiology,FAC_BC_HOSP_004,Physician,Hospital,1
+HCP_1760,Leilani Stoltenberg,British Columbia,Cardiology,FAC_BC_PRIV_001,Physician,Private Practice,10
+HCP_1761,Victor Fadel,British Columbia,Cardiology,FAC_BC_HOSP_006,Physician,Hospital,6
+HCP_1762,Adela Chapa,British Columbia,Cardiology,FAC_BC_PRIV_002,Physician,Private Practice,22
+HCP_1763,Gaynell Streich,British Columbia,Cardiology,FAC_BC_PRIV_008,Physician,Private Practice,24
+HCP_1764,Alexander Koch,British Columbia,Cardiology,FAC_BC_PRIV_002,Physician,Private Practice,17
+HCP_1765,Lenny Dare,British Columbia,Gastroenterology,FAC_BC_CLIN_001,Physician,Community Clinic,5
+HCP_1766,Neha Deshmukh,British Columbia,Gastroenterology,FAC_BC_CLIN_006,Physician,Community Clinic,13
+HCP_1767,Shawnee Zieme,British Columbia,Gastroenterology,FAC_BC_PRIV_004,Physician,Private Practice,30
+HCP_1768,Corrina Pacocha,British Columbia,Gastroenterology,FAC_BC_PRIV_007,Physician,Private Practice,8
+HCP_1769,Houston Osinski,British Columbia,Gastroenterology,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,6
+HCP_1770,Luke Rath,British Columbia,Gastroenterology,FAC_BC_CLIN_004,Physician,Community Clinic,4
+HCP_1771,Juan Connelly,British Columbia,Gastroenterology,FAC_BC_CLIN_004,Physician,Community Clinic,29
+HCP_1772,Horace Collier,British Columbia,Neurology,FAC_BC_CLIN_003,Physician,Community Clinic,5
+HCP_1773,Micheal Deckow,British Columbia,Neurology,FAC_BC_PRIV_008,Physician,Private Practice,21
+HCP_1774,Camille Erdman,British Columbia,Neurology,FAC_BC_HOSP_004,Physician,Hospital,35
+HCP_1775,Alaine Gusikowski,British Columbia,Neurology,FAC_BC_CLIN_008,Physician,Community Clinic,23
+HCP_1776,Judith Johns,British Columbia,Neurology,FAC_BC_HOSP_003,Physician,Hospital,15
+HCP_1777,Felton Glover,British Columbia,Neurology,FAC_BC_PRIV_005,Physician,Private Practice,8
+HCP_1778,Tressa Kovacek,British Columbia,Neurology,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,1
+HCP_1779,So Legros,British Columbia,Neurology,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,6
+HCP_1780,Maximo Carter,British Columbia,Neurology,FAC_BC_CLIN_004,Physician,Community Clinic,34
+HCP_1781,Garth Wyman,British Columbia,Neurology,FAC_BC_HOSP_002,Physician,Hospital,6
+HCP_1782,Ofelia Skiles,British Columbia,Neurology,FAC_BC_HOSP_010,Physician,Hospital,1
+HCP_1783,Phillip McCullough,British Columbia,Neurology,FAC_BC_HOSP_010,Physician,Hospital,29
+HCP_1784,Kenji Yamamoto,British Columbia,Neurology,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,15
+HCP_1785,Alfred Weber,British Columbia,Neurology,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,13
+HCP_1786,Michell Friesen,British Columbia,Neurology,FAC_BC_PRIV_002,Physician,Private Practice,26
+HCP_1787,Luke Rath,British Columbia,Neurology,FAC_BC_HOSP_002,Physician,Hospital,19
+HCP_1788,Oscar Mateo,British Columbia,Neurology,FAC_BC_HOSP_004,Physician,Hospital,33
+HCP_1789,Reyna Keeling,British Columbia,Psychiatry,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,17
+HCP_1790,Elton VonRueden,British Columbia,Psychiatry,FAC_BC_CLIN_007,Physician,Community Clinic,25
+HCP_1791,Willie Kessler,British Columbia,Psychiatry,FAC_BC_HOSP_006,Physician,Hospital,31
+HCP_1792,Mariano West,British Columbia,Psychiatry,FAC_BC_HOSP_004,Physician,Hospital,17
+HCP_1793,Vivien Leffler,British Columbia,Psychiatry,FAC_BC_CLIN_004,Physician,Community Clinic,10
+HCP_1794,Chere Greenfelder,British Columbia,Psychiatry,FAC_BC_PRIV_009,Physician,Private Practice,35
+HCP_1795,Elvis Hartmann,British Columbia,Psychiatry,FAC_BC_ACAD_006,Physician,Academic/Teaching Hospital,8
+HCP_1796,Donita Ward,British Columbia,Psychiatry,FAC_BC_CLIN_001,Physician,Community Clinic,2
+HCP_1797,Thandi Mokoena,British Columbia,Psychiatry,FAC_BC_PRIV_011,Physician,Private Practice,21
+HCP_1798,Leola Tremblay,British Columbia,Psychiatry,FAC_BC_HOSP_008,Physician,Hospital,35
+HCP_1799,Elvis Hartmann,British Columbia,Psychiatry,FAC_BC_HOSP_003,Physician,Hospital,4
+HCP_1800,Alecia Welch,British Columbia,Psychiatry,FAC_BC_HOSP_001,Physician,Hospital,30
+HCP_1801,Devora Sipes,British Columbia,Psychiatry,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,30
+HCP_1802,Corrina Pacocha,British Columbia,Psychiatry,FAC_BC_PRIV_010,Physician,Private Practice,33
+HCP_1803,Daron Berge,British Columbia,Psychiatry,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,15
+HCP_1804,Harley Bins,British Columbia,Psychiatry,FAC_BC_HOSP_004,Physician,Hospital,9
+HCP_1805,Mohammed Parisian,British Columbia,Psychiatry,FAC_BC_HOSP_006,Physician,Hospital,18
+HCP_1806,Colby Schowalter,British Columbia,Psychiatry,FAC_BC_ACAD_002,Physician,Academic/Teaching Hospital,5
+HCP_1807,Gaynell Streich,British Columbia,Psychiatry,FAC_BC_HOSP_002,Physician,Hospital,30
+HCP_1808,Abdul Volkman,British Columbia,Psychiatry,FAC_BC_HOSP_009,Physician,Hospital,24
+HCP_1809,Hassan Rath,British Columbia,Psychiatry,FAC_BC_PRIV_009,Physician,Private Practice,17
+HCP_1810,Mika Suzuki,British Columbia,Psychiatry,FAC_BC_PRIV_005,Physician,Private Practice,19
+HCP_1811,Michell Friesen,British Columbia,Psychiatry,FAC_BC_HOSP_001,Physician,Hospital,25
+HCP_1812,Mickie Greenholt,British Columbia,Psychiatry,FAC_BC_CLIN_008,Physician,Community Clinic,19
+HCP_1813,Gemma Effertz,British Columbia,Psychiatry,FAC_BC_PRIV_010,Physician,Private Practice,30
+HCP_1814,Conchita Tejada,British Columbia,Psychiatry,FAC_BC_CLIN_002,Physician,Community Clinic,33
+HCP_1815,Ettie Schroeder,British Columbia,Psychiatry,FAC_BC_CLIN_003,Physician,Community Clinic,34
+HCP_1816,Crista Keebler,British Columbia,Psychiatry,FAC_BC_HOSP_001,Physician,Hospital,22
+HCP_1817,Florinda Schimmel,British Columbia,Psychiatry,FAC_BC_CLIN_007,Physician,Community Clinic,26
+HCP_1818,Matt Bartell,British Columbia,Psychiatry,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,11
+HCP_1819,Jeramy Littel,British Columbia,Psychiatry,FAC_BC_PRIV_006,Physician,Private Practice,2
+HCP_1820,Paige Goodwin,British Columbia,Psychiatry,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,15
+HCP_1821,Armida Huel,British Columbia,Psychiatry,FAC_BC_HOSP_006,Physician,Hospital,31
+HCP_1822,Edmundo Bauch,British Columbia,Psychiatry,FAC_BC_HOSP_006,Physician,Hospital,5
+HCP_1823,Myrl Eichmann,British Columbia,Psychiatry,FAC_BC_PRIV_002,Physician,Private Practice,20
+HCP_1824,Karisa Stiedemann,British Columbia,Psychiatry,FAC_BC_HOSP_003,Physician,Hospital,7
+HCP_1825,Crissy O'Connell,British Columbia,Psychiatry,FAC_BC_PRIV_010,Physician,Private Practice,16
+HCP_1826,Carla Koss,British Columbia,Psychiatry,FAC_BC_ACAD_006,Physician,Academic/Teaching Hospital,6
+HCP_1827,Vern Powlowski,British Columbia,Psychiatry,FAC_BC_CLIN_008,Physician,Community Clinic,26
+HCP_1828,Naledi Khumalo,British Columbia,Psychiatry,FAC_BC_PRIV_004,Physician,Private Practice,29
+HCP_1829,Michel Reichel,British Columbia,Psychiatry,FAC_BC_PRIV_011,Physician,Private Practice,27
+HCP_1830,Sipho Dlamini,British Columbia,Psychiatry,FAC_BC_HOSP_003,Physician,Hospital,25
+HCP_1831,Aurelio Nicolas,British Columbia,Psychiatry,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,9
+HCP_1832,Aiko Nakamura,British Columbia,Psychiatry,FAC_BC_HOSP_001,Physician,Hospital,19
+HCP_1833,Brendon Bailey,British Columbia,Psychiatry,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,4
+HCP_1834,Benton Becker,British Columbia,Psychiatry,FAC_BC_PRIV_005,Physician,Private Practice,14
+HCP_1835,Deloris Zemlak,British Columbia,Psychiatry,FAC_BC_HOSP_007,Physician,Hospital,18
+HCP_1836,Jeramy Littel,British Columbia,Psychiatry,FAC_BC_PRIV_010,Physician,Private Practice,24
+HCP_1837,Rahul Menon,British Columbia,Psychiatry,FAC_BC_HOSP_004,Physician,Hospital,4
+HCP_1838,Myrl Eichmann,British Columbia,Psychiatry,FAC_BC_PRIV_006,Physician,Private Practice,29
+HCP_1839,Jason Streich,British Columbia,Psychiatry,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,17
+HCP_1840,Rory Kuvalis,British Columbia,Psychiatry,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,31
+HCP_1841,Jere Waelchi,British Columbia,Psychiatry,FAC_BC_ACAD_005,Physician,Academic/Teaching Hospital,19
+HCP_1842,Oscar Mateo,British Columbia,Psychiatry,FAC_BC_CLIN_008,Physician,Community Clinic,20
+HCP_1843,Elijah Koepp,British Columbia,Psychiatry,FAC_BC_PRIV_006,Physician,Private Practice,25
+HCP_1844,Carroll McClure,British Columbia,Psychiatry,FAC_BC_CLIN_004,Physician,Community Clinic,29
+HCP_1845,Homero Zúñiga,British Columbia,Psychiatry,FAC_BC_ACAD_008,Physician,Academic/Teaching Hospital,6
+HCP_1846,Harold Kessler,British Columbia,Psychiatry,FAC_BC_CLIN_007,Physician,Community Clinic,18
+HCP_1847,Lai Friesen,British Columbia,Psychiatry,FAC_BC_ACAD_005,Physician,Academic/Teaching Hospital,2
+HCP_1848,Marylee Reynolds,British Columbia,Psychiatry,FAC_BC_CLIN_003,Physician,Community Clinic,17
+HCP_1849,Alecia Welch,British Columbia,Psychiatry,FAC_BC_PRIV_004,Physician,Private Practice,29
+HCP_1850,Edie Howell,British Columbia,Psychiatry,FAC_BC_HOSP_002,Physician,Hospital,31
+HCP_1851,Gertrudis Schaden,British Columbia,Psychiatry,FAC_BC_PRIV_010,Physician,Private Practice,10
+HCP_1852,Matt Bartell,British Columbia,Psychiatry,FAC_BC_HOSP_004,Physician,Hospital,14
+HCP_1853,Daron Berge,British Columbia,Psychiatry,FAC_BC_HOSP_010,Physician,Hospital,20
+HCP_1854,Tressa Kovacek,British Columbia,Psychiatry,FAC_BC_CLIN_006,Physician,Community Clinic,14
+HCP_1855,Vern Powlowski,British Columbia,Psychiatry,FAC_BC_CLIN_005,Physician,Community Clinic,7
+HCP_1856,Earle Rice,British Columbia,Psychiatry,FAC_BC_PRIV_001,Physician,Private Practice,11
+HCP_1857,Dorene Kessler,British Columbia,Psychiatry,FAC_BC_CLIN_001,Physician,Community Clinic,15
+HCP_1858,Willie Kessler,British Columbia,Psychiatry,FAC_BC_HOSP_003,Physician,Hospital,19
+HCP_1859,Buster Ferry,British Columbia,Psychiatry,FAC_BC_CLIN_004,Physician,Community Clinic,33
+HCP_1860,Joan Trantow,British Columbia,Pediatrics,FAC_BC_CLIN_004,Physician,Community Clinic,20
+HCP_1861,Kelly Boyle,British Columbia,Pediatrics,FAC_BC_PRIV_006,Physician,Private Practice,14
+HCP_1862,Paige Goodwin,British Columbia,Pediatrics,FAC_BC_PRIV_005,Physician,Private Practice,24
+HCP_1863,Carroll McClure,British Columbia,Pediatrics,FAC_BC_HOSP_009,Physician,Hospital,28
+HCP_1864,Pamala Collier,British Columbia,Pediatrics,FAC_BC_PRIV_006,Physician,Private Practice,16
+HCP_1865,Brandon Gerhold,British Columbia,Pediatrics,FAC_BC_PRIV_003,Physician,Private Practice,18
+HCP_1866,Lai Friesen,British Columbia,Pediatrics,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,8
+HCP_1867,Crista Keebler,British Columbia,Pediatrics,FAC_BC_PRIV_008,Physician,Private Practice,31
+HCP_1868,Yasmine Boehm,British Columbia,Pediatrics,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,31
+HCP_1869,Von Mraz,British Columbia,Pediatrics,FAC_BC_HOSP_003,Physician,Hospital,7
+HCP_1870,Crissy O'Connell,British Columbia,Pediatrics,FAC_BC_PRIV_005,Physician,Private Practice,13
+HCP_1871,Colby Schowalter,British Columbia,Pediatrics,FAC_BC_HOSP_002,Physician,Hospital,10
+HCP_1872,Lucio Robel,British Columbia,Pediatrics,FAC_BC_HOSP_003,Physician,Hospital,33
+HCP_1873,Raphael Connelly,British Columbia,Pediatrics,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,3
+HCP_1874,Yuki Tanaka,British Columbia,Pediatrics,FAC_BC_CLIN_003,Physician,Community Clinic,8
+HCP_1875,Adela Chapa,British Columbia,Pediatrics,FAC_BC_PRIV_003,Physician,Private Practice,12
+HCP_1876,Myong Heidenreich,British Columbia,Pediatrics,FAC_BC_PRIV_003,Physician,Private Practice,20
+HCP_1877,Florinda Schimmel,British Columbia,Pediatrics,FAC_BC_PRIV_008,Physician,Private Practice,9
+HCP_1878,Aubrey Greenfelder,British Columbia,Pediatrics,FAC_BC_HOSP_004,Physician,Hospital,19
+HCP_1879,Alfred Weber,British Columbia,Pediatrics,FAC_BC_HOSP_002,Physician,Hospital,27
+HCP_1880,Oscar Mateo,British Columbia,Pediatrics,FAC_BC_HOSP_006,Physician,Hospital,30
+HCP_1881,Victor Fadel,British Columbia,Pediatrics,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,4
+HCP_1882,Lesley Murazik,British Columbia,Pediatrics,FAC_BC_HOSP_004,Physician,Hospital,5
+HCP_1883,Sanford Gottlieb,British Columbia,Pediatrics,FAC_BC_PRIV_003,Physician,Private Practice,4
+HCP_1884,Carroll McClure,British Columbia,Pediatrics,FAC_BC_CLIN_003,Physician,Community Clinic,32
+HCP_1885,Harold Kessler,British Columbia,Pediatrics,FAC_BC_HOSP_008,Physician,Hospital,23
+HCP_1886,Sanford Gottlieb,British Columbia,Pediatrics,FAC_BC_CLIN_005,Physician,Community Clinic,19
+HCP_1887,Mickie Greenholt,British Columbia,Pediatrics,FAC_BC_HOSP_005,Physician,Hospital,28
+HCP_1888,Deloris Zemlak,British Columbia,Pediatrics,FAC_BC_HOSP_005,Physician,Hospital,21
+HCP_1889,Lynwood Monahan,British Columbia,Pediatrics,FAC_BC_HOSP_005,Physician,Hospital,9
+HCP_1890,Ezequiel Hoeger,British Columbia,Pediatrics,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,18
+HCP_1891,Leola Tremblay,British Columbia,Pediatrics,FAC_BC_PRIV_004,Physician,Private Practice,25
+HCP_1892,Michell Friesen,British Columbia,Pediatrics,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,2
+HCP_1893,Mariano West,British Columbia,Pediatrics,FAC_BC_CLIN_001,Physician,Community Clinic,22
+HCP_1894,Kathlyn Borer,British Columbia,Pediatrics,FAC_BC_HOSP_002,Physician,Hospital,18
+HCP_1895,Jeramy Littel,British Columbia,Pediatrics,FAC_BC_PRIV_007,Physician,Private Practice,3
+HCP_1896,Earle Rice,British Columbia,Dermatology,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,10
+HCP_1897,Lenny Dare,British Columbia,Dermatology,FAC_BC_PRIV_004,Physician,Private Practice,16
+HCP_1898,Karisa Stiedemann,British Columbia,Dermatology,FAC_BC_HOSP_008,Physician,Hospital,12
+HCP_1899,Fernando Sierra,British Columbia,Dermatology,FAC_BC_CLIN_002,Physician,Community Clinic,11
+HCP_1900,Ofelia Skiles,British Columbia,Dermatology,FAC_BC_ACAD_008,Physician,Academic/Teaching Hospital,23
+HCP_1901,Kimberely Beatty,British Columbia,Dermatology,FAC_BC_PRIV_005,Physician,Private Practice,15
+HCP_1902,Buddy Schinner,British Columbia,Dermatology,FAC_BC_ACAD_005,Physician,Academic/Teaching Hospital,18
+HCP_1903,Della Steuber,British Columbia,General Surgery,FAC_BC_PRIV_003,Physician,Private Practice,28
+HCP_1904,Emilee Runolfsdottir,British Columbia,General Surgery,FAC_BC_HOSP_002,Physician,Hospital,4
+HCP_1905,Felton Glover,British Columbia,General Surgery,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,13
+HCP_1906,Michell Friesen,British Columbia,General Surgery,FAC_BC_ACAD_002,Physician,Academic/Teaching Hospital,3
+HCP_1907,Paige Goodwin,British Columbia,General Surgery,FAC_BC_PRIV_004,Physician,Private Practice,33
+HCP_1908,Tressa Kovacek,British Columbia,General Surgery,FAC_BC_ACAD_004,Physician,Academic/Teaching Hospital,7
+HCP_1909,Terry Wiegand,British Columbia,General Surgery,FAC_BC_HOSP_008,Physician,Hospital,29
+HCP_1910,Rahul Menon,British Columbia,General Surgery,FAC_BC_ACAD_002,Physician,Academic/Teaching Hospital,7
+HCP_1911,Benton Becker,British Columbia,General Surgery,FAC_BC_HOSP_010,Physician,Hospital,12
+HCP_1912,Santina Klocko,British Columbia,General Surgery,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,22
+HCP_1913,Tomas Sauer,British Columbia,General Surgery,FAC_BC_HOSP_008,Physician,Hospital,30
+HCP_1914,Carlos Bins,British Columbia,General Surgery,FAC_BC_PRIV_008,Physician,Private Practice,7
+HCP_1915,Anton Gibson,British Columbia,General Surgery,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,8
+HCP_1916,Blanca Feliciano,British Columbia,General Surgery,FAC_BC_HOSP_005,Physician,Hospital,31
+HCP_1917,Reggie Mitchell,British Columbia,General Surgery,FAC_BC_HOSP_004,Physician,Hospital,12
+HCP_1918,Zaida Treutel,British Columbia,General Surgery,FAC_BC_ACAD_008,Physician,Academic/Teaching Hospital,8
+HCP_1919,Ezequiel Hoeger,British Columbia,General Surgery,FAC_BC_HOSP_009,Physician,Hospital,27
+HCP_1920,Buddy Schinner,British Columbia,General Surgery,FAC_BC_PRIV_006,Physician,Private Practice,4
+HCP_1921,Mac Stroman,British Columbia,General Surgery,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,31
+HCP_1922,Latashia Glover,British Columbia,General Surgery,FAC_BC_PRIV_011,Physician,Private Practice,31
+HCP_1923,Parker Grady,British Columbia,General Surgery,FAC_BC_CLIN_007,Physician,Community Clinic,30
+HCP_1924,Carmelina Wisozk,British Columbia,General Surgery,FAC_BC_CLIN_003,Physician,Community Clinic,11
+HCP_1925,Micheal Deckow,British Columbia,Urology,FAC_BC_PRIV_009,Physician,Private Practice,4
+HCP_1926,Judith Johns,British Columbia,Urology,FAC_BC_PRIV_001,Physician,Private Practice,15
+HCP_1927,Arnoldo Carter,British Columbia,Urology,FAC_BC_PRIV_005,Physician,Private Practice,12
+HCP_1928,Mohammed Parisian,British Columbia,Urology,FAC_BC_HOSP_003,Physician,Hospital,34
+HCP_1929,Kasi Hickle,British Columbia,Urology,FAC_BC_PRIV_004,Physician,Private Practice,23
+HCP_1930,Aiko Nakamura,British Columbia,Urology,FAC_BC_PRIV_007,Physician,Private Practice,34
+HCP_1931,Hassan Rath,British Columbia,Urology,FAC_BC_PRIV_003,Physician,Private Practice,27
+HCP_1932,Abdul Volkman,British Columbia,Urology,FAC_BC_HOSP_005,Physician,Hospital,26
+HCP_1933,Brandon Gerhold,British Columbia,Urology,FAC_BC_PRIV_011,Physician,Private Practice,4
+HCP_1934,Aiko Nakamura,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_004,Physician,Private Practice,3
+HCP_1935,Jamie Eichmann,British Columbia,Orthopedic Surgery,FAC_BC_HOSP_008,Physician,Hospital,2
+HCP_1936,Edie Howell,British Columbia,Orthopedic Surgery,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,21
+HCP_1937,Dorene Kessler,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_006,Physician,Private Practice,8
+HCP_1938,Rory Kuvalis,British Columbia,Orthopedic Surgery,FAC_BC_CLIN_005,Physician,Community Clinic,35
+HCP_1939,Mika Suzuki,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_002,Physician,Private Practice,5
+HCP_1940,Lucio Robel,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_011,Physician,Private Practice,34
+HCP_1941,Edie Howell,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_011,Physician,Private Practice,24
+HCP_1942,Matt Bartell,British Columbia,Orthopedic Surgery,FAC_BC_CLIN_005,Physician,Community Clinic,4
+HCP_1943,Olen Heathcote,British Columbia,Orthopedic Surgery,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,3
+HCP_1944,Von Mraz,British Columbia,Orthopedic Surgery,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,14
+HCP_1945,Horace Collier,British Columbia,Orthopedic Surgery,FAC_BC_HOSP_010,Physician,Hospital,12
+HCP_1946,Myong Heidenreich,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_009,Physician,Private Practice,12
+HCP_1947,Lon Lind,British Columbia,Orthopedic Surgery,FAC_BC_HOSP_010,Physician,Hospital,19
+HCP_1948,Priya Nair,British Columbia,Orthopedic Surgery,FAC_BC_CLIN_005,Physician,Community Clinic,5
+HCP_1949,Tomas Sauer,British Columbia,Orthopedic Surgery,FAC_BC_ACAD_005,Physician,Academic/Teaching Hospital,5
+HCP_1950,Rayford Wisozk,British Columbia,Orthopedic Surgery,FAC_BC_HOSP_001,Physician,Hospital,25
+HCP_1951,Rohan Kapoor,British Columbia,Orthopedic Surgery,FAC_BC_CLIN_004,Physician,Community Clinic,35
+HCP_1952,Lucienne Hudson,British Columbia,Orthopedic Surgery,FAC_BC_HOSP_009,Physician,Hospital,10
+HCP_1953,Benton Becker,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_004,Physician,Private Practice,33
+HCP_1954,Corrina Pacocha,British Columbia,Orthopedic Surgery,FAC_BC_CLIN_004,Physician,Community Clinic,13
+HCP_1955,Ren Takahashi,British Columbia,Orthopedic Surgery,FAC_BC_PRIV_001,Physician,Private Practice,12
+HCP_1956,Norbert Murphy,British Columbia,Ophthalmology,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,4
+HCP_1957,Buddy Schinner,British Columbia,Ophthalmology,FAC_BC_PRIV_008,Physician,Private Practice,15
+HCP_1958,Kimberely Beatty,British Columbia,Ophthalmology,FAC_BC_PRIV_005,Physician,Private Practice,18
+HCP_1959,Andrés Sauceda,British Columbia,Ophthalmology,FAC_BC_HOSP_002,Physician,Hospital,24
+HCP_1960,Leola Tremblay,British Columbia,Ophthalmology,FAC_BC_HOSP_006,Physician,Hospital,6
+HCP_1961,Albertina Skiles,British Columbia,Ophthalmology,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,7
+HCP_1962,Lerato Molefe,British Columbia,Ophthalmology,FAC_BC_ACAD_009,Physician,Academic/Teaching Hospital,16
+HCP_1963,Pamelia Harber,British Columbia,Ophthalmology,FAC_BC_PRIV_011,Physician,Private Practice,3
+HCP_1964,Elijah Koepp,British Columbia,Ophthalmology,FAC_BC_CLIN_007,Physician,Community Clinic,6
+HCP_1965,Elijah Koepp,British Columbia,Ophthalmology,FAC_BC_HOSP_010,Physician,Hospital,23
+HCP_1966,Homero Zúñiga,British Columbia,Ophthalmology,FAC_BC_ACAD_005,Physician,Academic/Teaching Hospital,34
+HCP_1967,Pamala Collier,British Columbia,Ophthalmology,FAC_BC_ACAD_007,Physician,Academic/Teaching Hospital,21
+HCP_1968,Don Denesik,British Columbia,Ophthalmology,FAC_BC_HOSP_007,Physician,Hospital,6
+HCP_1969,Albertina Skiles,British Columbia,Ophthalmology,FAC_BC_PRIV_008,Physician,Private Practice,35
+HCP_1970,Lonna Dietrich,British Columbia,Ophthalmology,FAC_BC_PRIV_006,Physician,Private Practice,19
+HCP_1971,Dante Howell,British Columbia,Ophthalmology,FAC_BC_CLIN_008,Physician,Community Clinic,26
+HCP_1972,Arjun Malhotra,British Columbia,Ophthalmology,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,7
+HCP_1973,Indira Willms,British Columbia,Obstetrics/Gynecology,FAC_BC_HOSP_010,Physician,Hospital,21
+HCP_1974,Ofelia Skiles,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_003,Physician,Community Clinic,3
+HCP_1975,Geralyn Mitchell,British Columbia,Obstetrics/Gynecology,FAC_BC_HOSP_004,Physician,Hospital,22
+HCP_1976,Garth Wyman,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_011,Physician,Private Practice,8
+HCP_1977,Vivek Iyer,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_009,Physician,Private Practice,32
+HCP_1978,Ofelia Skiles,British Columbia,Obstetrics/Gynecology,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,2
+HCP_1979,Devora Sipes,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_006,Physician,Private Practice,23
+HCP_1980,Cathi Gulgowski,British Columbia,Obstetrics/Gynecology,FAC_BC_HOSP_004,Physician,Hospital,5
+HCP_1981,Andrés Sauceda,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_006,Physician,Community Clinic,25
+HCP_1982,Arcelia Gottlieb,British Columbia,Obstetrics/Gynecology,FAC_BC_HOSP_004,Physician,Hospital,18
+HCP_1983,Leonor Najera,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_001,Physician,Private Practice,34
+HCP_1984,Lavera Flatley,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_002,Physician,Private Practice,23
+HCP_1985,Joleen Oberbrunner,British Columbia,Obstetrics/Gynecology,FAC_BC_ACAD_003,Physician,Academic/Teaching Hospital,14
+HCP_1986,Cathi Gulgowski,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_008,Physician,Community Clinic,4
+HCP_1987,Parker Grady,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_001,Physician,Community Clinic,21
+HCP_1988,Leif Grant,British Columbia,Obstetrics/Gynecology,FAC_BC_HOSP_004,Physician,Hospital,16
+HCP_1989,Leif Grant,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_007,Physician,Community Clinic,2
+HCP_1990,Arjun Malhotra,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_004,Physician,Community Clinic,21
+HCP_1991,Buddy Schinner,British Columbia,Obstetrics/Gynecology,FAC_BC_ACAD_006,Physician,Academic/Teaching Hospital,8
+HCP_1992,Lavinia Douglas,British Columbia,Obstetrics/Gynecology,FAC_BC_ACAD_002,Physician,Academic/Teaching Hospital,9
+HCP_1993,Homer Wiegand,British Columbia,Obstetrics/Gynecology,FAC_BC_HOSP_007,Physician,Hospital,1
+HCP_1994,Joleen Oberbrunner,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_008,Physician,Community Clinic,14
+HCP_1995,Elton VonRueden,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_005,Physician,Private Practice,8
+HCP_1996,Tomas Sauer,British Columbia,Obstetrics/Gynecology,FAC_BC_CLIN_005,Physician,Community Clinic,3
+HCP_1997,Rory Kuvalis,British Columbia,Obstetrics/Gynecology,FAC_BC_HOSP_005,Physician,Hospital,16
+HCP_1998,Sibusiso Ndlovu,British Columbia,Obstetrics/Gynecology,FAC_BC_ACAD_001,Physician,Academic/Teaching Hospital,8
+HCP_1999,Reggie Mitchell,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_007,Physician,Private Practice,5
+HCP_2000,Reggie Mitchell,British Columbia,Obstetrics/Gynecology,FAC_BC_PRIV_001,Physician,Private Practice,17
+HCP_2001,Mari Reynolds,Northwest Territories,Cardiology,FAC_NT_HOSP_001,Physician,Hospital,30
+HCP_2002,Lerato Molefe,Northwest Territories,Internal Medicine,FAC_NT_ACAD_001,Physician,Academic/Teaching Hospital,16
+HCP_2003,Don Denesik,Northwest Territories,Neurology,FAC_NT_CLIN_001,Physician,Community Clinic,26
+HCP_2004,Ayanda Mthembu,Nunavut,Cardiology,FAC_NU_HOSP_001,Physician,Hospital,12
+HCP_2005,Mariano West,Nunavut,Internal Medicine,FAC_NU_HOSP_001,Physician,Hospital,5
+HCP_2006,Sipho Dlamini,Yukon,Cardiology,FAC_YT_HOSP_001,Physician,Hospital,7
+HCP_2007,Marylee Reynolds,Yukon,Internal Medicine,FAC_YT_HOSP_001,Physician,Hospital,23
+HCP_2008,Jere Waelchi,Yukon,Orthopedic Surgery,FAC_YT_PRIV_001,Physician,Private Practice,26
+HCP_2009,Della Steuber,Prince Edward Island,Neurology,FAC_PE_HOSP_001,Physician,Hospital,10
