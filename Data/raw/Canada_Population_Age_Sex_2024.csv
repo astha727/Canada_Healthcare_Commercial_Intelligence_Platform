@@ -1,0 +1,599 @@
+﻿REF_DATE,GEO,DGUID,Gender,Age group,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2024,Newfoundland and Labrador,2021A000210,Men+,All ages,Persons,249,units,0,v466984,2.2.1,270407,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,0 to 4 years,Persons,249,units,0,v467200,2.2.7,9572,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,5 to 9 years,Persons,249,units,0,v467014,2.2.13,12085,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,10 to 14 years,Persons,249,units,0,v467032,2.2.19,13357,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,15 to 19 years,Persons,249,units,0,v467053,2.2.25,14411,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,20 to 24 years,Persons,249,units,0,v467074,2.2.31,16062,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,25 to 29 years,Persons,249,units,0,v467092,2.2.37,15923,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,30 to 34 years,Persons,249,units,0,v467113,2.2.43,15958,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,35 to 39 years,Persons,249,units,0,v467131,2.2.49,16162,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,40 to 44 years,Persons,249,units,0,v467152,2.2.55,16489,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,45 to 49 years,Persons,249,units,0,v467173,2.2.61,16840,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,50 to 54 years,Persons,249,units,0,v467191,2.2.67,18379,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,55 to 59 years,Persons,249,units,0,v467212,2.2.73,20365,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,60 to 64 years,Persons,249,units,0,v467230,2.2.79,21647,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,65 to 69 years,Persons,249,units,0,v467251,2.2.85,20471,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,70 to 74 years,Persons,249,units,0,v467254,2.2.86,17900,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,75 to 79 years,Persons,249,units,0,v467257,2.2.87,13203,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,80 to 84 years,Persons,249,units,0,v467260,2.2.88,7113,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,85 to 89 years,Persons,249,units,0,v467263,2.2.89,3205,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,90 to 94 years,Persons,249,units,0,v31226576,2.2.126,1089,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,95 to 99 years,Persons,249,units,0,v31226582,2.2.132,160,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,100 years and older,Persons,249,units,0,v31226588,2.2.138,16,,,,0
+2024,Newfoundland and Labrador,2021A000210,Men+,Median age,Years,308,units,0,v467005,2.2.105,46.6,,,,1
+2024,Newfoundland and Labrador,2021A000210,Women+,All ages,Persons,249,units,0,v466985,2.3.1,276462,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,0 to 4 years,Persons,249,units,0,v467201,2.3.7,9151,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,5 to 9 years,Persons,249,units,0,v467015,2.3.13,11553,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,10 to 14 years,Persons,249,units,0,v467033,2.3.19,12561,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,15 to 19 years,Persons,249,units,0,v467054,2.3.25,13491,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,20 to 24 years,Persons,249,units,0,v467075,2.3.31,14582,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,25 to 29 years,Persons,249,units,0,v467093,2.3.37,14511,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,30 to 34 years,Persons,249,units,0,v467114,2.3.43,15512,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,35 to 39 years,Persons,249,units,0,v467132,2.3.49,16325,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,40 to 44 years,Persons,249,units,0,v467153,2.3.55,17038,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,45 to 49 years,Persons,249,units,0,v467174,2.3.61,17304,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,50 to 54 years,Persons,249,units,0,v467192,2.3.67,19210,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,55 to 59 years,Persons,249,units,0,v467213,2.3.73,21472,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,60 to 64 years,Persons,249,units,0,v467231,2.3.79,22018,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,65 to 69 years,Persons,249,units,0,v467252,2.3.85,21609,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,70 to 74 years,Persons,249,units,0,v467255,2.3.86,19302,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,75 to 79 years,Persons,249,units,0,v467258,2.3.87,14914,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,80 to 84 years,Persons,249,units,0,v467261,2.3.88,8604,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,85 to 89 years,Persons,249,units,0,v467264,2.3.89,4754,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,90 to 94 years,Persons,249,units,0,v31226589,2.3.126,1890,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,95 to 99 years,Persons,249,units,0,v31226595,2.3.132,562,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,100 years and older,Persons,249,units,0,v31226601,2.3.138,99,,,,0
+2024,Newfoundland and Labrador,2021A000210,Women+,Median age,Years,308,units,0,v467006,2.3.105,48.9,,,,1
+2024,Prince Edward Island,2021A000211,Men+,All ages,Persons,249,units,0,v467299,3.2.1,88082,,,,0
+2024,Prince Edward Island,2021A000211,Men+,0 to 4 years,Persons,249,units,0,v467515,3.2.7,3664,,,,0
+2024,Prince Edward Island,2021A000211,Men+,5 to 9 years,Persons,249,units,0,v467329,3.2.13,4462,,,,0
+2024,Prince Edward Island,2021A000211,Men+,10 to 14 years,Persons,249,units,0,v467347,3.2.19,4757,,,,0
+2024,Prince Edward Island,2021A000211,Men+,15 to 19 years,Persons,249,units,0,v467368,3.2.25,5123,,,,0
+2024,Prince Edward Island,2021A000211,Men+,20 to 24 years,Persons,249,units,0,v467389,3.2.31,7446,,,,0
+2024,Prince Edward Island,2021A000211,Men+,25 to 29 years,Persons,249,units,0,v467407,3.2.37,7641,,,,0
+2024,Prince Edward Island,2021A000211,Men+,30 to 34 years,Persons,249,units,0,v467428,3.2.43,5864,,,,0
+2024,Prince Edward Island,2021A000211,Men+,35 to 39 years,Persons,249,units,0,v467446,3.2.49,5459,,,,0
+2024,Prince Edward Island,2021A000211,Men+,40 to 44 years,Persons,249,units,0,v467467,3.2.55,5111,,,,0
+2024,Prince Edward Island,2021A000211,Men+,45 to 49 years,Persons,249,units,0,v467488,3.2.61,5095,,,,0
+2024,Prince Edward Island,2021A000211,Men+,50 to 54 years,Persons,249,units,0,v467506,3.2.67,5244,,,,0
+2024,Prince Edward Island,2021A000211,Men+,55 to 59 years,Persons,249,units,0,v467527,3.2.73,5361,,,,0
+2024,Prince Edward Island,2021A000211,Men+,60 to 64 years,Persons,249,units,0,v467545,3.2.79,5997,,,,0
+2024,Prince Edward Island,2021A000211,Men+,65 to 69 years,Persons,249,units,0,v467566,3.2.85,5427,,,,0
+2024,Prince Edward Island,2021A000211,Men+,70 to 74 years,Persons,249,units,0,v467569,3.2.86,4515,,,,0
+2024,Prince Edward Island,2021A000211,Men+,75 to 79 years,Persons,249,units,0,v467572,3.2.87,3652,,,,0
+2024,Prince Edward Island,2021A000211,Men+,80 to 84 years,Persons,249,units,0,v467575,3.2.88,1868,,,,0
+2024,Prince Edward Island,2021A000211,Men+,85 to 89 years,Persons,249,units,0,v467578,3.2.89,933,,,,0
+2024,Prince Edward Island,2021A000211,Men+,90 to 94 years,Persons,249,units,0,v31226615,3.2.126,380,,,,0
+2024,Prince Edward Island,2021A000211,Men+,95 to 99 years,Persons,249,units,0,v31226621,3.2.132,71,,,,0
+2024,Prince Edward Island,2021A000211,Men+,100 years and older,Persons,249,units,0,v31226627,3.2.138,12,,,,0
+2024,Prince Edward Island,2021A000211,Men+,Median age,Years,308,units,0,v467320,3.2.105,39.7,,,,1
+2024,Prince Edward Island,2021A000211,Women+,All ages,Persons,249,units,0,v467300,3.3.1,91627,,,,0
+2024,Prince Edward Island,2021A000211,Women+,0 to 4 years,Persons,249,units,0,v467516,3.3.7,3590,,,,0
+2024,Prince Edward Island,2021A000211,Women+,5 to 9 years,Persons,249,units,0,v467330,3.3.13,4114,,,,0
+2024,Prince Edward Island,2021A000211,Women+,10 to 14 years,Persons,249,units,0,v467348,3.3.19,4696,,,,0
+2024,Prince Edward Island,2021A000211,Women+,15 to 19 years,Persons,249,units,0,v467369,3.3.25,5025,,,,0
+2024,Prince Edward Island,2021A000211,Women+,20 to 24 years,Persons,249,units,0,v467390,3.3.31,7290,,,,0
+2024,Prince Edward Island,2021A000211,Women+,25 to 29 years,Persons,249,units,0,v467408,3.3.37,6658,,,,0
+2024,Prince Edward Island,2021A000211,Women+,30 to 34 years,Persons,249,units,0,v467429,3.3.43,5754,,,,0
+2024,Prince Edward Island,2021A000211,Women+,35 to 39 years,Persons,249,units,0,v467447,3.3.49,5811,,,,0
+2024,Prince Edward Island,2021A000211,Women+,40 to 44 years,Persons,249,units,0,v467468,3.3.55,5746,,,,0
+2024,Prince Edward Island,2021A000211,Women+,45 to 49 years,Persons,249,units,0,v467489,3.3.61,5395,,,,0
+2024,Prince Edward Island,2021A000211,Women+,50 to 54 years,Persons,249,units,0,v467507,3.3.67,5431,,,,0
+2024,Prince Edward Island,2021A000211,Women+,55 to 59 years,Persons,249,units,0,v467528,3.3.73,5610,,,,0
+2024,Prince Edward Island,2021A000211,Women+,60 to 64 years,Persons,249,units,0,v467546,3.3.79,6516,,,,0
+2024,Prince Edward Island,2021A000211,Women+,65 to 69 years,Persons,249,units,0,v467567,3.3.85,5891,,,,0
+2024,Prince Edward Island,2021A000211,Women+,70 to 74 years,Persons,249,units,0,v467570,3.3.86,5085,,,,0
+2024,Prince Edward Island,2021A000211,Women+,75 to 79 years,Persons,249,units,0,v467573,3.3.87,4061,,,,0
+2024,Prince Edward Island,2021A000211,Women+,80 to 84 years,Persons,249,units,0,v467576,3.3.88,2464,,,,0
+2024,Prince Edward Island,2021A000211,Women+,85 to 89 years,Persons,249,units,0,v467579,3.3.89,1509,,,,0
+2024,Prince Edward Island,2021A000211,Women+,90 to 94 years,Persons,249,units,0,v31226628,3.3.126,724,,,,0
+2024,Prince Edward Island,2021A000211,Women+,95 to 99 years,Persons,249,units,0,v31226634,3.3.132,206,,,,0
+2024,Prince Edward Island,2021A000211,Women+,100 years and older,Persons,249,units,0,v31226640,3.3.138,51,,,,0
+2024,Prince Edward Island,2021A000211,Women+,Median age,Years,308,units,0,v467321,3.3.105,42.5,,,,1
+2024,Nova Scotia,2021A000212,Men+,All ages,Persons,249,units,0,v467614,4.2.1,535593,,,,0
+2024,Nova Scotia,2021A000212,Men+,0 to 4 years,Persons,249,units,0,v467830,4.2.7,21460,,,,0
+2024,Nova Scotia,2021A000212,Men+,5 to 9 years,Persons,249,units,0,v467644,4.2.13,26156,,,,0
+2024,Nova Scotia,2021A000212,Men+,10 to 14 years,Persons,249,units,0,v467662,4.2.19,27478,,,,0
+2024,Nova Scotia,2021A000212,Men+,15 to 19 years,Persons,249,units,0,v467683,4.2.25,27894,,,,0
+2024,Nova Scotia,2021A000212,Men+,20 to 24 years,Persons,249,units,0,v467704,4.2.31,36558,,,,0
+2024,Nova Scotia,2021A000212,Men+,25 to 29 years,Persons,249,units,0,v467722,4.2.37,41415,,,,0
+2024,Nova Scotia,2021A000212,Men+,30 to 34 years,Persons,249,units,0,v467743,4.2.43,38681,,,,0
+2024,Nova Scotia,2021A000212,Men+,35 to 39 years,Persons,249,units,0,v467761,4.2.49,35580,,,,0
+2024,Nova Scotia,2021A000212,Men+,40 to 44 years,Persons,249,units,0,v467782,4.2.55,33259,,,,0
+2024,Nova Scotia,2021A000212,Men+,45 to 49 years,Persons,249,units,0,v467803,4.2.61,30619,,,,0
+2024,Nova Scotia,2021A000212,Men+,50 to 54 years,Persons,249,units,0,v467821,4.2.67,31723,,,,0
+2024,Nova Scotia,2021A000212,Men+,55 to 59 years,Persons,249,units,0,v467842,4.2.73,34028,,,,0
+2024,Nova Scotia,2021A000212,Men+,60 to 64 years,Persons,249,units,0,v467860,4.2.79,39969,,,,0
+2024,Nova Scotia,2021A000212,Men+,65 to 69 years,Persons,249,units,0,v467881,4.2.85,36180,,,,0
+2024,Nova Scotia,2021A000212,Men+,70 to 74 years,Persons,249,units,0,v467884,4.2.86,29279,,,,0
+2024,Nova Scotia,2021A000212,Men+,75 to 79 years,Persons,249,units,0,v467887,4.2.87,22914,,,,0
+2024,Nova Scotia,2021A000212,Men+,80 to 84 years,Persons,249,units,0,v467890,4.2.88,12948,,,,0
+2024,Nova Scotia,2021A000212,Men+,85 to 89 years,Persons,249,units,0,v467893,4.2.89,6642,,,,0
+2024,Nova Scotia,2021A000212,Men+,90 to 94 years,Persons,249,units,0,v31226654,4.2.126,2340,,,,0
+2024,Nova Scotia,2021A000212,Men+,95 to 99 years,Persons,249,units,0,v31226660,4.2.132,422,,,,0
+2024,Nova Scotia,2021A000212,Men+,100 years and older,Persons,249,units,0,v31226666,4.2.138,48,,,,0
+2024,Nova Scotia,2021A000212,Men+,Median age,Years,308,units,0,v467635,4.2.105,41.8,,,,1
+2024,Nova Scotia,2021A000212,Women+,All ages,Persons,249,units,0,v467615,4.3.1,547176,,,,0
+2024,Nova Scotia,2021A000212,Women+,0 to 4 years,Persons,249,units,0,v467831,4.3.7,20394,,,,0
+2024,Nova Scotia,2021A000212,Women+,5 to 9 years,Persons,249,units,0,v467645,4.3.13,24899,,,,0
+2024,Nova Scotia,2021A000212,Women+,10 to 14 years,Persons,249,units,0,v467663,4.3.19,26251,,,,0
+2024,Nova Scotia,2021A000212,Women+,15 to 19 years,Persons,249,units,0,v467684,4.3.25,25862,,,,0
+2024,Nova Scotia,2021A000212,Women+,20 to 24 years,Persons,249,units,0,v467705,4.3.31,33144,,,,0
+2024,Nova Scotia,2021A000212,Women+,25 to 29 years,Persons,249,units,0,v467723,4.3.37,36888,,,,0
+2024,Nova Scotia,2021A000212,Women+,30 to 34 years,Persons,249,units,0,v467744,4.3.43,37871,,,,0
+2024,Nova Scotia,2021A000212,Women+,35 to 39 years,Persons,249,units,0,v467762,4.3.49,35398,,,,0
+2024,Nova Scotia,2021A000212,Women+,40 to 44 years,Persons,249,units,0,v467783,4.3.55,34049,,,,0
+2024,Nova Scotia,2021A000212,Women+,45 to 49 years,Persons,249,units,0,v467804,4.3.61,31818,,,,0
+2024,Nova Scotia,2021A000212,Women+,50 to 54 years,Persons,249,units,0,v467822,4.3.67,33665,,,,0
+2024,Nova Scotia,2021A000212,Women+,55 to 59 years,Persons,249,units,0,v467843,4.3.73,36176,,,,0
+2024,Nova Scotia,2021A000212,Women+,60 to 64 years,Persons,249,units,0,v467861,4.3.79,41776,,,,0
+2024,Nova Scotia,2021A000212,Women+,65 to 69 years,Persons,249,units,0,v467882,4.3.85,38645,,,,0
+2024,Nova Scotia,2021A000212,Women+,70 to 74 years,Persons,249,units,0,v467885,4.3.86,32401,,,,0
+2024,Nova Scotia,2021A000212,Women+,75 to 79 years,Persons,249,units,0,v467888,4.3.87,26011,,,,0
+2024,Nova Scotia,2021A000212,Women+,80 to 84 years,Persons,249,units,0,v467891,4.3.88,16161,,,,0
+2024,Nova Scotia,2021A000212,Women+,85 to 89 years,Persons,249,units,0,v467894,4.3.89,9410,,,,0
+2024,Nova Scotia,2021A000212,Women+,90 to 94 years,Persons,249,units,0,v31226667,4.3.126,4654,,,,0
+2024,Nova Scotia,2021A000212,Women+,95 to 99 years,Persons,249,units,0,v31226673,4.3.132,1418,,,,0
+2024,Nova Scotia,2021A000212,Women+,100 years and older,Persons,249,units,0,v31226679,4.3.138,285,,,,0
+2024,Nova Scotia,2021A000212,Women+,Median age,Years,308,units,0,v467636,4.3.105,44.8,,,,1
+2024,New Brunswick,2021A000213,Men+,All ages,Persons,249,units,0,v467929,5.2.1,424996,,,,0
+2024,New Brunswick,2021A000213,Men+,0 to 4 years,Persons,249,units,0,v468145,5.2.7,17652,,,,0
+2024,New Brunswick,2021A000213,Men+,5 to 9 years,Persons,249,units,0,v467959,5.2.13,21374,,,,0
+2024,New Brunswick,2021A000213,Men+,10 to 14 years,Persons,249,units,0,v467977,5.2.19,22748,,,,0
+2024,New Brunswick,2021A000213,Men+,15 to 19 years,Persons,249,units,0,v467998,5.2.25,23096,,,,0
+2024,New Brunswick,2021A000213,Men+,20 to 24 years,Persons,249,units,0,v468019,5.2.31,26000,,,,0
+2024,New Brunswick,2021A000213,Men+,25 to 29 years,Persons,249,units,0,v468037,5.2.37,27198,,,,0
+2024,New Brunswick,2021A000213,Men+,30 to 34 years,Persons,249,units,0,v468058,5.2.43,27149,,,,0
+2024,New Brunswick,2021A000213,Men+,35 to 39 years,Persons,249,units,0,v468076,5.2.49,27159,,,,0
+2024,New Brunswick,2021A000213,Men+,40 to 44 years,Persons,249,units,0,v468097,5.2.55,27275,,,,0
+2024,New Brunswick,2021A000213,Men+,45 to 49 years,Persons,249,units,0,v468118,5.2.61,26362,,,,0
+2024,New Brunswick,2021A000213,Men+,50 to 54 years,Persons,249,units,0,v468136,5.2.67,26741,,,,0
+2024,New Brunswick,2021A000213,Men+,55 to 59 years,Persons,249,units,0,v468157,5.2.73,28184,,,,0
+2024,New Brunswick,2021A000213,Men+,60 to 64 years,Persons,249,units,0,v468175,5.2.79,31920,,,,0
+2024,New Brunswick,2021A000213,Men+,65 to 69 years,Persons,249,units,0,v468196,5.2.85,29814,,,,0
+2024,New Brunswick,2021A000213,Men+,70 to 74 years,Persons,249,units,0,v468199,5.2.86,24812,,,,0
+2024,New Brunswick,2021A000213,Men+,75 to 79 years,Persons,249,units,0,v468202,5.2.87,18982,,,,0
+2024,New Brunswick,2021A000213,Men+,80 to 84 years,Persons,249,units,0,v468205,5.2.88,10837,,,,0
+2024,New Brunswick,2021A000213,Men+,85 to 89 years,Persons,249,units,0,v468208,5.2.89,5373,,,,0
+2024,New Brunswick,2021A000213,Men+,90 to 94 years,Persons,249,units,0,v31226693,5.2.126,1874,,,,0
+2024,New Brunswick,2021A000213,Men+,95 to 99 years,Persons,249,units,0,v31226699,5.2.132,418,,,,0
+2024,New Brunswick,2021A000213,Men+,100 years and older,Persons,249,units,0,v31226705,5.2.138,28,,,,0
+2024,New Brunswick,2021A000213,Men+,Median age,Years,308,units,0,v467950,5.2.105,43.7,,,,1
+2024,New Brunswick,2021A000213,Women+,All ages,Persons,249,units,0,v467930,5.3.1,433297,,,,0
+2024,New Brunswick,2021A000213,Women+,0 to 4 years,Persons,249,units,0,v468146,5.3.7,16488,,,,0
+2024,New Brunswick,2021A000213,Women+,5 to 9 years,Persons,249,units,0,v467960,5.3.13,20655,,,,0
+2024,New Brunswick,2021A000213,Women+,10 to 14 years,Persons,249,units,0,v467978,5.3.19,22155,,,,0
+2024,New Brunswick,2021A000213,Women+,15 to 19 years,Persons,249,units,0,v467999,5.3.25,21636,,,,0
+2024,New Brunswick,2021A000213,Women+,20 to 24 years,Persons,249,units,0,v468020,5.3.31,24036,,,,0
+2024,New Brunswick,2021A000213,Women+,25 to 29 years,Persons,249,units,0,v468038,5.3.37,24879,,,,0
+2024,New Brunswick,2021A000213,Women+,30 to 34 years,Persons,249,units,0,v468059,5.3.43,26958,,,,0
+2024,New Brunswick,2021A000213,Women+,35 to 39 years,Persons,249,units,0,v468077,5.3.49,27509,,,,0
+2024,New Brunswick,2021A000213,Women+,40 to 44 years,Persons,249,units,0,v468098,5.3.55,27723,,,,0
+2024,New Brunswick,2021A000213,Women+,45 to 49 years,Persons,249,units,0,v468119,5.3.61,26859,,,,0
+2024,New Brunswick,2021A000213,Women+,50 to 54 years,Persons,249,units,0,v468137,5.3.67,27283,,,,0
+2024,New Brunswick,2021A000213,Women+,55 to 59 years,Persons,249,units,0,v468158,5.3.73,29091,,,,0
+2024,New Brunswick,2021A000213,Women+,60 to 64 years,Persons,249,units,0,v468176,5.3.79,32900,,,,0
+2024,New Brunswick,2021A000213,Women+,65 to 69 years,Persons,249,units,0,v468197,5.3.85,31501,,,,0
+2024,New Brunswick,2021A000213,Women+,70 to 74 years,Persons,249,units,0,v468200,5.3.86,26979,,,,0
+2024,New Brunswick,2021A000213,Women+,75 to 79 years,Persons,249,units,0,v468203,5.3.87,20992,,,,0
+2024,New Brunswick,2021A000213,Women+,80 to 84 years,Persons,249,units,0,v468206,5.3.88,12832,,,,0
+2024,New Brunswick,2021A000213,Women+,85 to 89 years,Persons,249,units,0,v468209,5.3.89,7644,,,,0
+2024,New Brunswick,2021A000213,Women+,90 to 94 years,Persons,249,units,0,v31226706,5.3.126,3742,,,,0
+2024,New Brunswick,2021A000213,Women+,95 to 99 years,Persons,249,units,0,v31226712,5.3.132,1195,,,,0
+2024,New Brunswick,2021A000213,Women+,100 years and older,Persons,249,units,0,v31226718,5.3.138,240,,,,0
+2024,New Brunswick,2021A000213,Women+,Median age,Years,308,units,0,v467951,5.3.105,45.9,,,,1
+2024,Quebec,2021A000224,Men+,All ages,Persons,249,units,0,v468244,6.2.1,4521456,,,,0
+2024,Quebec,2021A000224,Men+,0 to 4 years,Persons,249,units,0,v468460,6.2.7,214881,,,,0
+2024,Quebec,2021A000224,Men+,5 to 9 years,Persons,249,units,0,v468274,6.2.13,241706,,,,0
+2024,Quebec,2021A000224,Men+,10 to 14 years,Persons,249,units,0,v468292,6.2.19,253443,,,,0
+2024,Quebec,2021A000224,Men+,15 to 19 years,Persons,249,units,0,v468313,6.2.25,245527,,,,0
+2024,Quebec,2021A000224,Men+,20 to 24 years,Persons,249,units,0,v468334,6.2.31,265158,,,,0
+2024,Quebec,2021A000224,Men+,25 to 29 years,Persons,249,units,0,v468352,6.2.37,299995,,,,0
+2024,Quebec,2021A000224,Men+,30 to 34 years,Persons,249,units,0,v468373,6.2.43,329713,,,,0
+2024,Quebec,2021A000224,Men+,35 to 39 years,Persons,249,units,0,v468391,6.2.49,306253,,,,0
+2024,Quebec,2021A000224,Men+,40 to 44 years,Persons,249,units,0,v468412,6.2.55,317215,,,,0
+2024,Quebec,2021A000224,Men+,45 to 49 years,Persons,249,units,0,v468433,6.2.61,297627,,,,0
+2024,Quebec,2021A000224,Men+,50 to 54 years,Persons,249,units,0,v468451,6.2.67,266521,,,,0
+2024,Quebec,2021A000224,Men+,55 to 59 years,Persons,249,units,0,v468472,6.2.73,280957,,,,0
+2024,Quebec,2021A000224,Men+,60 to 64 years,Persons,249,units,0,v468490,6.2.79,314708,,,,0
+2024,Quebec,2021A000224,Men+,65 to 69 years,Persons,249,units,0,v468511,6.2.85,288988,,,,0
+2024,Quebec,2021A000224,Men+,70 to 74 years,Persons,249,units,0,v468514,6.2.86,230770,,,,0
+2024,Quebec,2021A000224,Men+,75 to 79 years,Persons,249,units,0,v468517,6.2.87,179178,,,,0
+2024,Quebec,2021A000224,Men+,80 to 84 years,Persons,249,units,0,v468520,6.2.88,108797,,,,0
+2024,Quebec,2021A000224,Men+,85 to 89 years,Persons,249,units,0,v468523,6.2.89,53243,,,,0
+2024,Quebec,2021A000224,Men+,90 to 94 years,Persons,249,units,0,v31226732,6.2.126,21621,,,,0
+2024,Quebec,2021A000224,Men+,95 to 99 years,Persons,249,units,0,v31226738,6.2.132,4715,,,,0
+2024,Quebec,2021A000224,Men+,100 years and older,Persons,249,units,0,v31226744,6.2.138,440,,,,0
+2024,Quebec,2021A000224,Men+,Median age,Years,308,units,0,v468265,6.2.105,41.7,,,,1
+2024,Quebec,2021A000224,Women+,All ages,Persons,249,units,0,v468245,6.3.1,4474018,,,,0
+2024,Quebec,2021A000224,Women+,0 to 4 years,Persons,249,units,0,v468461,6.3.7,203725,,,,0
+2024,Quebec,2021A000224,Women+,5 to 9 years,Persons,249,units,0,v468275,6.3.13,228865,,,,0
+2024,Quebec,2021A000224,Women+,10 to 14 years,Persons,249,units,0,v468293,6.3.19,241535,,,,0
+2024,Quebec,2021A000224,Women+,15 to 19 years,Persons,249,units,0,v468314,6.3.25,234609,,,,0
+2024,Quebec,2021A000224,Women+,20 to 24 years,Persons,249,units,0,v468335,6.3.31,245795,,,,0
+2024,Quebec,2021A000224,Women+,25 to 29 years,Persons,249,units,0,v468353,6.3.37,273074,,,,0
+2024,Quebec,2021A000224,Women+,30 to 34 years,Persons,249,units,0,v468374,6.3.43,305023,,,,0
+2024,Quebec,2021A000224,Women+,35 to 39 years,Persons,249,units,0,v468392,6.3.49,288969,,,,0
+2024,Quebec,2021A000224,Women+,40 to 44 years,Persons,249,units,0,v468413,6.3.55,301123,,,,0
+2024,Quebec,2021A000224,Women+,45 to 49 years,Persons,249,units,0,v468434,6.3.61,285678,,,,0
+2024,Quebec,2021A000224,Women+,50 to 54 years,Persons,249,units,0,v468452,6.3.67,258027,,,,0
+2024,Quebec,2021A000224,Women+,55 to 59 years,Persons,249,units,0,v468473,6.3.73,275239,,,,0
+2024,Quebec,2021A000224,Women+,60 to 64 years,Persons,249,units,0,v468491,6.3.79,313751,,,,0
+2024,Quebec,2021A000224,Women+,65 to 69 years,Persons,249,units,0,v468512,6.3.85,298834,,,,0
+2024,Quebec,2021A000224,Women+,70 to 74 years,Persons,249,units,0,v468515,6.3.86,245549,,,,0
+2024,Quebec,2021A000224,Women+,75 to 79 years,Persons,249,units,0,v468518,6.3.87,198931,,,,0
+2024,Quebec,2021A000224,Women+,80 to 84 years,Persons,249,units,0,v468521,6.3.88,133655,,,,0
+2024,Quebec,2021A000224,Women+,85 to 89 years,Persons,249,units,0,v468524,6.3.89,80116,,,,0
+2024,Quebec,2021A000224,Women+,90 to 94 years,Persons,249,units,0,v31226745,6.3.126,44668,,,,0
+2024,Quebec,2021A000224,Women+,95 to 99 years,Persons,249,units,0,v31226751,6.3.132,14693,,,,0
+2024,Quebec,2021A000224,Women+,100 years and older,Persons,249,units,0,v31226757,6.3.138,2159,,,,0
+2024,Quebec,2021A000224,Women+,Median age,Years,308,units,0,v468266,6.3.105,43.6,,,,1
+2024,Ontario,2021A000235,Men+,All ages,Persons,249,units,0,v468559,7.2.1,8049751,,,,0
+2024,Ontario,2021A000235,Men+,0 to 4 years,Persons,249,units,0,v468775,7.2.7,366409,,,,0
+2024,Ontario,2021A000235,Men+,5 to 9 years,Persons,249,units,0,v468589,7.2.13,415013,,,,0
+2024,Ontario,2021A000235,Men+,10 to 14 years,Persons,249,units,0,v468607,7.2.19,431855,,,,0
+2024,Ontario,2021A000235,Men+,15 to 19 years,Persons,249,units,0,v468628,7.2.25,474922,,,,0
+2024,Ontario,2021A000235,Men+,20 to 24 years,Persons,249,units,0,v468649,7.2.31,624191,,,,0
+2024,Ontario,2021A000235,Men+,25 to 29 years,Persons,249,units,0,v468667,7.2.37,678109,,,,0
+2024,Ontario,2021A000235,Men+,30 to 34 years,Persons,249,units,0,v468688,7.2.43,659278,,,,0
+2024,Ontario,2021A000235,Men+,35 to 39 years,Persons,249,units,0,v468706,7.2.49,584071,,,,0
+2024,Ontario,2021A000235,Men+,40 to 44 years,Persons,249,units,0,v468727,7.2.55,522151,,,,0
+2024,Ontario,2021A000235,Men+,45 to 49 years,Persons,249,units,0,v468748,7.2.61,469660,,,,0
+2024,Ontario,2021A000235,Men+,50 to 54 years,Persons,249,units,0,v468766,7.2.67,469604,,,,0
+2024,Ontario,2021A000235,Men+,55 to 59 years,Persons,249,units,0,v468787,7.2.73,483999,,,,0
+2024,Ontario,2021A000235,Men+,60 to 64 years,Persons,249,units,0,v468805,7.2.79,516151,,,,0
+2024,Ontario,2021A000235,Men+,65 to 69 years,Persons,249,units,0,v468826,7.2.85,437225,,,,0
+2024,Ontario,2021A000235,Men+,70 to 74 years,Persons,249,units,0,v468829,7.2.86,343734,,,,0
+2024,Ontario,2021A000235,Men+,75 to 79 years,Persons,249,units,0,v468832,7.2.87,269863,,,,0
+2024,Ontario,2021A000235,Men+,80 to 84 years,Persons,249,units,0,v468835,7.2.88,164392,,,,0
+2024,Ontario,2021A000235,Men+,85 to 89 years,Persons,249,units,0,v468838,7.2.89,91346,,,,0
+2024,Ontario,2021A000235,Men+,90 to 94 years,Persons,249,units,0,v31226771,7.2.126,38170,,,,0
+2024,Ontario,2021A000235,Men+,95 to 99 years,Persons,249,units,0,v31226777,7.2.132,8775,,,,0
+2024,Ontario,2021A000235,Men+,100 years and older,Persons,249,units,0,v31226783,7.2.138,833,,,,0
+2024,Ontario,2021A000235,Men+,Median age,Years,308,units,0,v468580,7.2.105,38.2,,,,1
+2024,Ontario,2021A000235,Women+,All ages,Persons,249,units,0,v468560,7.3.1,8095046,,,,0
+2024,Ontario,2021A000235,Women+,0 to 4 years,Persons,249,units,0,v468776,7.3.7,349513,,,,0
+2024,Ontario,2021A000235,Women+,5 to 9 years,Persons,249,units,0,v468590,7.3.13,394560,,,,0
+2024,Ontario,2021A000235,Women+,10 to 14 years,Persons,249,units,0,v468608,7.3.19,408446,,,,0
+2024,Ontario,2021A000235,Women+,15 to 19 years,Persons,249,units,0,v468629,7.3.25,439377,,,,0
+2024,Ontario,2021A000235,Women+,20 to 24 years,Persons,249,units,0,v468650,7.3.31,547315,,,,0
+2024,Ontario,2021A000235,Women+,25 to 29 years,Persons,249,units,0,v468668,7.3.37,613419,,,,0
+2024,Ontario,2021A000235,Women+,30 to 34 years,Persons,249,units,0,v468689,7.3.43,616823,,,,0
+2024,Ontario,2021A000235,Women+,35 to 39 years,Persons,249,units,0,v468707,7.3.49,563585,,,,0
+2024,Ontario,2021A000235,Women+,40 to 44 years,Persons,249,units,0,v468728,7.3.55,521308,,,,0
+2024,Ontario,2021A000235,Women+,45 to 49 years,Persons,249,units,0,v468749,7.3.61,488566,,,,0
+2024,Ontario,2021A000235,Women+,50 to 54 years,Persons,249,units,0,v468767,7.3.67,496905,,,,0
+2024,Ontario,2021A000235,Women+,55 to 59 years,Persons,249,units,0,v468788,7.3.73,509103,,,,0
+2024,Ontario,2021A000235,Women+,60 to 64 years,Persons,249,units,0,v468806,7.3.79,536026,,,,0
+2024,Ontario,2021A000235,Women+,65 to 69 years,Persons,249,units,0,v468827,7.3.85,472133,,,,0
+2024,Ontario,2021A000235,Women+,70 to 74 years,Persons,249,units,0,v468830,7.3.86,389893,,,,0
+2024,Ontario,2021A000235,Women+,75 to 79 years,Persons,249,units,0,v468833,7.3.87,312566,,,,0
+2024,Ontario,2021A000235,Women+,80 to 84 years,Persons,249,units,0,v468836,7.3.88,204833,,,,0
+2024,Ontario,2021A000235,Women+,85 to 89 years,Persons,249,units,0,v468839,7.3.89,132144,,,,0
+2024,Ontario,2021A000235,Women+,90 to 94 years,Persons,249,units,0,v31226784,7.3.126,70351,,,,0
+2024,Ontario,2021A000235,Women+,95 to 99 years,Persons,249,units,0,v31226790,7.3.132,24303,,,,0
+2024,Ontario,2021A000235,Women+,100 years and older,Persons,249,units,0,v31226796,7.3.138,3877,,,,0
+2024,Ontario,2021A000235,Women+,Median age,Years,308,units,0,v468581,7.3.105,41.1,,,,1
+2024,Manitoba,2021A000246,Men+,All ages,Persons,249,units,0,v468874,8.2.1,753582,,,,0
+2024,Manitoba,2021A000246,Men+,0 to 4 years,Persons,249,units,0,v469090,8.2.7,41313,,,,0
+2024,Manitoba,2021A000246,Men+,5 to 9 years,Persons,249,units,0,v468904,8.2.13,47742,,,,0
+2024,Manitoba,2021A000246,Men+,10 to 14 years,Persons,249,units,0,v468922,8.2.19,47888,,,,0
+2024,Manitoba,2021A000246,Men+,15 to 19 years,Persons,249,units,0,v468943,8.2.25,47977,,,,0
+2024,Manitoba,2021A000246,Men+,20 to 24 years,Persons,249,units,0,v468964,8.2.31,59412,,,,0
+2024,Manitoba,2021A000246,Men+,25 to 29 years,Persons,249,units,0,v468982,8.2.37,62304,,,,0
+2024,Manitoba,2021A000246,Men+,30 to 34 years,Persons,249,units,0,v469003,8.2.43,56921,,,,0
+2024,Manitoba,2021A000246,Men+,35 to 39 years,Persons,249,units,0,v469021,8.2.49,53673,,,,0
+2024,Manitoba,2021A000246,Men+,40 to 44 years,Persons,249,units,0,v469042,8.2.55,50518,,,,0
+2024,Manitoba,2021A000246,Men+,45 to 49 years,Persons,249,units,0,v469063,8.2.61,44888,,,,0
+2024,Manitoba,2021A000246,Men+,50 to 54 years,Persons,249,units,0,v469081,8.2.67,41206,,,,0
+2024,Manitoba,2021A000246,Men+,55 to 59 years,Persons,249,units,0,v469102,8.2.73,39919,,,,0
+2024,Manitoba,2021A000246,Men+,60 to 64 years,Persons,249,units,0,v469120,8.2.79,44180,,,,0
+2024,Manitoba,2021A000246,Men+,65 to 69 years,Persons,249,units,0,v469141,8.2.85,39094,,,,0
+2024,Manitoba,2021A000246,Men+,70 to 74 years,Persons,249,units,0,v469144,8.2.86,30488,,,,0
+2024,Manitoba,2021A000246,Men+,75 to 79 years,Persons,249,units,0,v469147,8.2.87,22428,,,,0
+2024,Manitoba,2021A000246,Men+,80 to 84 years,Persons,249,units,0,v469150,8.2.88,13261,,,,0
+2024,Manitoba,2021A000246,Men+,85 to 89 years,Persons,249,units,0,v469153,8.2.89,6913,,,,0
+2024,Manitoba,2021A000246,Men+,90 to 94 years,Persons,249,units,0,v31226810,8.2.126,2707,,,,0
+2024,Manitoba,2021A000246,Men+,95 to 99 years,Persons,249,units,0,v31226816,8.2.132,668,,,,0
+2024,Manitoba,2021A000246,Men+,100 years and older,Persons,249,units,0,v31226822,8.2.138,82,,,,0
+2024,Manitoba,2021A000246,Men+,Median age,Years,308,units,0,v468895,8.2.105,36.2,,,,1
+2024,Manitoba,2021A000246,Women+,All ages,Persons,249,units,0,v468875,8.3.1,738562,,,,0
+2024,Manitoba,2021A000246,Women+,0 to 4 years,Persons,249,units,0,v469091,8.3.7,39676,,,,0
+2024,Manitoba,2021A000246,Women+,5 to 9 years,Persons,249,units,0,v468905,8.3.13,45132,,,,0
+2024,Manitoba,2021A000246,Women+,10 to 14 years,Persons,249,units,0,v468923,8.3.19,44831,,,,0
+2024,Manitoba,2021A000246,Women+,15 to 19 years,Persons,249,units,0,v468944,8.3.25,44483,,,,0
+2024,Manitoba,2021A000246,Women+,20 to 24 years,Persons,249,units,0,v468965,8.3.31,51736,,,,0
+2024,Manitoba,2021A000246,Women+,25 to 29 years,Persons,249,units,0,v468983,8.3.37,53677,,,,0
+2024,Manitoba,2021A000246,Women+,30 to 34 years,Persons,249,units,0,v469004,8.3.43,52325,,,,0
+2024,Manitoba,2021A000246,Women+,35 to 39 years,Persons,249,units,0,v469022,8.3.49,51236,,,,0
+2024,Manitoba,2021A000246,Women+,40 to 44 years,Persons,249,units,0,v469043,8.3.55,48711,,,,0
+2024,Manitoba,2021A000246,Women+,45 to 49 years,Persons,249,units,0,v469064,8.3.61,43724,,,,0
+2024,Manitoba,2021A000246,Women+,50 to 54 years,Persons,249,units,0,v469082,8.3.67,41107,,,,0
+2024,Manitoba,2021A000246,Women+,55 to 59 years,Persons,249,units,0,v469103,8.3.73,40684,,,,0
+2024,Manitoba,2021A000246,Women+,60 to 64 years,Persons,249,units,0,v469121,8.3.79,45064,,,,0
+2024,Manitoba,2021A000246,Women+,65 to 69 years,Persons,249,units,0,v469142,8.3.85,40612,,,,0
+2024,Manitoba,2021A000246,Women+,70 to 74 years,Persons,249,units,0,v469145,8.3.86,33663,,,,0
+2024,Manitoba,2021A000246,Women+,75 to 79 years,Persons,249,units,0,v469148,8.3.87,26044,,,,0
+2024,Manitoba,2021A000246,Women+,80 to 84 years,Persons,249,units,0,v469151,8.3.88,16743,,,,0
+2024,Manitoba,2021A000246,Women+,85 to 89 years,Persons,249,units,0,v469154,8.3.89,10663,,,,0
+2024,Manitoba,2021A000246,Women+,90 to 94 years,Persons,249,units,0,v31226823,8.3.126,5798,,,,0
+2024,Manitoba,2021A000246,Women+,95 to 99 years,Persons,249,units,0,v31226829,8.3.132,2187,,,,0
+2024,Manitoba,2021A000246,Women+,100 years and older,Persons,249,units,0,v31226835,8.3.138,466,,,,0
+2024,Manitoba,2021A000246,Women+,Median age,Years,308,units,0,v468896,8.3.105,38.7,,,,1
+2024,Saskatchewan,2021A000247,Men+,All ages,Persons,249,units,0,v469189,9.2.1,629820,,,,0
+2024,Saskatchewan,2021A000247,Men+,0 to 4 years,Persons,249,units,0,v469405,9.2.7,35708,,,,0
+2024,Saskatchewan,2021A000247,Men+,5 to 9 years,Persons,249,units,0,v469219,9.2.13,41558,,,,0
+2024,Saskatchewan,2021A000247,Men+,10 to 14 years,Persons,249,units,0,v469237,9.2.19,42842,,,,0
+2024,Saskatchewan,2021A000247,Men+,15 to 19 years,Persons,249,units,0,v469258,9.2.25,41030,,,,0
+2024,Saskatchewan,2021A000247,Men+,20 to 24 years,Persons,249,units,0,v469279,9.2.31,43361,,,,0
+2024,Saskatchewan,2021A000247,Men+,25 to 29 years,Persons,249,units,0,v469297,9.2.37,42991,,,,0
+2024,Saskatchewan,2021A000247,Men+,30 to 34 years,Persons,249,units,0,v469318,9.2.43,45137,,,,0
+2024,Saskatchewan,2021A000247,Men+,35 to 39 years,Persons,249,units,0,v469336,9.2.49,46730,,,,0
+2024,Saskatchewan,2021A000247,Men+,40 to 44 years,Persons,249,units,0,v469357,9.2.55,44572,,,,0
+2024,Saskatchewan,2021A000247,Men+,45 to 49 years,Persons,249,units,0,v469378,9.2.61,38848,,,,0
+2024,Saskatchewan,2021A000247,Men+,50 to 54 years,Persons,249,units,0,v469396,9.2.67,33398,,,,0
+2024,Saskatchewan,2021A000247,Men+,55 to 59 years,Persons,249,units,0,v469417,9.2.73,33011,,,,0
+2024,Saskatchewan,2021A000247,Men+,60 to 64 years,Persons,249,units,0,v469435,9.2.79,38073,,,,0
+2024,Saskatchewan,2021A000247,Men+,65 to 69 years,Persons,249,units,0,v469456,9.2.85,35320,,,,0
+2024,Saskatchewan,2021A000247,Men+,70 to 74 years,Persons,249,units,0,v469459,9.2.86,27414,,,,0
+2024,Saskatchewan,2021A000247,Men+,75 to 79 years,Persons,249,units,0,v469462,9.2.87,18739,,,,0
+2024,Saskatchewan,2021A000247,Men+,80 to 84 years,Persons,249,units,0,v469465,9.2.88,11370,,,,0
+2024,Saskatchewan,2021A000247,Men+,85 to 89 years,Persons,249,units,0,v469468,9.2.89,6206,,,,0
+2024,Saskatchewan,2021A000247,Men+,90 to 94 years,Persons,249,units,0,v31226849,9.2.126,2707,,,,0
+2024,Saskatchewan,2021A000247,Men+,95 to 99 years,Persons,249,units,0,v31226855,9.2.132,723,,,,0
+2024,Saskatchewan,2021A000247,Men+,100 years and older,Persons,249,units,0,v31226861,9.2.138,82,,,,0
+2024,Saskatchewan,2021A000247,Men+,Median age,Years,308,units,0,v469210,9.2.105,37.4,,,,1
+2024,Saskatchewan,2021A000247,Women+,All ages,Persons,249,units,0,v469190,9.3.1,618048,,,,0
+2024,Saskatchewan,2021A000247,Women+,0 to 4 years,Persons,249,units,0,v469406,9.3.7,33921,,,,0
+2024,Saskatchewan,2021A000247,Women+,5 to 9 years,Persons,249,units,0,v469220,9.3.13,39753,,,,0
+2024,Saskatchewan,2021A000247,Women+,10 to 14 years,Persons,249,units,0,v469238,9.3.19,40043,,,,0
+2024,Saskatchewan,2021A000247,Women+,15 to 19 years,Persons,249,units,0,v469259,9.3.25,38262,,,,0
+2024,Saskatchewan,2021A000247,Women+,20 to 24 years,Persons,249,units,0,v469280,9.3.31,38786,,,,0
+2024,Saskatchewan,2021A000247,Women+,25 to 29 years,Persons,249,units,0,v469298,9.3.37,39056,,,,0
+2024,Saskatchewan,2021A000247,Women+,30 to 34 years,Persons,249,units,0,v469319,9.3.43,42592,,,,0
+2024,Saskatchewan,2021A000247,Women+,35 to 39 years,Persons,249,units,0,v469337,9.3.49,45906,,,,0
+2024,Saskatchewan,2021A000247,Women+,40 to 44 years,Persons,249,units,0,v469358,9.3.55,42975,,,,0
+2024,Saskatchewan,2021A000247,Women+,45 to 49 years,Persons,249,units,0,v469379,9.3.61,36604,,,,0
+2024,Saskatchewan,2021A000247,Women+,50 to 54 years,Persons,249,units,0,v469397,9.3.67,33015,,,,0
+2024,Saskatchewan,2021A000247,Women+,55 to 59 years,Persons,249,units,0,v469418,9.3.73,32832,,,,0
+2024,Saskatchewan,2021A000247,Women+,60 to 64 years,Persons,249,units,0,v469436,9.3.79,38333,,,,0
+2024,Saskatchewan,2021A000247,Women+,65 to 69 years,Persons,249,units,0,v469457,9.3.85,36108,,,,0
+2024,Saskatchewan,2021A000247,Women+,70 to 74 years,Persons,249,units,0,v469460,9.3.86,27982,,,,0
+2024,Saskatchewan,2021A000247,Women+,75 to 79 years,Persons,249,units,0,v469463,9.3.87,20694,,,,0
+2024,Saskatchewan,2021A000247,Women+,80 to 84 years,Persons,249,units,0,v469466,9.3.88,13890,,,,0
+2024,Saskatchewan,2021A000247,Women+,85 to 89 years,Persons,249,units,0,v469469,9.3.89,9447,,,,0
+2024,Saskatchewan,2021A000247,Women+,90 to 94 years,Persons,249,units,0,v31226862,9.3.126,5616,,,,0
+2024,Saskatchewan,2021A000247,Women+,95 to 99 years,Persons,249,units,0,v31226868,9.3.132,1845,,,,0
+2024,Saskatchewan,2021A000247,Women+,100 years and older,Persons,249,units,0,v31226874,9.3.138,388,,,,0
+2024,Saskatchewan,2021A000247,Women+,Median age,Years,308,units,0,v469211,9.3.105,39,,,,1
+2024,Alberta,2021A000248,Men+,All ages,Persons,249,units,0,v469504,10.2.1,2472280,,,,0
+2024,Alberta,2021A000248,Men+,0 to 4 years,Persons,249,units,0,v469720,10.2.7,133232,,,,0
+2024,Alberta,2021A000248,Men+,5 to 9 years,Persons,249,units,0,v469534,10.2.13,155182,,,,0
+2024,Alberta,2021A000248,Men+,10 to 14 years,Persons,249,units,0,v469552,10.2.19,157049,,,,0
+2024,Alberta,2021A000248,Men+,15 to 19 years,Persons,249,units,0,v469573,10.2.25,154989,,,,0
+2024,Alberta,2021A000248,Men+,20 to 24 years,Persons,249,units,0,v469594,10.2.31,163340,,,,0
+2024,Alberta,2021A000248,Men+,25 to 29 years,Persons,249,units,0,v469612,10.2.37,179299,,,,0
+2024,Alberta,2021A000248,Men+,30 to 34 years,Persons,249,units,0,v469633,10.2.43,196825,,,,0
+2024,Alberta,2021A000248,Men+,35 to 39 years,Persons,249,units,0,v469651,10.2.49,203056,,,,0
+2024,Alberta,2021A000248,Men+,40 to 44 years,Persons,249,units,0,v469672,10.2.55,192674,,,,0
+2024,Alberta,2021A000248,Men+,45 to 49 years,Persons,249,units,0,v469693,10.2.61,163979,,,,0
+2024,Alberta,2021A000248,Men+,50 to 54 years,Persons,249,units,0,v469711,10.2.67,146753,,,,0
+2024,Alberta,2021A000248,Men+,55 to 59 years,Persons,249,units,0,v469732,10.2.73,134002,,,,0
+2024,Alberta,2021A000248,Men+,60 to 64 years,Persons,249,units,0,v469750,10.2.79,141477,,,,0
+2024,Alberta,2021A000248,Men+,65 to 69 years,Persons,249,units,0,v469771,10.2.85,125983,,,,0
+2024,Alberta,2021A000248,Men+,70 to 74 years,Persons,249,units,0,v469774,10.2.86,92526,,,,0
+2024,Alberta,2021A000248,Men+,75 to 79 years,Persons,249,units,0,v469777,10.2.87,64347,,,,0
+2024,Alberta,2021A000248,Men+,80 to 84 years,Persons,249,units,0,v469780,10.2.88,37633,,,,0
+2024,Alberta,2021A000248,Men+,85 to 89 years,Persons,249,units,0,v469783,10.2.89,19723,,,,0
+2024,Alberta,2021A000248,Men+,90 to 94 years,Persons,249,units,0,v31226888,10.2.126,8264,,,,0
+2024,Alberta,2021A000248,Men+,95 to 99 years,Persons,249,units,0,v31226894,10.2.132,1769,,,,0
+2024,Alberta,2021A000248,Men+,100 years and older,Persons,249,units,0,v31226900,10.2.138,178,,,,0
+2024,Alberta,2021A000248,Men+,Median age,Years,308,units,0,v469525,10.2.105,37.4,,,,1
+2024,Alberta,2021A000248,Women+,All ages,Persons,249,units,0,v469505,10.3.1,2436750,,,,0
+2024,Alberta,2021A000248,Women+,0 to 4 years,Persons,249,units,0,v469721,10.3.7,126854,,,,0
+2024,Alberta,2021A000248,Women+,5 to 9 years,Persons,249,units,0,v469535,10.3.13,147192,,,,0
+2024,Alberta,2021A000248,Women+,10 to 14 years,Persons,249,units,0,v469553,10.3.19,147910,,,,0
+2024,Alberta,2021A000248,Women+,15 to 19 years,Persons,249,units,0,v469574,10.3.25,145088,,,,0
+2024,Alberta,2021A000248,Women+,20 to 24 years,Persons,249,units,0,v469595,10.3.31,152106,,,,0
+2024,Alberta,2021A000248,Women+,25 to 29 years,Persons,249,units,0,v469613,10.3.37,170597,,,,0
+2024,Alberta,2021A000248,Women+,30 to 34 years,Persons,249,units,0,v469634,10.3.43,192874,,,,0
+2024,Alberta,2021A000248,Women+,35 to 39 years,Persons,249,units,0,v469652,10.3.49,198053,,,,0
+2024,Alberta,2021A000248,Women+,40 to 44 years,Persons,249,units,0,v469673,10.3.55,186175,,,,0
+2024,Alberta,2021A000248,Women+,45 to 49 years,Persons,249,units,0,v469694,10.3.61,157733,,,,0
+2024,Alberta,2021A000248,Women+,50 to 54 years,Persons,249,units,0,v469712,10.3.67,141556,,,,0
+2024,Alberta,2021A000248,Women+,55 to 59 years,Persons,249,units,0,v469733,10.3.73,134375,,,,0
+2024,Alberta,2021A000248,Women+,60 to 64 years,Persons,249,units,0,v469751,10.3.79,144209,,,,0
+2024,Alberta,2021A000248,Women+,65 to 69 years,Persons,249,units,0,v469772,10.3.85,129104,,,,0
+2024,Alberta,2021A000248,Women+,70 to 74 years,Persons,249,units,0,v469775,10.3.86,98355,,,,0
+2024,Alberta,2021A000248,Women+,75 to 79 years,Persons,249,units,0,v469778,10.3.87,71796,,,,0
+2024,Alberta,2021A000248,Women+,80 to 84 years,Persons,249,units,0,v469781,10.3.88,44611,,,,0
+2024,Alberta,2021A000248,Women+,85 to 89 years,Persons,249,units,0,v469784,10.3.89,27717,,,,0
+2024,Alberta,2021A000248,Women+,90 to 94 years,Persons,249,units,0,v31226901,10.3.126,14904,,,,0
+2024,Alberta,2021A000248,Women+,95 to 99 years,Persons,249,units,0,v31226907,10.3.132,4689,,,,0
+2024,Alberta,2021A000248,Women+,100 years and older,Persons,249,units,0,v31226913,10.3.138,852,,,,0
+2024,Alberta,2021A000248,Women+,Median age,Years,308,units,0,v469526,10.3.105,38.4,,,,1
+2024,British Columbia,2021A000259,Men+,All ages,Persons,249,units,0,v469819,11.2.1,2810507,,,,0
+2024,British Columbia,2021A000259,Men+,0 to 4 years,Persons,249,units,0,v470035,11.2.7,111503,,,,0
+2024,British Columbia,2021A000259,Men+,5 to 9 years,Persons,249,units,0,v469849,11.2.13,133064,,,,0
+2024,British Columbia,2021A000259,Men+,10 to 14 years,Persons,249,units,0,v469867,11.2.19,140688,,,,0
+2024,British Columbia,2021A000259,Men+,15 to 19 years,Persons,249,units,0,v469888,11.2.25,156195,,,,0
+2024,British Columbia,2021A000259,Men+,20 to 24 years,Persons,249,units,0,v469909,11.2.31,194201,,,,0
+2024,British Columbia,2021A000259,Men+,25 to 29 years,Persons,249,units,0,v469927,11.2.37,220374,,,,0
+2024,British Columbia,2021A000259,Men+,30 to 34 years,Persons,249,units,0,v469948,11.2.43,235726,,,,0
+2024,British Columbia,2021A000259,Men+,35 to 39 years,Persons,249,units,0,v469966,11.2.49,217025,,,,0
+2024,British Columbia,2021A000259,Men+,40 to 44 years,Persons,249,units,0,v469987,11.2.55,196870,,,,0
+2024,British Columbia,2021A000259,Men+,45 to 49 years,Persons,249,units,0,v470008,11.2.61,169150,,,,0
+2024,British Columbia,2021A000259,Men+,50 to 54 years,Persons,249,units,0,v470026,11.2.67,165144,,,,0
+2024,British Columbia,2021A000259,Men+,55 to 59 years,Persons,249,units,0,v470047,11.2.73,164921,,,,0
+2024,British Columbia,2021A000259,Men+,60 to 64 years,Persons,249,units,0,v470065,11.2.79,180174,,,,0
+2024,British Columbia,2021A000259,Men+,65 to 69 years,Persons,249,units,0,v470086,11.2.85,164876,,,,0
+2024,British Columbia,2021A000259,Men+,70 to 74 years,Persons,249,units,0,v470089,11.2.86,137332,,,,0
+2024,British Columbia,2021A000259,Men+,75 to 79 years,Persons,249,units,0,v470092,11.2.87,105779,,,,0
+2024,British Columbia,2021A000259,Men+,80 to 84 years,Persons,249,units,0,v470095,11.2.88,64317,,,,0
+2024,British Columbia,2021A000259,Men+,85 to 89 years,Persons,249,units,0,v470098,11.2.89,34643,,,,0
+2024,British Columbia,2021A000259,Men+,90 to 94 years,Persons,249,units,0,v31226927,11.2.126,14821,,,,0
+2024,British Columbia,2021A000259,Men+,95 to 99 years,Persons,249,units,0,v31226933,11.2.132,3352,,,,0
+2024,British Columbia,2021A000259,Men+,100 years and older,Persons,249,units,0,v31226939,11.2.138,352,,,,0
+2024,British Columbia,2021A000259,Men+,Median age,Years,308,units,0,v469840,11.2.105,39.9,,,,1
+2024,British Columbia,2021A000259,Women+,All ages,Persons,249,units,0,v469820,11.3.1,2860607,,,,0
+2024,British Columbia,2021A000259,Women+,0 to 4 years,Persons,249,units,0,v470036,11.3.7,106273,,,,0
+2024,British Columbia,2021A000259,Women+,5 to 9 years,Persons,249,units,0,v469850,11.3.13,126687,,,,0
+2024,British Columbia,2021A000259,Women+,10 to 14 years,Persons,249,units,0,v469868,11.3.19,132415,,,,0
+2024,British Columbia,2021A000259,Women+,15 to 19 years,Persons,249,units,0,v469889,11.3.25,146277,,,,0
+2024,British Columbia,2021A000259,Women+,20 to 24 years,Persons,249,units,0,v469910,11.3.31,181586,,,,0
+2024,British Columbia,2021A000259,Women+,25 to 29 years,Persons,249,units,0,v469928,11.3.37,212542,,,,0
+2024,British Columbia,2021A000259,Women+,30 to 34 years,Persons,249,units,0,v469949,11.3.43,226675,,,,0
+2024,British Columbia,2021A000259,Women+,35 to 39 years,Persons,249,units,0,v469967,11.3.49,211686,,,,0
+2024,British Columbia,2021A000259,Women+,40 to 44 years,Persons,249,units,0,v469988,11.3.55,196230,,,,0
+2024,British Columbia,2021A000259,Women+,45 to 49 years,Persons,249,units,0,v470009,11.3.61,173658,,,,0
+2024,British Columbia,2021A000259,Women+,50 to 54 years,Persons,249,units,0,v470027,11.3.67,175915,,,,0
+2024,British Columbia,2021A000259,Women+,55 to 59 years,Persons,249,units,0,v470048,11.3.73,176173,,,,0
+2024,British Columbia,2021A000259,Women+,60 to 64 years,Persons,249,units,0,v470066,11.3.79,190733,,,,0
+2024,British Columbia,2021A000259,Women+,65 to 69 years,Persons,249,units,0,v470087,11.3.85,179480,,,,0
+2024,British Columbia,2021A000259,Women+,70 to 74 years,Persons,249,units,0,v470090,11.3.86,151284,,,,0
+2024,British Columbia,2021A000259,Women+,75 to 79 years,Persons,249,units,0,v470093,11.3.87,117631,,,,0
+2024,British Columbia,2021A000259,Women+,80 to 84 years,Persons,249,units,0,v470096,11.3.88,75455,,,,0
+2024,British Columbia,2021A000259,Women+,85 to 89 years,Persons,249,units,0,v470099,11.3.89,46272,,,,0
+2024,British Columbia,2021A000259,Women+,90 to 94 years,Persons,249,units,0,v31226940,11.3.126,24146,,,,0
+2024,British Columbia,2021A000259,Women+,95 to 99 years,Persons,249,units,0,v31226946,11.3.132,8066,,,,0
+2024,British Columbia,2021A000259,Women+,100 years and older,Persons,249,units,0,v31226952,11.3.138,1423,,,,0
+2024,British Columbia,2021A000259,Women+,Median age,Years,308,units,0,v469841,11.3.105,42.1,,,,1
+2024,Yukon,2021A000260,Men+,All ages,Persons,249,units,0,v470134,12.2.1,23989,,,,0
+2024,Yukon,2021A000260,Men+,0 to 4 years,Persons,249,units,0,v470350,12.2.7,1182,,,,0
+2024,Yukon,2021A000260,Men+,5 to 9 years,Persons,249,units,0,v470164,12.2.13,1295,,,,0
+2024,Yukon,2021A000260,Men+,10 to 14 years,Persons,249,units,0,v470182,12.2.19,1332,,,,0
+2024,Yukon,2021A000260,Men+,15 to 19 years,Persons,249,units,0,v470203,12.2.25,1282,,,,0
+2024,Yukon,2021A000260,Men+,20 to 24 years,Persons,249,units,0,v470224,12.2.31,1616,,,,0
+2024,Yukon,2021A000260,Men+,25 to 29 years,Persons,249,units,0,v470242,12.2.37,1907,,,,0
+2024,Yukon,2021A000260,Men+,30 to 34 years,Persons,249,units,0,v470263,12.2.43,2129,,,,0
+2024,Yukon,2021A000260,Men+,35 to 39 years,Persons,249,units,0,v470281,12.2.49,2120,,,,0
+2024,Yukon,2021A000260,Men+,40 to 44 years,Persons,249,units,0,v470302,12.2.55,1835,,,,0
+2024,Yukon,2021A000260,Men+,45 to 49 years,Persons,249,units,0,v470323,12.2.61,1496,,,,0
+2024,Yukon,2021A000260,Men+,50 to 54 years,Persons,249,units,0,v470341,12.2.67,1397,,,,0
+2024,Yukon,2021A000260,Men+,55 to 59 years,Persons,249,units,0,v470362,12.2.73,1321,,,,0
+2024,Yukon,2021A000260,Men+,60 to 64 years,Persons,249,units,0,v470380,12.2.79,1425,,,,0
+2024,Yukon,2021A000260,Men+,65 to 69 years,Persons,249,units,0,v470401,12.2.85,1352,,,,0
+2024,Yukon,2021A000260,Men+,70 to 74 years,Persons,249,units,0,v470404,12.2.86,1011,,,,0
+2024,Yukon,2021A000260,Men+,75 to 79 years,Persons,249,units,0,v470407,12.2.87,715,,,,0
+2024,Yukon,2021A000260,Men+,80 to 84 years,Persons,249,units,0,v470410,12.2.88,340,,,,0
+2024,Yukon,2021A000260,Men+,85 to 89 years,Persons,249,units,0,v470413,12.2.89,152,,,,0
+2024,Yukon,2021A000260,Men+,90 to 94 years,Persons,249,units,0,v31226966,12.2.126,62,,,,0
+2024,Yukon,2021A000260,Men+,95 to 99 years,Persons,249,units,0,v31226972,12.2.132,18,,,,0
+2024,Yukon,2021A000260,Men+,100 years and older,Persons,249,units,0,v31226978,12.2.138,2,,,,0
+2024,Yukon,2021A000260,Men+,Median age,Years,308,units,0,v470155,12.2.105,38,,,,1
+2024,Yukon,2021A000260,Women+,All ages,Persons,249,units,0,v470135,12.3.1,23606,,,,0
+2024,Yukon,2021A000260,Women+,0 to 4 years,Persons,249,units,0,v470351,12.3.7,1095,,,,0
+2024,Yukon,2021A000260,Women+,5 to 9 years,Persons,249,units,0,v470165,12.3.13,1301,,,,0
+2024,Yukon,2021A000260,Women+,10 to 14 years,Persons,249,units,0,v470183,12.3.19,1185,,,,0
+2024,Yukon,2021A000260,Women+,15 to 19 years,Persons,249,units,0,v470204,12.3.25,1112,,,,0
+2024,Yukon,2021A000260,Women+,20 to 24 years,Persons,249,units,0,v470225,12.3.31,1524,,,,0
+2024,Yukon,2021A000260,Women+,25 to 29 years,Persons,249,units,0,v470243,12.3.37,1928,,,,0
+2024,Yukon,2021A000260,Women+,30 to 34 years,Persons,249,units,0,v470264,12.3.43,2243,,,,0
+2024,Yukon,2021A000260,Women+,35 to 39 years,Persons,249,units,0,v470282,12.3.49,2191,,,,0
+2024,Yukon,2021A000260,Women+,40 to 44 years,Persons,249,units,0,v470303,12.3.55,1857,,,,0
+2024,Yukon,2021A000260,Women+,45 to 49 years,Persons,249,units,0,v470324,12.3.61,1534,,,,0
+2024,Yukon,2021A000260,Women+,50 to 54 years,Persons,249,units,0,v470342,12.3.67,1442,,,,0
+2024,Yukon,2021A000260,Women+,55 to 59 years,Persons,249,units,0,v470363,12.3.73,1223,,,,0
+2024,Yukon,2021A000260,Women+,60 to 64 years,Persons,249,units,0,v470381,12.3.79,1522,,,,0
+2024,Yukon,2021A000260,Women+,65 to 69 years,Persons,249,units,0,v470402,12.3.85,1321,,,,0
+2024,Yukon,2021A000260,Women+,70 to 74 years,Persons,249,units,0,v470405,12.3.86,937,,,,0
+2024,Yukon,2021A000260,Women+,75 to 79 years,Persons,249,units,0,v470408,12.3.87,639,,,,0
+2024,Yukon,2021A000260,Women+,80 to 84 years,Persons,249,units,0,v470411,12.3.88,309,,,,0
+2024,Yukon,2021A000260,Women+,85 to 89 years,Persons,249,units,0,v470414,12.3.89,160,,,,0
+2024,Yukon,2021A000260,Women+,90 to 94 years,Persons,249,units,0,v31226979,12.3.126,53,,,,0
+2024,Yukon,2021A000260,Women+,95 to 99 years,Persons,249,units,0,v31226985,12.3.132,26,,,,0
+2024,Yukon,2021A000260,Women+,100 years and older,Persons,249,units,0,v31226991,12.3.138,4,,,,0
+2024,Yukon,2021A000260,Women+,Median age,Years,308,units,0,v470156,12.3.105,38.2,,,,1
+2024,Northwest Territories,2021A000261,Men+,All ages,Persons,249,units,0,v479938,14.2.1,23269,,,,0
+2024,Northwest Territories,2021A000261,Men+,0 to 4 years,Persons,249,units,0,v480154,14.2.7,1330,,,,0
+2024,Northwest Territories,2021A000261,Men+,5 to 9 years,Persons,249,units,0,v479968,14.2.13,1503,,,,0
+2024,Northwest Territories,2021A000261,Men+,10 to 14 years,Persons,249,units,0,v479986,14.2.19,1430,,,,0
+2024,Northwest Territories,2021A000261,Men+,15 to 19 years,Persons,249,units,0,v480007,14.2.25,1425,,,,0
+2024,Northwest Territories,2021A000261,Men+,20 to 24 years,Persons,249,units,0,v480028,14.2.31,1596,,,,0
+2024,Northwest Territories,2021A000261,Men+,25 to 29 years,Persons,249,units,0,v480046,14.2.37,2056,,,,0
+2024,Northwest Territories,2021A000261,Men+,30 to 34 years,Persons,249,units,0,v480067,14.2.43,2042,,,,0
+2024,Northwest Territories,2021A000261,Men+,35 to 39 years,Persons,249,units,0,v480085,14.2.49,1771,,,,0
+2024,Northwest Territories,2021A000261,Men+,40 to 44 years,Persons,249,units,0,v480106,14.2.55,1723,,,,0
+2024,Northwest Territories,2021A000261,Men+,45 to 49 years,Persons,249,units,0,v480127,14.2.61,1411,,,,0
+2024,Northwest Territories,2021A000261,Men+,50 to 54 years,Persons,249,units,0,v480145,14.2.67,1549,,,,0
+2024,Northwest Territories,2021A000261,Men+,55 to 59 years,Persons,249,units,0,v480166,14.2.73,1406,,,,0
+2024,Northwest Territories,2021A000261,Men+,60 to 64 years,Persons,249,units,0,v480184,14.2.79,1484,,,,0
+2024,Northwest Territories,2021A000261,Men+,65 to 69 years,Persons,249,units,0,v480205,14.2.85,1044,,,,0
+2024,Northwest Territories,2021A000261,Men+,70 to 74 years,Persons,249,units,0,v480208,14.2.86,685,,,,0
+2024,Northwest Territories,2021A000261,Men+,75 to 79 years,Persons,249,units,0,v480211,14.2.87,463,,,,0
+2024,Northwest Territories,2021A000261,Men+,80 to 84 years,Persons,249,units,0,v480214,14.2.88,218,,,,0
+2024,Northwest Territories,2021A000261,Men+,85 to 89 years,Persons,249,units,0,v480217,14.2.89,95,,,,0
+2024,Northwest Territories,2021A000261,Men+,90 to 94 years,Persons,249,units,0,v31227044,14.2.126,19,,,,0
+2024,Northwest Territories,2021A000261,Men+,95 to 99 years,Persons,249,units,0,v31227050,14.2.132,18,,,,0
+2024,Northwest Territories,2021A000261,Men+,100 years and older,Persons,249,units,0,v31227056,14.2.138,1,,,,0
+2024,Northwest Territories,2021A000261,Men+,Median age,Years,308,units,0,v479959,14.2.105,35.6,,,,1
+2024,Northwest Territories,2021A000261,Women+,All ages,Persons,249,units,0,v479939,14.3.1,21988,,,,0
+2024,Northwest Territories,2021A000261,Women+,0 to 4 years,Persons,249,units,0,v480155,14.3.7,1214,,,,0
+2024,Northwest Territories,2021A000261,Women+,5 to 9 years,Persons,249,units,0,v479969,14.3.13,1467,,,,0
+2024,Northwest Territories,2021A000261,Women+,10 to 14 years,Persons,249,units,0,v479987,14.3.19,1452,,,,0
+2024,Northwest Territories,2021A000261,Women+,15 to 19 years,Persons,249,units,0,v480008,14.3.25,1348,,,,0
+2024,Northwest Territories,2021A000261,Women+,20 to 24 years,Persons,249,units,0,v480029,14.3.31,1583,,,,0
+2024,Northwest Territories,2021A000261,Women+,25 to 29 years,Persons,249,units,0,v480047,14.3.37,1714,,,,0
+2024,Northwest Territories,2021A000261,Women+,30 to 34 years,Persons,249,units,0,v480068,14.3.43,1884,,,,0
+2024,Northwest Territories,2021A000261,Women+,35 to 39 years,Persons,249,units,0,v480086,14.3.49,1766,,,,0
+2024,Northwest Territories,2021A000261,Women+,40 to 44 years,Persons,249,units,0,v480107,14.3.55,1599,,,,0
+2024,Northwest Territories,2021A000261,Women+,45 to 49 years,Persons,249,units,0,v480128,14.3.61,1446,,,,0
+2024,Northwest Territories,2021A000261,Women+,50 to 54 years,Persons,249,units,0,v480146,14.3.67,1424,,,,0
+2024,Northwest Territories,2021A000261,Women+,55 to 59 years,Persons,249,units,0,v480167,14.3.73,1373,,,,0
+2024,Northwest Territories,2021A000261,Women+,60 to 64 years,Persons,249,units,0,v480185,14.3.79,1237,,,,0
+2024,Northwest Territories,2021A000261,Women+,65 to 69 years,Persons,249,units,0,v480206,14.3.85,965,,,,0
+2024,Northwest Territories,2021A000261,Women+,70 to 74 years,Persons,249,units,0,v480209,14.3.86,633,,,,0
+2024,Northwest Territories,2021A000261,Women+,75 to 79 years,Persons,249,units,0,v480212,14.3.87,422,,,,0
+2024,Northwest Territories,2021A000261,Women+,80 to 84 years,Persons,249,units,0,v480215,14.3.88,263,,,,0
+2024,Northwest Territories,2021A000261,Women+,85 to 89 years,Persons,249,units,0,v480218,14.3.89,119,,,,0
+2024,Northwest Territories,2021A000261,Women+,90 to 94 years,Persons,249,units,0,v31227057,14.3.126,52,,,,0
+2024,Northwest Territories,2021A000261,Women+,95 to 99 years,Persons,249,units,0,v31227063,14.3.132,26,,,,0
+2024,Northwest Territories,2021A000261,Women+,100 years and older,Persons,249,units,0,v31227069,14.3.138,1,,,,0
+2024,Northwest Territories,2021A000261,Women+,Median age,Years,308,units,0,v479960,14.3.105,35.9,,,,1
+2024,Nunavut,2021A000262,Men+,All ages,Persons,249,units,0,v480253,15.2.1,21017,,,,0
+2024,Nunavut,2021A000262,Men+,0 to 4 years,Persons,249,units,0,v480469,15.2.7,2170,,,,0
+2024,Nunavut,2021A000262,Men+,5 to 9 years,Persons,249,units,0,v480283,15.2.13,2283,,,,0
+2024,Nunavut,2021A000262,Men+,10 to 14 years,Persons,249,units,0,v480301,15.2.19,2005,,,,0
+2024,Nunavut,2021A000262,Men+,15 to 19 years,Persons,249,units,0,v480322,15.2.25,1725,,,,0
+2024,Nunavut,2021A000262,Men+,20 to 24 years,Persons,249,units,0,v480343,15.2.31,1670,,,,0
+2024,Nunavut,2021A000262,Men+,25 to 29 years,Persons,249,units,0,v480361,15.2.37,1692,,,,0
+2024,Nunavut,2021A000262,Men+,30 to 34 years,Persons,249,units,0,v480382,15.2.43,1659,,,,0
+2024,Nunavut,2021A000262,Men+,35 to 39 years,Persons,249,units,0,v480400,15.2.49,1534,,,,0
+2024,Nunavut,2021A000262,Men+,40 to 44 years,Persons,249,units,0,v480421,15.2.55,1257,,,,0
+2024,Nunavut,2021A000262,Men+,45 to 49 years,Persons,249,units,0,v480442,15.2.61,1136,,,,0
+2024,Nunavut,2021A000262,Men+,50 to 54 years,Persons,249,units,0,v480460,15.2.67,1037,,,,0
+2024,Nunavut,2021A000262,Men+,55 to 59 years,Persons,249,units,0,v480481,15.2.73,1019,,,,0
+2024,Nunavut,2021A000262,Men+,60 to 64 years,Persons,249,units,0,v480499,15.2.79,821,,,,0
+2024,Nunavut,2021A000262,Men+,65 to 69 years,Persons,249,units,0,v480520,15.2.85,456,,,,0
+2024,Nunavut,2021A000262,Men+,70 to 74 years,Persons,249,units,0,v480523,15.2.86,284,,,,0
+2024,Nunavut,2021A000262,Men+,75 to 79 years,Persons,249,units,0,v480526,15.2.87,170,,,,0
+2024,Nunavut,2021A000262,Men+,80 to 84 years,Persons,249,units,0,v480529,15.2.88,69,,,,0
+2024,Nunavut,2021A000262,Men+,85 to 89 years,Persons,249,units,0,v480532,15.2.89,20,,,,0
+2024,Nunavut,2021A000262,Men+,90 to 94 years,Persons,249,units,0,v31227083,15.2.126,7,,,,0
+2024,Nunavut,2021A000262,Men+,95 to 99 years,Persons,249,units,0,v31227089,15.2.132,3,,,,0
+2024,Nunavut,2021A000262,Men+,100 years and older,Persons,249,units,0,v31227095,15.2.138,0,,,,0
+2024,Nunavut,2021A000262,Men+,Median age,Years,308,units,0,v480274,15.2.105,27,,,,1
+2024,Nunavut,2021A000262,Women+,All ages,Persons,249,units,0,v480254,15.3.1,20393,,,,0
+2024,Nunavut,2021A000262,Women+,0 to 4 years,Persons,249,units,0,v480470,15.3.7,2055,,,,0
+2024,Nunavut,2021A000262,Women+,5 to 9 years,Persons,249,units,0,v480284,15.3.13,2179,,,,0
+2024,Nunavut,2021A000262,Women+,10 to 14 years,Persons,249,units,0,v480302,15.3.19,2086,,,,0
+2024,Nunavut,2021A000262,Women+,15 to 19 years,Persons,249,units,0,v480323,15.3.25,1798,,,,0
+2024,Nunavut,2021A000262,Women+,20 to 24 years,Persons,249,units,0,v480344,15.3.31,1622,,,,0
+2024,Nunavut,2021A000262,Women+,25 to 29 years,Persons,249,units,0,v480362,15.3.37,1640,,,,0
+2024,Nunavut,2021A000262,Women+,30 to 34 years,Persons,249,units,0,v480383,15.3.43,1619,,,,0
+2024,Nunavut,2021A000262,Women+,35 to 39 years,Persons,249,units,0,v480401,15.3.49,1404,,,,0
+2024,Nunavut,2021A000262,Women+,40 to 44 years,Persons,249,units,0,v480422,15.3.55,1192,,,,0
+2024,Nunavut,2021A000262,Women+,45 to 49 years,Persons,249,units,0,v480443,15.3.61,1003,,,,0
+2024,Nunavut,2021A000262,Women+,50 to 54 years,Persons,249,units,0,v480461,15.3.67,1121,,,,0
+2024,Nunavut,2021A000262,Women+,55 to 59 years,Persons,249,units,0,v480482,15.3.73,999,,,,0
+2024,Nunavut,2021A000262,Women+,60 to 64 years,Persons,249,units,0,v480500,15.3.79,667,,,,0
+2024,Nunavut,2021A000262,Women+,65 to 69 years,Persons,249,units,0,v480521,15.3.85,433,,,,0
+2024,Nunavut,2021A000262,Women+,70 to 74 years,Persons,249,units,0,v480524,15.3.86,297,,,,0
+2024,Nunavut,2021A000262,Women+,75 to 79 years,Persons,249,units,0,v480527,15.3.87,149,,,,0
+2024,Nunavut,2021A000262,Women+,80 to 84 years,Persons,249,units,0,v480530,15.3.88,72,,,,0
+2024,Nunavut,2021A000262,Women+,85 to 89 years,Persons,249,units,0,v480533,15.3.89,29,,,,0
+2024,Nunavut,2021A000262,Women+,90 to 94 years,Persons,249,units,0,v31227096,15.3.126,25,,,,0
+2024,Nunavut,2021A000262,Women+,95 to 99 years,Persons,249,units,0,v31227102,15.3.132,3,,,,0
+2024,Nunavut,2021A000262,Women+,100 years and older,Persons,249,units,0,v31227108,15.3.138,0,,,,0
+2024,Nunavut,2021A000262,Women+,Median age,Years,308,units,0,v480275,15.3.105,26.5,,,,1
