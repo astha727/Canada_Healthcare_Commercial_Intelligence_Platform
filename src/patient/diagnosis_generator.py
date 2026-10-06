@@ -18,6 +18,9 @@ processed_output = (
 
 REFERENCE_DATE = pd.Timestamp("2024-07-01")
 
+OBSERVATION_START_DATE = pd.Timestamp("2014-07-01")
+OBSERVATION_END_DATE = pd.Timestamp("2024-07-01")
+
 DIAGNOSIS_SEED = 42
 DIAGNOSIS_DATE_SEED = 123
 
@@ -285,53 +288,62 @@ def age_group_to_years(
 
 def generate_diagnosis_dates(
     diagnosed_patients,
-    reference_date,
+    observation_start_date,
+    observation_end_date,
     rng
 ):
     """
-    Generate a synthetic diagnosis date between the
-    patient's minimum eligible age and the reference date.
+    Generate synthetic observed diagnosis dates within
+    the commercial observation period.
 
     Dates are synthetic and are intended to provide
-    longitudinal structure rather than reproduce
-    real disease onset patterns.
+    longitudinal structure rather than reproduce real
+    disease onset patterns.
     """
 
     earliest_dates = (
         diagnosed_patients["Birth_Date"]
         + pd.to_timedelta(
-            diagnosed_patients[
-                "Reference_Age_Years"
-            ] * 365.25,
+            diagnosed_patients["Reference_Age_Years"] * 365.25,
             unit="D"
         )
     )
 
+    earliest_observed_dates = pd.Series(
+        observation_start_date,
+        index=diagnosed_patients.index
+    )
+
+    diagnosis_start_dates = pd.concat(
+        [
+            earliest_dates,
+            earliest_observed_dates
+        ],
+        axis=1
+    ).max(axis=1)
+
     latest_dates = pd.Series(
-        reference_date,
+        observation_end_date,
         index=diagnosed_patients.index
     )
 
     date_range_days = (
         latest_dates
-        - earliest_dates
+        - diagnosis_start_dates
     ).dt.days
 
     random_days = (
-        rng.random(
-            len(diagnosed_patients)
-        )
-        * date_range_days
+        rng.random(len(diagnosed_patients))
+        * (date_range_days + 1)
     ).astype(int)
 
     return (
-        earliest_dates
+        diagnosis_start_dates
         + pd.to_timedelta(
             random_days,
             unit="D"
         )
     )
-
 
 # GENERATE ALL DIAGNOSES
 
@@ -377,7 +389,8 @@ diagnosis_date_rng = np.random.default_rng(
 all_diagnoses["Diagnosis_Date"] = (
     generate_diagnosis_dates(
         all_diagnoses,
-        REFERENCE_DATE,
+        OBSERVATION_START_DATE,
+        OBSERVATION_END_DATE,
         diagnosis_date_rng
     )
 )
@@ -498,4 +511,8 @@ print(
     "\nSaved:",
     diagnosis_output_path
 )
+
+print("Diagnosis date range:")
+print(diagnoses["Diagnosis_Date"].min())
+print(diagnoses["Diagnosis_Date"].max())
 
