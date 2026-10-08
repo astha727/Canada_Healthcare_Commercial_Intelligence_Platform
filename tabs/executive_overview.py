@@ -24,13 +24,186 @@ def show_executive_overview(
     disease_reference_ages,
     disease_display_names,
 ):
+        # --------------------------------------------------
+        # About this demo, data sources, and navigation
+        # --------------------------------------------------
+
+        st.divider()
+        st.markdown("## About This Demo")
+
+        st.markdown(
+            """
+            This interactive demo illustrates how market, disease, patient, HCP,
+            access, and competitive intelligence can be connected to support
+            life-sciences commercial decisions.
+    
+            It combines public Canadian health data with synthetic patient-level
+            and commercial activity data. The analytical outputs demonstrate a
+            decision-support approach; they are not estimates of actual market
+            performance or prescribing behaviour.
+            """
+        )
+
+        with st.expander("Data Sources & Methodology", expanded=False):
+            st.markdown("### Data sources")
+
+            data_source_rows = [
+                {
+                    "Data Domain": "Market & Disease",
+                    "Source and Approach": (
+                        "Public Canadian Chronic Disease Surveillance System "
+                        "(CCDSS) data"
+                    ),
+                    "Purpose": (
+                        "Explore disease burden and prevalence trends "
+                        "across Canada."
+                    ),
+                },
+                {
+                    "Data Domain": "HCP Universe",
+                    "Source and Approach": (
+                        "Synthetic HCP profiles and activity records, "
+                        "modelled for this demonstration."
+                    ),
+                    "Purpose": (
+                        "Support HCP segmentation, prescribing-activity "
+                        "analysis, and engagement prioritization."
+                    ),
+                },
+                {
+                    "Data Domain": "Patient Journey",
+                    "Source and Approach": (
+                        "Synthetic patient, diagnosis, treatment, and "
+                        "longitudinal event records."
+                    ),
+                    "Purpose": (
+                        "Explore patient cohorts and observed diagnosis-to-"
+                        "treatment journeys."
+                    ),
+                },
+                {
+                    "Data Domain": "Claims & Access",
+                    "Source and Approach": (
+                        "Synthetic medical and pharmacy claims."
+                    ),
+                    "Purpose": (
+                        "Examine claim outcomes, payment patterns, and "
+                        "potential access friction."
+                    ),
+                },
+                {
+                    "Data Domain": "Products & Competition",
+                    "Source and Approach": (
+                        "Product mappings and synthetic prescription activity."
+                    ),
+                    "Purpose": (
+                        "Compare product-level demand proxies and "
+                        "competitive patterns."
+                    ),
+                },
+                {
+                    "Data Domain": "Commercial Opportunities",
+                    "Source and Approach": (
+                        "Derived analytical signals calculated from the "
+                        "underlying datasets."
+                    ),
+                    "Purpose": (
+                        "Prioritize disease, therapy, geographic, and "
+                        "HCP-level opportunities for further investigation."
+                    ),
+                },
+            ]
+
+            st.dataframe(
+                pd.DataFrame(data_source_rows),
+                use_container_width=True,
+                hide_index=True,
+            )
+
+            st.markdown("### Analytical approach")
+
+            st.markdown(
+                """
+                - **Descriptive analytics:** summarize disease burden, patient
+                  cohorts, treatment activity, claims, and product patterns.
+                - **Longitudinal analysis:** connect observed patient events
+                  across diagnoses, treatments, prescriptions, and claims.
+                - **HCP analytics:** identify segments and engagement signals
+                  from synthetic HCP profiles and activity.
+                - **Opportunity prioritization:** combine relevant analytical
+                  signals to identify areas for further commercial assessment.
+                """
+            )
+
+            st.info(
+                "**Data and interpretation limitations:** Patient records, HCP "
+                "activity, prescription events, and claims are synthetic. NRx/TRx "
+                "values are proxies, and opportunity scores are analytical "
+                "prioritization signals. Results should not be interpreted as "
+                "actual prescribing, patient counts, market share, or causal evidence."
+            )
+
+        with st.expander("How to Navigate This Demo", expanded=False):
+            navigation_rows = [
+                (
+                    "Executive Overview",
+                    "What is happening across the portfolio?"
+                ),
+                (
+                    "Market & Disease",
+                    "Where is disease burden concentrated, and how is it changing?"
+                ),
+                (
+                    "Patient Journey",
+                    "What happens across diagnosis, treatment, prescriptions, "
+                    "and claims?"
+                ),
+                (
+                    "HCP & Engagement",
+                    "Which HCPs show meaningful engagement or growth signals, and why?"
+                ),
+                (
+                    "Access",
+                    "Where are claims being rejected or partially paid, and which "
+                    "patterns warrant investigation?"
+                ),
+                (
+                    "Products & Competition",
+                    "How do products compare on prescription activity, patient "
+                    "reach, and access signals?"
+                ),
+                (
+                    "Commercial Opportunities",
+                    "Which disease, province, therapy, and HCP combinations "
+                    "deserve further attention?"
+                ),
+            ]
+
+            for section_name, section_question in navigation_rows:
+                st.markdown(f"**{section_name}**")
+                st.caption(section_question)
+
+        with st.container(border=True):
+            st.markdown("### Analytical Engine vs. AI")
+
+            st.markdown(
+                """
+                **The analytical engine calculates the metrics, segments, and
+                prioritization scores. AI is used to interpret the resulting
+                evidence and generate concise commercial explanations—not to
+                invent the underlying metrics or determine the scores.**
+                """
+            )
 
         st.subheader("Executive Overview")
 
         st.caption(
-            "Overview across market, disease, "
-            "patients, HCPs, access, products, and opportunities."
-        )
+                "Overview across market, disease, "
+                "patients, HCPs, access, products, and opportunities."
+            )
+
+
+
 
         # ========================================================
         # GLOBAL FILTERS

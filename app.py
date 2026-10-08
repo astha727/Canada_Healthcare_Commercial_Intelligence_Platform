@@ -78,17 +78,21 @@ def load_processed_data():
     )
 
 
-(
-    patients,
-    diagnoses,
-    treatments,
-    rx_events,
-    hcp_master,
-    pharmacy_claims,
-    medical_claims,
-    opportunities,
-    product_master,
-) = load_processed_data()
+with st.spinner(
+    "Preparing your commercial intelligence workspace… "
+    "Loading patient, HCP, claims, market, and product data."
+):
+    (
+        patients,
+        diagnoses,
+        treatments,
+        rx_events,
+        hcp_master,
+        pharmacy_claims,
+        medical_claims,
+        opportunities,
+        product_master,
+    ) = load_processed_data()
 
 
 @st.cache_data
@@ -107,7 +111,23 @@ def load_ccdss():
     return data
 
 
-ccdss = load_ccdss()
+with st.spinner(
+    "Preparing your commercial intelligence workspace… "
+    "Loading market and commercial datasets."
+):
+    (
+        patients,
+        diagnoses,
+        treatments,
+        rx_events,
+        hcp_master,
+        pharmacy_claims,
+        medical_claims,
+        opportunities,
+        product_master,
+    ) = load_processed_data()
+
+    ccdss = load_ccdss()
 
 
 st.title("Life Sciences Commercial Intelligence Platform")
