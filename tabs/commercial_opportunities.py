@@ -32,7 +32,6 @@ disease_display_names = {
     }
 
 
-
 def show_commercial_opportunities(
     patients,
     diagnoses,
@@ -1214,59 +1213,85 @@ def show_commercial_opportunities(
 
         st.markdown("#### Top Opportunity Areas by Disease")
 
-        disease_opportunity = (
-            priority_data
-            .groupby(
-                [
-                    "Condition",
-                    "Commercial_Evidence_Category",
-                ],
-                as_index=False,
-            )
+        # ----------------------------------------------------
+        # Build disease-level metrics without double-counting
+        # diagnosed patients or treatment-gap patients.
+        # ----------------------------------------------------
+
+        disease_diagnosed_pairs = (
+            filtered_diagnosed[
+                ["Patient_ID", "Condition"]
+            ]
+            .dropna(subset=["Patient_ID", "Condition"])
+            .drop_duplicates()
+        )
+
+        disease_treated_pairs = (
+            treatments.loc[
+                treatments["Patient_ID"].isin(filtered_patient_ids),
+                ["Patient_ID", "Condition"],
+            ]
+            .dropna(subset=["Patient_ID", "Condition"])
+            .drop_duplicates()
+        )
+
+        disease_patient_status = disease_diagnosed_pairs.merge(
+            disease_treated_pairs.assign(
+                Observed_Treatment=True
+            ),
+            on=["Patient_ID", "Condition"],
+            how="left",
+        )
+
+        disease_patient_status["Observed_Treatment"] = (
+            disease_patient_status["Observed_Treatment"]
+            .fillna(False)
+            .astype(bool)
+        )
+
+        disease_patient_summary = (
+            disease_patient_status
+            .groupby("Condition", as_index=False)
             .agg(
                 Observed_Diagnosed_Patients=(
-                    "Observed Diagnosed Patients",
-                    "sum",
+                    "Patient_ID",
+                    "nunique",
                 ),
-                TRx_Proxy=(
-                    "TRx Proxy",
-                    "sum",
-                ),
-                Opportunity_Count=(
-                    "Condition",
-                    "size",
+                Observed_Treatment_Gap_Patients=(
+                    "Observed_Treatment",
+                    lambda values: int((~values).sum()),
                 ),
             )
         )
 
-        # ----------------------------------------------------
-        # Aggregate treatment-gap signal at disease level.
-        # Weighted by observed diagnosed patient volume.
-        # ----------------------------------------------------
-
-        gap_data = (
+        # Aggregate opportunity-linked activity separately.
+        # TRx is an opportunity-level proxy, not unique patients.
+        disease_activity_summary = (
             priority_data
             .groupby("Condition", as_index=False)
-            .apply(
-                lambda x: pd.Series({
-                    "Observed_Treatment_Gap_Patients": (
-                        (
-                                x["Observed Diagnosed Patients"]
-                                * x["Observed Treatment Gap (%)"]
-                                / 100
-                        ).sum()
-                    )
-                }),
-                include_groups=False,
+            .agg(
+                TRx_Proxy=("TRx Proxy", "sum"),
+                Opportunity_Count=("Condition", "size"),
             )
-            .reset_index(drop=True)
         )
 
-        disease_opportunity = disease_opportunity.merge(
-            gap_data,
+        disease_opportunity = disease_activity_summary.merge(
+            disease_patient_summary,
             on="Condition",
             how="left",
         )
+
+        disease_opportunity[
+            [
+                "Observed_Diagnosed_Patients",
+                "Observed_Treatment_Gap_Patients",
+            ]
+        ] = disease_opportunity[
+            [
+                "Observed_Diagnosed_Patients",
+                "Observed_Treatment_Gap_Patients",
+            ]
+        ].fillna(0)
 
         disease_opportunity["Observed Treatment Gap (%)"] = (
                 disease_opportunity[
@@ -1274,8 +1299,7 @@ def show_commercial_opportunities(
                 ]
                 / disease_opportunity[
                     "Observed_Diagnosed_Patients"
-                ]
-                .replace(0, pd.NA)
+                ].replace(0, pd.NA)
                 * 100
         ).fillna(0)
 
@@ -1716,3 +1740,301 @@ def show_commercial_opportunities(
             "They represent analytical commercial opportunity signals "
             "and are not clinical recommendations or causal conclusions."
         )
+
+
+    # ========================================================
+    # ROW 5 — COMMERCIAL OPPORTUNITY BRIEF
+    # ========================================================
+
+    st.divider()
+    st.markdown("### Commercial Opportunity Brief")
+
+    st.write(
+        "Explore the evidence behind a disease-level priority, "
+        "understand the commercial signal, and identify what to "
+        "investigate next."
+    )
+
+    if disease_opportunity.empty:
+
+        st.info(
+            "No opportunity brief is available for the selected filters."
+        )
+
+    else:
+
+        # ----------------------------------------------------
+        # Select a disease from the current priority landscape
+        # ----------------------------------------------------
+
+        brief_conditions = (
+            disease_opportunity["Condition"]
+            .drop_duplicates()
+            .tolist()
+        )
+
+        selected_brief_condition = st.selectbox(
+            "Select a disease area",
+            options=brief_conditions,
+            format_func=lambda condition: disease_display_names.get(
+                condition,
+                condition,
+            ),
+            key="commercial_opportunity_brief_condition",
+        )
+
+        brief = disease_opportunity.loc[
+            disease_opportunity["Condition"]
+            == selected_brief_condition
+        ].iloc[0]
+
+        brief_condition_name = brief["Condition Display"]
+        brief_diagnosed = int(
+            brief["Observed_Diagnosed_Patients"]
+        )
+        brief_gap = float(
+            brief["Observed Treatment Gap (%)"]
+        )
+        brief_gap_patients = int(
+            brief["Observed_Treatment_Gap_Patients"]
+        )
+        brief_trx = float(
+            brief["TRx_Proxy"]
+        )
+        brief_opportunities = int(
+            brief["Opportunity_Count"]
+        )
+        brief_score = float(
+            brief["Opportunity Priority Score"]
+        )
+
+        median_diagnosed = disease_opportunity[
+            "Observed_Diagnosed_Patients"
+        ].median()
+
+        median_trx = disease_opportunity[
+            "TRx_Proxy"
+        ].median()
+
+        # ----------------------------------------------------
+        # Evidence snapshot
+        # ----------------------------------------------------
+
+        st.markdown(
+            f"#### Evidence Snapshot: {brief_condition_name}"
+        )
+
+        brief_kpi1, brief_kpi2, brief_kpi3, brief_kpi4 = (
+            st.columns(4)
+        )
+
+        with brief_kpi1:
+            st.metric(
+                "Diagnosed Patients",
+                f"{brief_diagnosed:,}",
+            )
+
+        with brief_kpi2:
+            st.metric(
+                "Observed Treatment Gap",
+                f"{brief_gap:.1f}%",
+            )
+
+        with brief_kpi3:
+            st.metric(
+                "TRx Proxy",
+                f"{brief_trx:,.0f}",
+            )
+
+        with brief_kpi4:
+            st.metric(
+                "Opportunity Areas",
+                f"{brief_opportunities:,}",
+            )
+
+        st.metric(
+            "Opportunity Priority Score",
+            f"{brief_score:.2f}",
+        )
+
+        # ----------------------------------------------------
+        # Explain the score using its actual components
+        # ----------------------------------------------------
+
+
+        # ----------------------------------------------------
+        # Explain the weighted contribution to the priority score
+        # ----------------------------------------------------
+
+        st.markdown("#### Priority Score Breakdown")
+
+        brief_volume_contribution = (
+            0.40 * float(brief["Diagnosed Score"])
+        )
+        brief_gap_contribution = (
+            0.30 * float(brief["Treatment Gap Score"])
+        )
+        brief_trx_contribution = (
+            0.30 * float(brief["TRx Score"])
+        )
+
+        brief_calculated_score = (
+            brief_volume_contribution
+            + brief_gap_contribution
+            + brief_trx_contribution
+        )
+
+        score_col1, score_col2, score_col3, score_col4 = (
+            st.columns(4)
+        )
+
+        with score_col1:
+            st.metric(
+                "Patient Volume",
+                f"{brief_volume_contribution:.3f}",
+                help="Weighted contribution: 40% of the composite score.",
+            )
+
+        with score_col2:
+            st.metric(
+                "Treatment Gap",
+                f"{brief_gap_contribution:.3f}",
+                help="Weighted contribution: 30% of the composite score.",
+            )
+
+        with score_col3:
+            st.metric(
+                "TRx Activity",
+                f"{brief_trx_contribution:.3f}",
+                help="Weighted contribution: 30% of the composite score.",
+            )
+
+        with score_col4:
+            st.metric(
+                "Calculated Total",
+                f"{brief_calculated_score:.3f}",
+                help=(
+                    "Sum of the three weighted contributions. "
+                    "The headline priority score is rounded to two decimals."
+                ),
+            )
+
+
+        # ----------------------------------------------------
+        # Deterministic commercial interpretation
+        # ----------------------------------------------------
+
+        if (
+            brief_gap >= 30
+            and brief_diagnosed >= median_diagnosed
+        ):
+            brief_signal = (
+                "Higher observed patient volume combined with a "
+                "relatively high treatment-gap signal."
+            )
+
+            brief_interpretation = (
+                f"{brief_condition_name} merits further investigation "
+                "because the observed diagnosed population and "
+                "treatment-gap signal are both substantial relative "
+                "to the disease areas in the current priority set."
+            )
+
+            brief_next_step = (
+                "Investigate treatment initiation patterns, relevant "
+                "medical and pharmacy claim outcomes, and the HCP "
+                "segments associated with this disease. Validate "
+                "whether the apparent gap persists in reliable "
+                "real-world data."
+            )
+
+        elif brief_gap >= 30:
+            brief_signal = (
+                "Elevated treatment-gap signal, with a smaller "
+                "diagnosed population relative to the current priority set."
+            )
+
+            brief_interpretation = (
+                "The treatment-gap signal may be worth exploring, "
+                "but the population size and denominator should be "
+                "reviewed before assigning substantial commercial "
+                "priority."
+            )
+
+            brief_next_step = (
+                "Review the cohort size, treatment definitions, "
+                "and claim outcomes. Determine whether the signal "
+                "is sufficiently robust to justify deeper assessment."
+            )
+
+        elif brief_trx >= median_trx:
+            brief_signal = (
+                "Relatively high observed prescription activity."
+            )
+
+            brief_interpretation = (
+                "The TRx proxy contributes to this disease area's "
+                "priority. This may indicate established activity "
+                "within the synthetic opportunity universe, rather "
+                "than an independently verified market opportunity."
+            )
+
+            brief_next_step = (
+                "Examine the contributing products, therapy classes, "
+                "and HCP segments. Validate the activity pattern "
+                "against appropriate real-world prescription data."
+            )
+
+        else:
+            brief_signal = (
+                "Developing or comparatively lower-priority signal."
+            )
+
+            brief_interpretation = (
+                "The current signals do not establish the same "
+                "combination of patient volume, treatment gap, "
+                "and prescription activity as stronger-ranked areas."
+            )
+
+            brief_next_step = (
+                "Monitor the disease area and review additional "
+                "patient, HCP, product, and access evidence before "
+                "committing further commercial resources."
+            )
+
+        # ----------------------------------------------------
+        # Render the decision brief
+        # ----------------------------------------------------
+
+        st.markdown("#### Commercial Interpretation")
+
+        st.write(brief_signal)
+        st.write(brief_interpretation)
+
+        st.markdown("#### Recommended Next Investigation")
+
+        st.info(brief_next_step)
+
+        with st.expander(
+            "Methodology and interpretation limitations"
+        ):
+            st.markdown(
+                f"""
+                - **Priority score:** 40% normalized diagnosed-patient
+                  volume, 30% observed treatment-gap rate, and 30%
+                  normalized TRx proxy.
+                - **Treatment gap:** diagnosed patient-condition pairs
+                  without an observed treatment record in the selected
+                  cohort. This is a synthetic-data signal, not proof
+                  of unmet clinical need.
+                - **TRx proxy:** an aggregated opportunity-level
+                  prescription activity measure. It is not a count
+                  of unique patients or a validated market forecast.
+                - **Opportunity areas:** HCP-condition-therapy
+                  opportunity records; multiple records may relate
+                  to the same disease or patient population.
+                - **Comparisons:** relative scores depend on the
+                  selected filters and the disease areas included in
+                  the current priority set.
+                """
+            )
